@@ -1,0 +1,5 @@
+
+# To enable flashing matching parentheses
+M-x show-paren-mode
+http://www.gnu.org/software/emacs/windows/old/big.html#highlight-paren
+

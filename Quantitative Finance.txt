@@ -1,0 +1,2935 @@
+###########
+### To Do
+
+# develop flipped classroom model
+I'm very interested in converting some of my materials to an online, interactive tutorial for the purpose of developing a flipped classroom model.  Below is a link to my lecture materials. 
+The PDF files contain the narration text, formulas, and R code. Most slides have narration and formulas on the left, and the corresponding R code on the right.
+For example you can take a look at time_series_multivariate.pdf
+I also provide .R files containing the code, so that students can execute the code as they listen to the lecture. The lecture materials also contain .RData files with sample data. 
+https://drive.google.com/open?id=0Bxzva1I0t63vVGEtaXNIY1JMa00
+
+# contribute to quant-lab
+https://r-forge.r-project.org/projects/quant-lab/
+
+# create website
+https://wp.nyu.edu/
+
+# get certification from AcademyR
+http://www.revolutionanalytics.com/academyr-training-education
+
+# Regression Models course
+https://class.coursera.org/regmods-004/wiki/Lecture_note_links
+https://github.com/algoquant/courses
+http://www.rpubs.com/santam/logistic-regression
+
+# write gitbook
+https://www.gitbook.io/explore
+
+# answer questions:
+http://quant.stackexchange.com/questions/11413/how-to-compute-daily-skewness-of-sp-daily-return-timeseries-under-no-other-more
+http://stats.stackexchange.com/questions/97783/understanding-vec2var-conversion-in-r
+# needs an answer
+http://quant.stackexchange.com/questions/9773/ib-with-r-which-package
+
+
+
+###########
+### quant top people resources
+
+# Brian Peterson and Joshua Ulrich
+Brian Peterson: Quantitative Strategy Development
+https://r-forge.r-project.org/scm/viewvc.php/*checkout*/pkg/quantstrat/sandbox/backtest_musings/strat_dev_process.pdf?root=blotter
+https://www.youtube.com/channel/UC0ZtUJOGGei4w5lxA_p8YKg
+packages quantstrat, TTR, PerformanceAnalytics
+Jeff Ryan packages xts, quantmod
+Matt Dowle package data.table
+
+# Aleksey Zemnitskiy Snowfall Systems PortfolioEffect
+
+# top kaggle machine learning packages: 
+glmnet for Lasso and elastic-net regularized generalized linear models
+gbm for gradient boosted ensemble models
+e1071 for support vector machines C++ library libsvm
+
+# Benjamin E. Van Vliet at IIT Chicago
+http://stuart.iit.edu/faculty/benjamin-van-vliet
+
+
+
+###########
+### quant other people resources
+
+# Attilio Meucci - KKR, SYMMYS, KEPOS
+http://www.symmys.com
+
+# The Thalesians
+http://www.thalesians.com/finance/index.php/Main_Page
+
+http://cran.stat.ucla.edu/web/views/Finance.html
+
+http://matlab-trading.blogspot.ca
+http://tradingwithpython.blogspot.com
+http://www.statsblogs.com/tag/asset-allocation
+
+http://quantivity.wordpress.com
+
+# Empirical Finance
+http://cran.r-project.org/web/views/Finance.html
+
+# David Easley at Cornell: VPIN metric, volume clock, high frequency trading, machine learning
+http://infosci.cornell.edu/faculty/david-easley
+
+
+
+###########
+### academics associations
+
+# academic research websites top
+http://blog.alphaarchitect.com/2015/04/01/where-to-find-cool-academic-finance-research/
+
+# Q Group - Institute for Quantitative Research
+http://www.q-group.org/
+# Jack Treynor Prize Winners
+http://www.q-group.org/jack-treynor-prize-winners/
+
+# Real World Risk Institute by Nassim Taleb and Robert J. Frey (from Renaissance Technologies)
+http://realworldrisk.com/
+
+# Thalesians by Paul Bilokon at Deutsche Bank and Matthew Dixon in NYC 
+http://www.thalesians.com/finance/index.php/Main_Page
+
+# Francis Diebold
+http://fxdiebold.blogspot.com/
+
+# Christopher Krauss Statistical Arbitrage Pairs Trading market anomalies momentum strategies value strategies
+http://www.statistik.wiso.uni-erlangen.de/lehrstuhl/mitarbeiter/krauss.shtml
+
+# Tim Leung University of Washington Pairs Trading
+https://sites.google.com/site/timleungresearch/
+
+# Thierry Roncalli - Kalman filter
+http://www.thierry-roncalli.com/
+
+# Andrea Frazzini - AQR & NYU
+http://www.econ.yale.edu/~af227/
+http://pages.stern.nyu.edu/~sternfin/afrazzini/index.htm
+http://www.stern.nyu.edu/faculty/bio/andrea-frazzini
+
+# Zura Kakushadze Quantigic Solutions
+http://www.quantigic.com
+
+# Nassim Nicholas Taleb
+http://nassimtaleb.org/
+http://www.fooledbyrandomness.com/
+
+# Drew Creal Time-Varying Parameter Time Series GAS Models
+http://faculty.chicagobooth.edu/drew.creal/
+
+# Campbell R. Harvey backtesting data mining bonferroni adjustment
+http://www.fuqua.duke.edu/faculty_research/faculty_directory/harvey/
+
+# Wayne Ferson investment performance evaluation
+http://www-bcf.usc.edu/~ferson/
+
+# John H. Cochrane - Chicago Booth & AQR
+http://faculty.chicagobooth.edu/john.cochrane/
+# excellent courses, but no concise notes
+http://faculty.chicagobooth.edu/john.cochrane/teaching/index.htm
+# Notes for Time Series for Macroeconomics and Finance
+http://faculty.chicagobooth.edu/john.cochrane/research/papers/time_series_book.pdf
+# Asset Pricing
+https://www.coursera.org/course/assetpricing
+
+# Andrew Ang factors, anomalies
+http://www.columbia.edu/~aa610/index.html
+
+# Bruce E. Hansen - free econometrics manuscript
+http://www.ssc.wisc.edu/~bhansen/
+http://www.ssc.wisc.edu/~bhansen/crete/
+
+# Ludwig Chincarini book Quantitative Equity Portfolio Management
+http://www.usfca.edu/Faculty/Management/Ludwig_Chincarini/
+
+# Matt Brigida teaching resources using R/Shiny
+matt@complete-markets.com
+http://complete-markets.com/sample-page/
+https://github.com/Matt-Brigida
+
+# Meese Rogoff Currency Forecasting Paper
+http://www.ssc.wisc.edu/~bhansen/390/MeeseRogoff.pdf
+
+# Robert Almgren - friend of Neil Chriss - Quantitative Brokers, high frequency volatility, order book
+http://quantitativebrokers.com/
+http://www.courant.nyu.edu/~almgren/
+
+# Petter Kolm Director of Mathematics in Finance Program at NYU Courant
+# teaches Algorithmic Trading and Quantitative Strategies
+petter.kolm@nyu.edu
+http://www.cims.nyu.edu/~kolm/
+http://www.thestreet.com/story/10395354/1/how-nyu-plans-to-create-the-super-quant.html
+
+# Peter Phillips (Yale professor) - unit root tests
+http://korora.econ.yale.edu/phillips
+
+# Alvaro Cartea - high frequency trading
+http://www.cartea.net/
+https://sites.google.com/site/alvarocartea/home/working_papers
+http://scholar.google.com/citations?user=Kfl6fVQAAAAJ
+http://www.ucl.ac.uk/maths/courses/msc-financial
+https://sites.google.com/site/algorithmictradingbook/
+
+# Sebastian Jaimungal - high frequency trading
+http://www.utstat.utoronto.ca/sjaimung/
+
+# Brandt Fuqua high frequency data intertemporal portfolio choice
+http://people.duke.edu/~mbrandt/index.html
+
+# Paolo Guasoni - Alpha Actively Managed Funds Optimal Consumption Utility very mathematical
+http://www.guasoni.com/
+http://www.bu.edu/math/people/faculty/mathematical-finance/guasoni/
+http://www.dcu.ie/info/staff_member.php?id_no=3877
+
+# Blake LeBaron agent based models nonlinear time series BDS test sofware
+http://people.brandeis.edu/~blebaron/soft.html
+# Santa Fe Artificial Stock Market simulation
+http://artstkmkt.sourceforge.net/
+The stock market simulation has agents following different trading rules.
+The simulation exhibits bubbles and crashes.
+The model finds an inverse relationship between diversity and asset price.
+As an asset price reaches its peak, the diversity of trading rules 
+reaches its trough. (JP: I guess other trading rules are stop-lossed out?)
+
+# Detecting Critical Transitions in Time series and Spatial data
+http://www.early-warning-signals.org/home/
+http://www.early-warning-signals.org/resources/code/
+http://www.early-warning-signals.org/time-series-methods/metric-based-indicators/bds-test/
+http://www.early-warning-signals.org/time-series-methods/metric-based-indicators/
+http://www.early-warning-signals.org/time-series-methods/model-based-indicators/
+# earlywarnings package
+http://www.vasilisdakos.info/
+http://www.early-warning-signals.org/resources/code/
+https://github.com/earlywarningtoolbox
+http://cran.r-project.org/web/packages/earlywarnings/index.html
+
+# Wageningen University complex systems critical transitions
+http://www.sparcs-center.org/
+# Self-organized allocation to research crowdfunding democratization decentralization
+http://www.sparcs-center.org/news/44/21/Self-organized-fund-allocation-SOFA.html
+https://omslag.de/onderzoeksfinanciering/de-wijze-massa/
+
+# William A. Brock economist Growth Theory Nonlinear Dynamics complex systems
+https://en.wikipedia.org/wiki/William_A._Brock
+
+# Riccardo Rebonato
+http://www.marketswiki.com/mwiki/Riccardo_Rebonato
+http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2146897
+
+# German Creamer - Stevens Institute of Technology
+http://web.stevens.edu/research/faculty_profile.php?faculty_id=1448
+http://www.creamer-co.com/
+
+# Carl Bacon book Practical Portfolio Performance Measurement and Attribution
+
+# Andreas Steiner - consultant dislikes alpha
+http://www.andreassteiner.net/
+https://www.linkedin.com/in/andreassteiner
+http://www.andreassteiner.net/consulting/
+http://www.andreassteiner.net/consulting/publications.html
+
+
+
+###########
+### traders strategists investors
+
+# Blair Hull CEO of Ketchum Trading
+http://www.investopedia.com/news/3-trading-lessons-blair-hull/
+# HTUS Hull Tactical ETF
+https://finance.yahoo.com/quote/HTUS/?p=HTUS
+
+# Jens Nordvig top currency and macro strategist at Bridgewater Associates founder of Exante Data
+http://jensnordvig.com/
+http://exantedata.com/
+http://www.bloomberg.com/news/features/2016-09-15/wall-street-s-0-01-the-guru-who-only-talks-to-hedge-fund-elite
+
+
+
+###########
+### thoughts
+
+I'm more interested in building an assembly line of quantitative trading models, rather than crafting a single trading model.
+Bring quantitative trading models into the industrial age. 
+
+# Prerequisites for algorithmic trading strategies
+Algorithmic trading requires a pipeline of strategies, not just a single strategy that looks promising. 
+Algorithmic trading requires a strategy lifecycle. 
+The critical question is when should a strategy be retired?  If it hits a stop-loss?  How to determine stop-loss amount?  Using bootstrap of backtesting, to determine potential drawdowns and distribution of potential returns. 
+
+Strategies that trade infrequently can't really be tested properly. 
+Strategies that identify a few successful trades 
+High frequency data is needed for quant strategies for several reasons. 
+machine learning isn't effective for strategies that trade infrequently (weekly, monthly)
+machine learning requires trading events 
+strategies which trade more often (intraday)
+for learning
+
+bias-variance tradeoff
+
+Optimization in the presence of noise leads to spurious 
+
+
+
+# The reason skewness caught my attention as an indicator is because of the Amaya paper that I cited in my presentation.  There's growing research showing that positive skewness in stock returns may predict their lower future returns.  The analogue is buying options.  When you buy an option you get positively skewed returns, but you must also pay an option premium, which lowers future returns.  
+
+# Finance theory states that it's not possible to obtain positive returns without taking risks (there's no free lunch)
+One of the basic principles of finance theory is the relationship between risk and return on investment.
+It doesn't mean that taking risk guarantees positive returns, because there are many strategies with lots of risk but no positive returns.  
+It means that the best performing strategies that do produce positive returns can't avoid taking risks.
+It also means that strategies that don't take any risks can't produce positive returns.
+
+# Capital Asset Pricing Model (CAPM) states that higher returns are only possible by taking more risk
+We first select all the strategies that take the same level of risk, and then we select the best performing strategy from those strategies.  
+Then we compare the returns of these best performing strategies with their levels of risk.
+The CAPM states that the returns of the best performing strategies are proportional to their levels of risk.
+In other words, you can't obtain higher returns without taking more risk.  
+But the CAPM doesn't promise higher returns for taking more risk, since ther are many strategies with lots of risk but no positive returns.  
+
+# Finance theory states that arbitrage isn't possible in well functioning markets
+Arbitrage means buying something at a lower price and immediately selling it at a higher price.  
+Arbitrage is a strategy that doesn't take any risks, and finance theory states that it therefore shouldn't be able to produce positive returns either.  
+Even though arbitrage shouldn't be possible in well functioning markets at equilibrium, arbitrage is often possible in real markets.
+
+# Statistical arbitrage involves buying something at a lower price and selling it later at a higher price, or vice versa, first selling it and later buying it back at a lower price.  
+Statistical arbitrage is based on past statistical observations of price patterns, and occurs on a scale of several days or less.  
+Statistical arbitrage isn't riskless, since it involves owning a position for some time.  
+But statistical arbitrage is able to reduce risk on average over many trading cycles.  
+
+# Investors have a desire for assets with positive skewness, similar to lottery tickets (options). 
+This may be caused by 
+reduces their future returns. 
+
+low beta anomaly caused by demand for positive skewness (lottery) which reduces future returns  
+Bali Betting Against Beta Lottery Demand.pdf  
+Recent academic research is suggesting the existence of risk premia associated with higher moments of the return distribution.
+For example skewness (third moment) is believed to predict lower future returns.
+This may be caused by investor demand for assets with positive skewness (lottery tickets), which reduces their future returns. 
+We explore this phenomenon using high frequency data, since it allows for more accurate and timely estimation of higher order moments (bias-variance tradeoff).
+Furthermore, we also explore the interaction between skewness and the momentum factor, since some recent research is suggesting that momentum returns are enhanced by skewness.
+But using high frequency data can present a challenge, since the data size may cause R programs to run very slowly.
+We demonstrate how to perform the analysis using vectorized R code designed for speed.
+We present our results using interactive visualizations afforded by new R packages.
+
+
+
+###########
+### trading strategy ideas:
+
+# is VIX trading volume able to forecast returns, or is volume just a proxy for volatility?
+
+# VIX Futures term structure strategies
+http://quantpedia.com/Screener/Details/198
+
+# VIX/SPX trading strategies
+http://www.bloomberglabs.com/quantitative-finance/research/vixspx-trading-strategies/
+SPX mean reversion strategy using the spread between daily and weekly realized variance
+VIX futures pair/spread strategy using the term-structure of VIX futures
+
+# short SPX ATM puts strategy
+http://www.thestreet.com/story/12770794/1/a-simple-options-trading-strategy-that-beats-the-sp-500.html
+
+# test strategy where you exploit trending into market close:
+jump on the trend in the last hour, then reverse position at the close, and reverse again at next day open
+
+# perform portfolio optimization using two time scales (lookback periods)
+estimate correlation matrix on a long lookback period
+estimate returns on a short lookback period
+the bias-variance tradeoff for correlation should be different than for returns
+it's better to estimate returns on a short lookback period, but there's 
+no benefit to use short lookback period for estimating correlation 
+
+# perform running portfolio optimization assuming zero or constant correlations
+update correlations over longer lookback periods 
+perform running portfolio optimizations over shorter lookback periods 
+invest in the portfolio based on its trailing return
+use variance forecasts (instead of realized variance) to estimate portfolio variance 
+demonstrate that this portfolio is forecastable in-sample
+demonstrate that it's also forecastable out-of-sample
+explore shrinkage: does it improve forecastability?
+explore long-only weights: that is just index (market portfolio)
+explore mean reverting strategy: over intra-day period apply rule:
+if realized return is higher than expected, then reduce long position, and vice versa
+similar for expected negative return
+
+# instead of optimizing portfolio for highest Sharpe, optimize for highest forecastability
+is highest forecastability similar to lowest variance?
+answer: highest Hurst exponent 
+can Hurst exponent be forecast?
+create scatterplot of many portfolios: variance versus Hurst exponent 
+use package ForeCA by Georg M. Goerg at Google NYC
+http://fastml.com/are-stocks-predictable/
+http://stats.stackexchange.com/questions/126829/how-to-determine-forecastability-of-time-series
+http://stats.stackexchange.com/questions/23007/assessing-forecastability-of-time-series?lq=1
+
+calculate portfolio indicator similar to Sharpe: portfolio return divided by volatility
+
+# forecastable component analysis package ForeCA
+# find beta that maximizes Hurst
+portfolio of stock plus beta times index
+what is the beta that maximizes the portfolio's Hurst exponent?
+is the beta stable over different intervals out-of-sample?
+http://artax.karlin.mff.cuni.cz/r-help/library/ForeCA/html/ForeCA-package.html
+
+# estimating Hurst exponent C++ code
+http://www.bearcave.com/misl/misl_tech/wavelets/hurst/
+http://www.bearcave.com/misl/misl_tech/wavelets/hurst/doc/index.html
+
+# regress running Hurst exponent versus running volatility
+regress running Hurst exponent versus returns over same lag
+
+# if variance can be forecast, then forecasts can be used in pairs rebalancing trading
+buy SPX and VIX and rebalance when SPX becomes cheap and vice versa
+entry points are determined by forecasted volatility of SPX and VIX
+
+# study periods of high volatility (variance) spikes
+calcuate histogram of volatility - what's the distribution? chi-squared?
+fit the chi-squared distribution using MoMoments
+
+# identify periods around volatility spikes - say 100 bars before and after
+what's the distribution of returns from period start to peak volatility,
+and from peak volatility to period end?
+
+# calculate Hurst exponent for volatility spikes, before min and after min
+are returns autocorrelated around volatility spikes? yes
+draw scatterplot of daily Hurst exponent versus volatility
+draw scatterplot of Hurst exponent versus volatility spikes
+
+create ARIMA model where autocorrelation term is weighted by level of VIX
+create ARIMA model with correlation of returns to level of VIX
+	negative correlation means returns are skewed to downside when VIX is high
+
+# calculate daily seasonality of Hurst exponent
+
+# forecast stock index using VIX
+high VIX produces high future returns
+invest SPX notional inverse to VIX level
+hysteresis: buy SPX at higher VIX, sell SPX at lower VIX, 
+Martin VIX Variance Stock Premium Forecasting.pdf
+Bollerslev Stock Forecasting Volatility Market Premiums.pdf
+Campbell Stock Forecasting.pdf
+
+# create basic futures strategies:
+# VIX/SPY
+# VIX/VIX term
+# VIX/TSY
+# TSY/TSY term
+Nagel Liquidity Premium Mean Reversion VIX Strategy.pdf
+Donninger VIX Futures Basis Strategy.pdf
+
+# VIX Futures ETF UVXY  
+http://www.bloomberg.com/news/articles/2016-04-22/record-vix-bets-keep-surging-as-wall-street-divines-mixed-signal
+
+# study trading strategy that is short at period start, then flips long 
+and rides recovery
+
+# forecast price bottom or volatility peak from moving averages
+is there some scaling law?
+
+# forecast variance using different models
+variance can be forecast using GARCH
+create indicator of variance trend from two VW Avg Variance
+does the forecast variance also help to forecast returns?
+
+# divide time into periods of low volatility and high volatility
+calculate Hurst exponent in each period
+
+# create trading strategy 
+thesis: volatility is forecastable, 
+returns are forecastable in periods of high volatility
+identify when volatility will spike, and follow return trend in periods of high volatility
+
+# perform Gram–Schmidt procedure to obtain PCA
+repeat Gram–Schmidt procedure but maximize Hurst or SR, instead of variance
+interpret the max Hurst components and observe how they change
+regularize the procedure (shrinkage)
+regress the max Hurst components against SPY
+
+# draw scatterplot of daily SD versus daily returns
+
+# create trading strategy with dual indicators
+slow indicator for momentum and fast indicator for mean reversion
+trade only on fast indicator, but bias its positions using slow indicator
+when slow indicator indicates long position, 
+then fast indicator should switch between long and flat positions, and vice versa
+
+# volatility reduction translates into growth
+Kelly criterion
+
+# volatility estimation
+Stroud High Frequency Forecasting Volatility VIX VXX Strategy
+
+# volatility pumping strategy
+http://www-isl.stanford.edu/~cover/portfolio-theory.html
+
+# Thomas Cover Universal Portfolios
+https://en.wikipedia.org/wiki/Universal_portfolio_algorithm
+Cover Universal Portfolios MathFin.pdf
+Cover Universal Portfolios.pdf
+
+Witte Trading Volatility Pumping Harvesting.pdf
+Witte SaP500_HistPrices.R
+Witte FTSE_DAX_DJIA_FollowWinners.R
+Heaton Stock Selection Active Portfolio Management.pdf
+Johannes Stock Forecasting Intertemporal Universal Portfolios Choice.pdf
+
+http://optimallog.blogspot.com/2012/06/universal-portfolio-part-6.html
+http://optimallog.blogspot.com/2012/07/universal-portfolio-part-9.html
+http://optimallog.blogspot.com/2012/08/universal-portfolio-part-10.html
+
+# Parrondo's paradox Brownian ratchet
+https://en.wikipedia.org/wiki/Parrondo%27s_paradox
+http://www.cut-the-knot.org/ctk/Parrondo.shtml
+http://seneca.fis.ucm.es/parr/GAMES/Paradox%20in%20Game%20Theory%20Losing%20Strategy%20That%20Wins.htm
+http://www.nytimes.com/2000/01/25/science/paradox-in-game-theory-losing-strategy-that-wins.html
+
+http://parrondoparadox.blogspot.com.es/2011/02/parrondos-paradox-stock-market.html
+http://quant.stackexchange.com/questions/1710/proof-that-you-cannot-beat-a-random-walk
+http://quant.stackexchange.com/questions/352/volatility-pumping-in-practice
+http://quant.stackexchange.com/questions/10887/harnessing-small-correlations-for-reliable-profit
+
+# Brownian flashing ratchet
+https://en.wikipedia.org/wiki/Brownian_ratchet
+http://www.imsc.res.in/~sitabhra/research/persistence/page1.html
+http://www.imsc.res.in/~sitabhra/research/persistence/page2.html
+http://www.imsc.res.in/~sitabhra/research/persistence/page3.html
+
+# risk parity strategy
+First day of every month, sell all portfolio holdings at market. Same day, buy 50 random stocks from the S&P 500 constituents. Weight positions by inverse volatility, i.e. simple vola parity sizing. Always be fully invested.
+http://www.followingthetrend.com/2015/06/a-random-ass-kicking-of-wall-street/
+
+# risk parity by Bridgewater Associates
+https://www.linkedin.com/pulse/our-thoughts-risk-parity-all-weather-ray-dalio?trk=hp-feed-article-title-ppl-follow
+
+
+# use turning points in bearish percentage as buy/sell signals
+http://www.zerohedge.com/news/2015-02-16/secular-death-market-bears-continues
+
+
+# Two-Envelope Paradox
+http://phys.org/news/2009-08-strategy-two-envelope-paradox.html
+
+
+# send email to Josh at OneTick
+
+# Random forest simple illustration
+http://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/
+http://www.analyticsvidhya.com/blog/2014/06/comparing-cart-random-forest-1/
+
+# hosting Python and R models
+https://yhathq.com/
+https://github.com/yhat
+
+# Raffael Vogler
+http://www.joyofdata.de/blog/testing-linear-separability-linear-programming-r-glpk/
+http://www.joyofdata.de/blog/category/machine-learning/
+http://www.joyofdata.de/blog/
+
+# Decision trees in Tableau using R
+http://boraberan.wordpress.com/2014/02/07/decision-trees-in-tableau-using-r/
+
+https://medium.com/code-poet/machine-learning-is-fun-80ea3ec3c471
+
+# Replicate Paper with R and rCharts: AQR Dispelling Myths of Momentum 
+http://timelyportfolio.github.io/rCharts_factor_analytics/aqr_fact_fiction_momentum.html
+https://github.com/timelyportfolio/rCharts_factor_analytics/
+http://timelyportfolio.blogspot.com/2014/06/dispelling-myths-of-momentum-aqr.html
+http://seekingalpha.com/article/2226863-myths-about-momentum-part-i
+http://seekingalpha.com/article/2229023-myths-about-momentum-part-ii
+
+http://quantstrattrader.wordpress.com/
+
+# take Tour of Machine Learning Algorithms
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+# Build a Machine Learning Portfolio: Curate Your Models Like a Gallery
+http://machinelearningmastery.com/build-a-machine-learning-portfolio/
+http://machinelearningmastery.com/machine-learning-that-matters/
+
+# explore publishing on:
+https://medium.com/
+
+
+
+
+###########
+### Papers to read
+
+Taleb Silent Risk.pdf
+
+Cartea Algorithmic Trading with Learning.pdf
+https://sites.google.com/site/algorithmictradingbook/
+
+Qian Multiple Classifiers Stock Forecasting
+
+German Creamer Logitboost Trading
+
+Carr Optimal Trading Rules Without Backtesting
+
+Rinne Seasonality Turn of the Month Stock Returns
+
+DeMiguel Optimal Simple Portfolio Diversification
+
+Prado Moment Skewness Kurtosis Gaussian Mixture Performance Tracking
+
+Bailey Prado Strategy Overfitting Cross-validation
+Bailey Prado Portfolio Optimization Algorithm
+
+Faber Relative Strength Investment Strategies
+
+Pav Markowitz Portfolio Distribution
+
+Pav Markowitz Portfolio Signal Noise Ratio
+
+Gatheral Random Matrix Theory Covariance Estimation
+
+Bailey Prado Deflated Sharpe Ratio Overfitting
+
+Daniel Momentum Crashes
+
+Amaya Skewness Momentum Equity Returns
+"We find a very strong negative relationship between realized skewness and next week's stock returns."
+"A trading strategy that buys stocks in the lowest realized skewness decile and sells stocks in the highest realized skewness decile generates an average weekly return of 24 basis points with a t-statistic of 3:65."
+Yang Volatility Filtering Technical Trading
+Han Sorted Portfolios Trading Anomaly
+Blitz Short-Term Residual Reversal
+QUSMA ETF Daily Mean Reversion
+Rudy Mean Reversion After Large Drops
+
+Prado Backtesting Overfitting
+Bailey Backtesting Overfitting
+Bailey Backtesting Overfitting Cross-validation
+Lo Adaptive Markets Hypothesis
+Sutton Ensemble Learning Bagging Bootstrapping Boosting AdaBoost
+Sutton Classification Evaluation Cross Validation Hypothesis Testing
+
+Moskowitz Time Series Momentum
+Bandarchuk Volatility and Momentum
+Frazzini Buffett’s Alpha
+Asness Quality Minus Junk
+Blitz Global Tactical Cross-Asset Allocation
+Israel Size Value Momentum Anomalies
+Keller Shrinkage Momentum Asset Allocation
+Keller Momentum Markowitz Asset Allocation
+Mitra Hurst Exponent Forecasting Financial Time Series
+Grossmann Inverse Volatility Trading
+
+Charpentier Bayesian Analysis Frequentist Hypothesis Testing.pdf
+Masson Bayesian Analysis Frequentist Hypothesis Testing.pdf
+
+
+
+###########
+### suggest stackoverflow to dummies
+
+You may want to submit your question to Stack Overflow:
+http://stackoverflow.com/
+
+In my opinion Stack Overflow is the best question and answer forum for programming.
+But be sure to follow the rules of posting questions.
+
+
+
+###########
+### jobs in past
+
+
+###########
+### NYU Tandon School of Engineering
+
+http://engineering.nyu.edu/academics/departments/finance/people
+
+http://www.nyu.edu/search.directory.html?search=name%3Dpawlowski%26location%3DNew+York
+
+http://engineering.nyu.edu/life/student-resources/registrar/academic-calendar#fall14
+
+# Roy S. Freedman Inductive Solutions Artificial Intelligence Compliance Credit Interest Rate Models
+http://en.wikipedia.org/wiki/Roy_S._Freedman
+http://www.inductive.com/index.htm
+http://www.inductive.com/rsfbio.htm
+
+
+
+###########
+### people I know
+
+# Jonathan Stein
+http://www.energyriskusa.com/static/jonathan-stein
+
+
+###########
+### R/Finance Chicago
+
+### R/Finance Chicago 2016 best presentations
+Jason Foster
+Douglas Service
+Qiang Kou
+Piotr Orlowski
+Bryan Lewis
+Mark Bennett
+Matt Brigida
+Michael Kane
+Xiao Qiao
+Frank Diebold
+Eran Raviv
+
+
+
+###########
+### news articles
+
+# news blog data c++
+https://tfetimes.com/
+
+# (09-12-16) Volatility targeting and risk parity quant funds may be forced to sell in a market selloff as volatility andd correlations increase
+http://www.bloomberg.com/news/articles/2016-09-12/a-sell-off-pressure-larger-than-brexit-imperils-one-of-wall-street-s-hottest-trades
+
+# (09-09-16) Bridgewater Pure Alpha fund has declined -9.4% in 2016, while All Weather gained +13.5%
+http://www.bloomberg.com/news/articles/2016-09-11/bridgewater-attracts-22-5-billion-financial-times-says
+The Pure Alpha fund has returned about 12% per year since 1991, and hasn’t had a losing year in the last 15.
+The Pure Alpha fund owns $69 billion of assets. 
+Despite the loss, the Pure Alpha fund is receiving $22.5 billion from investors, after it opened to new money.
+
+# (09-09-16) Investors in 2016 have redeemed the most capital from traditional hedge funds since 2008
+http://www.bloomberg.com/news/articles/2016-09-09/perry-capital-assets-plunge-60-to-4-billion-as-wagers-backfire
+
+# (09-07-16) Banks and investment funds are hiring quants
+http://www.bloomberg.com/news/articles/2016-09-09/ubs-wealth-management-s-haefele-joins-battle-to-recruit-quants
+
+# (09-01-16) Jaffray Woodriff and David Vogel are using machine learning and their Voloridge and QIM funds are strongly outperforming
+http://www.bloomberg.com/news/articles/2016-09-01/code-bros-united-by-netflix-run-two-of-world-s-best-quant-funds
+
+# (08-21-16) Simplex Equity Futures aglorithmic fund in Tokyo is outperforming other hedge funds
+http://www.bloomberg.com/news/articles/2016-08-21/hedge-fund-robot-outsmarts-human-master-as-ai-passes-brexit-test
+The Simplex fund is up 1.9% from its inception in April 2016 through August 19th, while the Topix index has lost 16% in 2016.
+
+# (08-17-16) Quantitative funds are attracting capital as they continue to outperform other hedge funds in 2016
+http://www.bloomberg.com/news/articles/2016-08-21/hedge-fund-robot-outsmarts-human-master-as-ai-passes-brexit-test
+Two Sigma was founded by David Siegel and John Overdeck, and now manages $35 billion.
+David Siegel worked for Tudor Investment, and Two Sigma was seeded by Paul Tudor Jones in 2001. 
+Steven Cohen invested $250 million in Quantopian.
+
+# (07-15-16) S&P500 has reached a new high but defensive stocks are leading the rally, and stock picking funds have not profited despite low stock correlation
+http://www.ft.com/cms/s/0/ede9f018-49cf-11e6-b387-64ab0a67014c.html
+Both stocks and bonds have rallied in anticipation of further low interest rates and central bank stimulus.
+Low volatility stocks and high-yielding stocks have outperformed, because they are substitutes for bonds. 
+Defensive stocks such as utilities, real estate and telecoms have also outperformed, which is typical for the end of the business cycle, before profits fall and a recession starts.
+Stock correlation has dropped since May 2015, with 109 stocks gaining at least 20%, and 96 falling at least 20%. 
+But stock picking funds have not profited, with equity hedge funds producing a small negative return in 2015, and a small negative return so far in 2016. 
+
+# (07-01-16) All assets (stocks, bonds, and commodities) rallied after Brexit, because markets are expecting central banks to be dovish
+http://www.bloomberg.com/news/articles/2016-07-01/everyone-s-a-winner-in-brexit-aftermath-as-doves-rescue-market
+
+# (06-30-16) Soros says Europe is in a deflationary trap that will get worse because of Brexit
+http://www.bloomberg.com/news/articles/2016-06-30/soros-says-brexit-has-unleashed-a-financial-markets-crisis
+The EU will disintegrate unless voters see that the EU is benefiting their lives.
+
+# (06-29-16) British stocks have erased all Brexit losses, and have outperformed eurozone stocks
+http://www.zerohedge.com/news/2016-06-29/brexiteers-1-0-scaremongers-uk-stocks-erase-all-brexit-losses
+http://www.bloomberg.com/news/articles/2016-06-29/it-took-just-four-days-for-british-megacaps-to-shake-off-brexit
+If British stocks continue outperforming, then it will create a big incentive for other EU members to exit as well.
+
+# (06-24-16) Soros didn't short British pound before Brexit vote, but he shorted stocks and bought gold, which both made him money
+http://www.marketwatch.com/story/soros-looks-set-to-make-a-killing-on-brexit-result-2016-06-24
+http://www.bloomberg.com/news/articles/2016-06-27/soros-was-long-the-pound-before-brexit-vote-says-spokesman
+
+# (06-24-16) gold rallied up to 8% after Brexit vote
+http://www.bloomberg.com/news/articles/2016-06-26/hedge-funds-win-world-beating-rally-with-record-gold-holdings
+
+# Brexit is extremely negative for European markets
+http://www.zerohedge.com/news/2016-06-24/who-are-biggest-losers-brexit
+The British stock market was the best performing European stock market on Friday after the Brexit vote.
+
+# (06-15-16) Quantitative funds are outperforming other hedge funds in 1H16, up about 8% versus other hedge funds flat
+http://www.bloomberg.com/news/articles/2016-06-15/machines-beat-humans-in-hedge-fund-quest-to-time-market-bottom
+The biggest shift in momentum was in energy stocks. 
+Quantitative funds identified long energy stock trades both based on valuation and on momentum.
+
+# (05-30-16) Quantitative equity funds have had strong returns, and now use big data techniques
+http://www.pionline.com/article/20160530/PRINT/305309990/quants-throw-tradition-out-the-window
+Acadian Asset Management $9.2 billion global managed volatility equity strategy beat its MSCI World index benchmark by 12.63% for the 12 months through March 31, while Analytic's $3.8 billion global low-volatility equity strategy exceeded its benchmark by 9.01% and Martingale's U.S. low-volatility large-cap equity strategy added 8.2% for the same period.
+
+# (05-31-16) Value stocks have underperformed growth stocks since 2006, the longest losing stretch in history
+http://www.bloomberg.com/news/articles/2016-05-31/lost-decade-for-value-stocks-tests-faithful-who-say-end-is-nigh
+In the 1990s growth stocks outperformed drastically, then in 2000-2006 value stocks outperformed drastically.
+Currently banks make up about 30% of large-cap value stocks, and their underperformance since 2006 largely explains the underperformance of value stocks.
+Low interest rates have held back bank stocks, and the repeated failure of rate hikes have kept bank stock prices low. 
+But 2016 may be a turning point for value stocks.
+Value stocks in the Russell 1000 Index have gained 4.3% in 2016, compared with 1.1% for growth and 2.7% in the S&P500. 
+The KBW Bank Index has jumped 18% in the past three months, double the increase of the S&P500. 
+Strong global economic growth is needed for value stocks to outperform. 
+
+# (05-25-16) Quant fund XTX Markets is fourth biggest foreign exchange trader, with 7.6% of spot volume, ahead of Deutsche Bank
+http://www.bloomberg.com/news/articles/2016-05-25/computerized-trader-leapfrogs-deutsche-bank-in-currency-rankings
+XTX also makes markets in commodities, stocks and derivatives. 
+
+# (05-15-16) Quant hedge funds have been outperforming macro, merger arbitrage, and other funds in 2015 and 2016
+https://www.theguardian.com/business/us-money-blog/2016/may/15/hedge-fund-managers-algorithms-robots-investment-tips
+Stock picking by human experts has become very risky. 
+David Einhorn recommended buying SunEdison before it filed for bankruptcy. 
+Bill Ackman promote Valeant before its stock crashed. 
+David Siegel, cofounder of Two Sigma Investments, stated that one day no human investment manager will be able to beat the computer algorithm. 
+
+# (05-12-16) Clifford Asness: hedge fund returns are very correlated to the market, and therefore don't jsutify their high fees
+http://www.bloomberg.com/view/articles/2016-05-12/hedging-on-the-case-against-hedge-funds
+Hedge funds have a beta of about 35% to 40%. 
+Hedge funds need to hedge more of their beta, and charge lower fees. 
+
+# Hedge funds lost 1.9% in 1Q2016, the worst start since 2008
+http://www.bloomberg.com/news/articles/2016-05-11/rubenstein-says-he-s-surprised-macro-hedge-funds-got-it-wrong
+979 funds closed in 2015, more than any year since 2009. 
+
+# Manoj Narang creates new firm to combine high frequency trading with statistical arbitrage strategies
+http://www.bloomberg.com/news/articles/2016-03-11/a-high-speed-trading-pioneer-spots-a-new-way-to-make-big-returns
+High frequency trading relies on "structural" information about the order book, and profits mostly on front-running other traders by guessing their intentions. 
+High frequency trading uses prices and order book data at around milisecond frequencies, and holds positions for seconds or less, and requires very fast connections to exchanges. 
+Statistical arbitrage identifies statistical anomalies in asset prices, and profits by betting that those anomalies will revert back to equilibrium values. 
+Traditional statistical arbitrage uses daily prices to identify price anomalies, and holds positions for at least several days.  
+Manoj Narang is a veteran high frequency trader who recently left Tradeworx. 
+Manoj Narang's new fund will focus on volatility arbitrage. 
+
+# (04-05-16) Stock picking funds in 1Q16 have underperformed the market by the most in two decades
+http://www.bloomberg.com/news/articles/2016-04-05/lockstep-moves-ease-futility-doesn-t-for-u-s-equity-managers
+Correlation between stocks is at the lowest levels since 2012, which should be good for stock pickers. 
+But stock picking funds owned the wrong stocks, because the stocks that were unloved by stock picking funds outperformed the ones they loved by the most since 2013, with lower quality stocks rallying.
+Portfolio managers made a mistake by avoiding utility and consumer staples stocks, while buying financial and technology stocks.
+Stocks that performed the worst in 2015 rallied by 8.2% in the first quarter of 2016.
+Momentum strategies also lost money because trends quickly reversed, as the S&P first lost 10% but then recovered. 
+
+# (04-06-16) Tiger Global hedge fund plunged -22% in the first quarter 2016.
+http://www.wsj.com/articles/tiger-global-hedge-fund-plunges-on-amazon-netflix-other-bets-1459961411
+
+# (03-28-14) Kyle Bass fed negative rumors to CNBC while selling short mortgages
+http://www.wsj.com/articles/goldman-sachs-and-bear-stearns-a-financial-crisis-mystery-is-solved-1459205026
+On Wednesday, March 12, 2008, CNBC reporter David Faber asked Bear Stearns chief Alan Schwartz if it was true that Goldman Sachs wouldn’t accept Bear Stearns counterparty risk.
+David Faber got the story from Kyle Bass. 
+This rumor led to the collapse of Bear Stearns. 
+
+# (03-03-14) Asness: Great Divide over Market Efficiency
+http://www.institutionalinvestor.com/Article/3315202/Asset-Management-Equities/The-Great-Divide-over-Market-Efficiency.html
+
+# (03-24-16) Most active bond traders are losing money in 2015-16, despite bonds rallying
+http://www.bloomberg.com/gadfly/articles/2016-03-24/if-every-bond-s-a-winner-why-are-there-so-many-losers
+The Merrill Lynch Global Bond Index has gained almost 3% in 2016, the biggest gain in the same period since 1997. 
+But the returns at nontraditional bond funds are slightly negative on average in 2016, and some have lost a lot. 
+The Altegris Fixed Income fund is down more than 8% and the Highland Credit Fund has lost more than 6% year to date 2016. 
+European hedge funds have struggled, with Oceanwood Capital $2.1 billion hedge fund losing 8.1% through March 12, 2016.  
+The winners are central banks who own the sovereign bonds that have experienced the biggest gains.
+
+# Small quant funds grow by using open-source software and cheap data
+http://www.bloomberg.com/news/articles/2016-03-16/barbarian-coders-at-the-gate-the-inexorable-rise-of-diy-quants
+Huge leaps in computing power are transforming modern finance in ways that few have ever imagined and giving tech-savvy, DIY types the tools to compete with large quantitative funds. 
+Emanuel Derman says there's so much available data, open-source software, and computing power, that samll quant funds can get started in no time at all.
+Open-source software written in R and Python is lowering the barriers to entry for small quant funds. 
+But growth of quant funds is leading to crowded trades which may have caused the August 24th 2015 flash crash. 
+Ernie Chan and Roger Hunter run QTS Capital Management. 
+QTS buys futures tick data from AlgoSeek for $500 a month.  
+QTS returned 12% in 2015, outperforming the U.S. stock market and the average hedge funds. 
+Since 2014 QTS assets have grown more than fivefold to $22 million.
+On any given day QTS is testing 10 different models while executing eight trading strategies.
+Quantopian started in 2011 and its membership has increased from 1,570 to more than 66,000 in 2016.
+Estimize provides crowd-source corporate earnings estimates.
+
+# Peter Muller hedge fund PDT
+http://www.forbes.com/sites/nathanvardi/2016/01/04/the-new-quant-hedge-fund-master/
+
+# David Siegel and John Overdeck hedge fund Two Sigma
+http://www.forbes.com/sites/nathanvardi/2015/09/29/rich-formula-math-and-computer-wizards-now-billionaires-thanks-to-quant-trading-secrets/
+John Overdeck worked for D.E. Shaw and Amazon.
+Two Sigma’s two main funds are Eclipse and Spectrum.  Eclipse has a shorter holding period of several weeks, while Spectrum has a holding period closer to one month.
+Two Sigma is well known to pursue in court its employees for stealing proprietary models or data.
+Two Sigma accused researcher Jianjun Qiu of stealing their proprietary models or data.  Qiu escaped to China, reached a settlement with Two Sigma, and now works for Citadel.
+
+# The flash rally in U.S. Treasuries on October 15, 2014 was caused by illiquidity in cash market
+http://www.bloomberg.com/news/articles/2016-02-26/jpmorgan-s-flash-rally-theory-contains-message-on-today-s-market
+
+# (02-28-16) Early 2016 selloff led by most popular analyst stock picks
+http://www.bloomberg.com/news/articles/2016-02-28/analyst-darlings-turn-stock-market-pariahs-as-momentum-unravels
+Stocks ranked highest by analysts have fallen on average 11% in 2016, while stocks ranked lowest are down only 3.4%.
+This is tied to the reversal of high momentum stocks, many of which are owned by hedge funds.  
+The stocks that are the most owned by hedge funds are trailing the S&P500 by 4.6% in 2016, after outperforming by an average of 10% per year over the last four years.
+In March 2009 analysts were bearish when it was the ideal time to buy stocks.
+
+# (02-23-16) Hedge funds underperformance in early 2016 caused by large exposure to momentum factor, which has reversed
+http://www.zerohedge.com/news/2016-02-23/how-outperform-most-hedge-funds-2016
+Hedge funds have large positions in high momentum stocks, they have large exposure to the momentum factor.
+Goldman Sachs created a Hedge Fund VIP basket of stocks to which many hedge funds large exposures (Bloomberg ticker: GSTHHVIP).
+Many hedge funds own similar stocks, and most of those belong to the VIP basket. 
+Many hedge funds are also very concentrated in a small number of stocks, with the average fund holding 68% of long assets in its top 10 positions. 
+
+# Trading firms and hedge funds are hiring quants who combine skills in trading, modeling and programming
+http://www.nytimes.com/2016/02/23/business/dealbook/a-new-breed-of-trader-on-wall-street-coders-with-a-phd.html
+https://www.janestreet.com/
+Quant firms have prospered and grown, creating demand for traders who can build financial models and write computer code, and who can also spot market anomalies and bet big on them.
+Issuing new ETFs has become a major profit center for large asset management firms like BlackRock, Vanguard and Invesco.
+Jane Street specializes in trading ETFs, and has increased its shareholder equity from $228 million in 2007 to more than $1 billion in 2015.
+Jane Street employs only 450 people in offices in New York, London and Hong Kong.
+Yaron Minsky is the CTO of Jane Street.
+Sandor Lehoczky is a star trader at Jane Street and chief quant. 
+
+# (02-22-16) Arnott Research Affiliates: value stocks are cheapest ever, besides the Nifty Fifty craze of 1970s
+http://www.bloomberg.com/gadfly/articles/2016-02-22/don-t-be-tricked-by-the-alpha-mirage-from-smart-beta
+
+# (01-27-16) Hedge fund underperforming massively, but investors still want them
+http://www.bloombergview.com/articles/2016-01-27/investors-search-for-new-love-in-hedge-funds
+http://www.bloomberg.com/news/articles/2016-01-26/bridgewater-s-dalio-trumps-soros-as-most-profitable-hedge-fund
+The 20 most profitable hedge funds earned $15 billion in 2015, while the rest collectively lost $99 billion. 
+The top funds have earned 48% of the $835 billion in profits that the hedge fund industry has generated since its inception.
+
+# (01-20-16) Best and worst stocks are diverging the most since the 1990s
+http://www.bloomberg.com/news/articles/2016-01-21/short-sellers-are-making-an-even-bigger-killing-than-you-think
+The top 10% most costly to short underperformed the market by a record 26% in 2015, which is the widest split between winners and losers since the 1990s.  Even as the S&P dropped only 0.7% in 2015, the average decline in the 10 worst stocks was 64%, while the 10 best surged 71%.  This divergence is mostly due to commodity companies underperforming and some technology companies outperforming. 
+
+# Many quant indexes have underperformed compared to their backtests
+Beware of optimistic results of backtesting hypothetical investment strategies!  Past backtesting results are no guarantee of future performance, as they say.
+http://www.bloomberg.com/news/articles/2016-01-21/how-wall-street-finds-new-ways-to-sell-old-opaque-products-to-retail-investors
+
+# Market depth is dropping despite high trade volumes
+http://www.bloomberg.com/gadfly/articles/2016-01-15/robots-are-eating-your-retirement-in-volatile-stock-market
+Market depth is how many contracts can be traded before moving the market by 1 point. 
+Market depth has declined by more than 60% over the past 2 years, as was illustrated during the August 24th 2015 crash.
+Most trading is done by algos, even the trades from actively managed funds.  
+
+# (01-14-16) AQR ETFs are performing very well
+http://www.bloomberg.com/news/articles/2016-01-14/cliff-asness-s-alternative-funds-top-rivals-with-17-returns
+QMNIX AQR Equity Market Neutral Fund
+QLEIX AQR Long-Short Equity Fund
+
+# artificial intelligence machine learning startups in finance
+http://themarketmogul.com/ai-and-finance-no-room-for-philosophy/
+Kensho raised USD 15 million in order to train computers to replace financial analysts. 
+
+# Marko Kolanovic head JPM Quants making well timed market calls
+http://www.zerohedge.com/news/2015-11-13/jpmorgans-gandalf-quant-nailed-it-again
+http://www.bloomberg.com/news/articles/2015-09-25/it-s-marko-kolanovic-s-market-we-just-trade-in-it
+
+# Most active managers underperform because they risk missing a few outperforming stocks
+http://www.bloombergview.com/articles/2015-11-11/why-indexing-beats-stock-picking
+Stock index returns are driven by a small group of the best performing stocks 
+in the index, while most of the rest perform poorly. 
+Active managers risk missing those outperforming stocks. 
+Active manager underperformance can be explained by creating random portfolios. 
+Most random portfolios underperform the index because they're missing the 
+outperforming stocks.  
+
+# (08-18-15) momentum strategies losing steam in Summer 2015
+http://www.bloomberg.com/news/articles/2015-08-18/momentum-trade-gives-evidence-of-its-own-mortality-a-down-week
+Since July 2015 industry leadership in the S&P 500 has been shifting to utilities, which are leading the market since August, and 2014 winners, like health-care and consumer companies, are trailing. 
+The Newedge CTA Index has fallen 6.5% from a high in April 2015.
+Companies with strong balance sheets are rallying.
+An index of stocks with the strongest balance sheets reached its highest level versus stocks with weaker ones since October 2013.
+
+# (07-20-15) momentum strategies gained 15% in 2015
+http://www.bloomberg.com/news/articles/2015-07-20/momentum-rules-in-u-s-stock-market-stuck-in-worst-rut-on-record
+Momentum strategy of buying stocks with best price appreciation in recent quarters, 
+and shorting the worst have gained 15% in 2015.
+The top three industries in the S&P500 in 2015 are retailers, health-care, 
+and biotech, which also led the market in 4Q2014, rising an average 14%.
+While the S&P500 has not been up or down more than 3.5%, the difference in 
+return between the best and worst-performing industries is widening, 
+reaching the highest level since the bull market began in 2009.
+Momentum strategies have beat every other quantitative strategies, 
+including growth, value, and size, which has only happened two other times in 
+24 years of data, in 2007 and 1993.
+Momentum strategies work well in a maturing bull market such as now. 
+
+# algorithmic trading for retail investors is becoming popular
+http://www.wsj.com/articles/an-algo-and-a-dream-for-day-traders-1439160100
+
+# CFM crash predictor equals volatility divided by square root of trading volume
+http://www.bloombergview.com/articles/2015-04-06/bitcoin-and-market-crashes
+
+# Capital Fund Management (CFM) Stratus fund returned 17.7% through October 2014, second-best large hedge fund in Europe
+http://www.bloomberg.com/news/2015-01-06/the-quants-on-the-left-bank-how-paris-based-physicists-used-algorithms-to-get-big-returns.html
+The return of volatility in 2014 has been good for quants,
+Seven quantitative funds are in the top 25 funds in 2014,
+Man Group stock rose 74.6% in 2014,
+# Jean-Philippe Bouchaud - Capital Fund Management
+https://www.cfm.fr/
+
+# hedge funds ranking in 2014: Many quant funds showed good performance in 2014: AHL, Two-Sigma, Citadel, Graham, D.E. Shaw, etc.
+http://www.bloomberg.com/news/2015-01-04/credit-hedge-funds-game-stupid-wall-street-to-top-2014-ranking.html
+
+# more hedge fund losses
+# They couldn't make money because volatility was too low.
+# Now they can't make money because volatility is too high.
+# "Volatility is too damn high!"
+http://www.bloomberg.com/news/2014-11-09/macro-funds-that-lamented-boring-market-lose-in-october.html
+
+http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
+
+http://quant.stackexchange.com/questions/1628/what-are-the-best-sources-for-equity-quantitative-research
+http://quant.stackexchange.com/questions/1985/what-papers-have-progressed-the-field-of-quantitative-finance-in-recent-years-p
+
+# there may be ‘bursts of dependence’ leading to large cumulative losses
+http://www.hussmanfunds.com/wmc/wmc141020.htm
+
+
+
+###########
+### behavioral finance
+
+# Bloomberg Tradebook Trader Exercises
+https://traderbrainexercise.com/
+Denise Shull, founder of ReThink Group, New York consulting firm that coaches financial professionals and athletes:
+Superior judgment of risk requires multiple cognitive and emotional abilities, that allow acquiring knowledge, recognition of reality, and understanding.  
+These include the ability to create mental models to predict prices, emotional self-awareness (knowing when emotions interfere with good judgment), and the ability to read other people's minds.
+
+# Andrew Lo experiments show that good traders have more control over their emotions, and are flexible in response to risk and market volatility
+http://www.bloomberg.com/news/articles/2016-09-01/wall-street-s-next-frontier-is-hacking-into-emotions-of-traders
+Andrew Lo observed volunteers in a simulated trading game, and measured the trader's stress levels by measuring their perspiration and heart rate.
+Lo's study found that good traders responded to stressful situations quickly, but afterwards calmed down quickly as well, leaving them better prepared for future challenges. 
+On the other hand, poor traders remained emotionally charged even after the volatility subsided. 
+Lo’s study suggests that there’s a sweet spot for emotional engagement: too much, and you’re overly aggressive or fearful; too little, and you aren’t involved enough to care. 
+Having too much or too little emotion made for poor trades. 
+
+
+# Caltech researcher Peter Bossaerts found that traders use "theory of mind" when they make trading decisions
+http://www.bloomberg.com/news/articles/2016-08-19/neuroscience-may-help-train-your-brain-for-trading
+fMRI scans show that parts of the brain associated with the "theory of mind" are activated when traders try to forecast prices.
+Traders that were better at predicting prices were also better on other tests of "theory of mind" abilities.
+
+# People who are unsure and slow to make judgments are better decision makers
+https://hbr.org/2016/07/slow-deciders-make-better-strategists
+Researchers created a competitive strategy game, and analyzed the performance of different types of participants, based on their speed and confidence. 
+The game participants were categorized into four groups according to their speed of making judgments, and their own confidence of their judgments.
+Older men were over-represented among the two groups with high confidence, while women were over-represented in the group that was unsure and slow to make judgments (the "I-don't-knows" group).
+It turned out that the "I-don't-knows" group was the best performing group in the game.
+
+# The availability heuristic explains why individual investors overestimate risk by giving too much weight to recent bad news reports
+http://www.bloombergview.com/articles/2016-04-29/the-mistake-that-separates-most-traders-from-the-pros
+Robert Shiller has been polling investors for 26 years, asking them to estimate the likelihood of a severe crash (daily decline of at least 12.82%) over the next six months. 
+The mean investor estimate over those 26 years has been 19%, and the average 10%, while the actual probability is closer to about 1%.
+Goetzmann, Shiller, and Kim scanned news stories for both positive and negative words, and found that investors gave excessive weight to the most recent information in deciding on the probability of a crash. 
+They found that when media reports contain more negative news, then individual investors provide a significantly higher estimate of crash risk. 
+Individual investors are also much more influenced by negative news than by positive news. 
+Positive words in media reports (such as "advance" or "boom") had no impact on individual investors estimates of crash risk. 
+But institutional (professional) investors were not influenced by news at all.
+
+# Berkeley J. Dietvors: algorithm aversion causes investors to choose human manager over a superior statistical algorithm
+http://opim.wharton.upenn.edu/risk/library/WPAF201410-AlgorthimAversion-Dietvorst-Simmons-Massey.pdf
+http://blog.alphaarchitect.com/2015/07/29/algorithm-aversion-why-people-dont-follow-the-model/
+http://blog.alphaarchitect.com/2016/04/21/will-grove-post/
+People more quickly lose confidence in algorithmic forecasters than in humans after seeing them both make the same mistake.
+Grove study "Clinical Versus Mechanical Prediction: A Meta-Analysis" shows that algorithms are more accurate than humans, but humans don't trust algorithms anyway.
+
+# Jim O'Shaughnessy behavioral finance book What Works on Wall Street: humans less reliable than algos
+http://jimoshaughnessy.tumblr.com/post/127484251129/the-unreliable-experts-getting-in-the-way-of
+Human experts perform worse than quantitative models because the don't apply their own ideas properly - they don't trust simple rules, even though they know they work. 
+Quantitative models outperform human experts because they consistently apply the same rules without doubting them.
+Daniel Kahneman studied cognitive biases: over-confidence, optimism, hindsight, illusion of control. 
+Hindsight bias makes it appear that events that the best informed experts did not anticipate often appear almost inevitable after they occur.
+Predictions can be made through either intuitive (clinical ), or quantitative (statistical) methods, or a combination of them.
+In the intuitive methods, predictions are made based on personal knowledge, experience, and common sense. 
+Heuristics are "rules of thumb" which forecasters can use to make decisions or forecasts.
+The quantitative method doesn't rely on heuristics nor subjective judgments.
+The quantitative method uses relationships between empirical data and the desired outcomes to reach conclusions. 
+Paul Meehl 1954 study of quantitative prediction versus intuitive prediction. 
+Meehl reviewed 20 studies comparing clinical and statistical predictions for three things: academic success, response to electric shock therapy, and criminal recidivism. 
+Meehl found that simple quantitative models outperformed the human judges. 
+In predicting academic success in college a model using just high school grade point average and the level attained on an aptitude test (such as the SAT) outperformed the judgment of admissions officers at several colleges. 
+Robyn Dawes in his book House of Cards also found quantitative models to be superior. 
+L.R. Goldberg devised a simple model using the results of the Minnesota Multiphasic Personality Inventory (MMPI), to distinguish between neurosis and 
+psychosis of patients. 
+The model achieved a success rate of 70%, while no human expert could achieve a success ratio of 67%. 
+Humans don't like to follow models: even when human judges were given more information than the models and were given the result of the models before being asked for prediction, the quantitative models still beat the human judges.
+A Wall Street Journal article from September 16, 2004 pointed out that blindly following Value Line's stock picks vastly outperformed the Value Line mutual fund, which aimed to follow Value Line's stock picks, but failed to stick to them.
+Humans don't utilize base rate information if there is descriptive data.
+Humans prefer descriptive data to impersonal statistics. 
+
+# Behavioral finance papers showing that stock markets are not efficient
+http://www.bloombergview.com/articles/2015-06-09/finance-has-caught-on-to-behavioral-economics
+Robert Shiller famous 1981 paper shows that stock prices fluctuate more than fundamentals warrant.
+Richard Thaler 1985 paper shows that stock prices over-react.
+Kelly Shue and Stefano Giglio paper shows that stock prices of merger targets
+don't rise gradually as merger becomes more likely merger after announcement.
+After a merger announcement the stock price of merger target should grow 
+gradually as time passes after the merger announcement, since it slowly becomes 
+more likely the merger will be finalized.
+But in reality stock prices grow with time much less than they ought to. 
+
+
+
+###########
+### blogs
+
+# blog of blogs on quant trading and research
+http://quantocracy.com/
+
+# blog of blogs on stats research
+http://www.statsblogs.com/
+
+# Jonathan Kinlay - runs systematic hedge fund - good but no code
+http://jonathankinlay.com/
+
+# Cliff Asness AQR
+https://www.aqr.com/cliffs-perspective/
+
+# Eric Falkenstein economist, critic of CAPM, advocate of low volatility investing
+http://www.efalken.com/index.html
+http://falkenblog.blogspot.com/
+http://www.efalken.com/papers/index.html
+# Eric Falkenstein is a critic of Nassim Taleb and Taleb antifragile book
+http://falkenblog.blogspot.com/2012/11/taleb-mishandles-fragility.html
+http://www.efalken.com/papers/Taleb2.html
+
+# QUSMA technical trading blog, mostly C# plus MATLAB, Octave, R, and C++
+http://qusma.com/
+https://github.com/qusma
+# software: QPAS performance analysis for Interactive Brokers; QUSMA Data Management System
+http://qusma.com/software/
+
+# Dave Giles Professor of Economics - good Econometrics time series
+http://davegiles.blogspot.com/
+http://web.uvic.ca/~dgiles/
+
+# Pawel Lachowicz Python quant
+http://www.quantatrisk.com/
+
+# Thiago Martins Bitcoin and risk quant Stat PhD candidate and Data Scientist at Yahoo!
+http://tgmstat.wordpress.com/
+https://github.com/tmartinx
+
+# value investing - no code
+http://investorfieldguide.com/
+
+# Larry Takeuchi - good deep learning paper
+http://econometrical.com/
+
+# Michael Harris sells software for systematic trading
+http://www.priceactionlab.com/
+http://www.priceactionlab.com/Blog/
+
+# Berkeley guy good algorithmic trading and behavorial economics - nothing since 2012
+http://www.curatedalpha.com/
+http://www.curatedalpha.com/category/behavorial-economics/
+http://www.curatedalpha.com/popular-posts/
+http://www.curatedalpha.com/2011/nassim-taleb-minimal-exposure-to-the-media-as-a-guiding-principle/
+http://www.curatedalpha.com/2011/curated-interviews-from-quants-algorithmic-trading-and-high-frequency-trading-from-reddits-iama-part-1/
+http://www.curatedalpha.com/2012/the-lure-of-active-management/
+
+# Mark Buchanan econophhysics
+http://physicsoffinance.blogspot.com/
+http://physicsoffinance.blogspot.co.uk/
+http://physicsoffinance.blogspot.com/2011/08/algorithmic-trading-positive-side.html
+http://physicsoffinance.blogspot.com/2013/07/thinking-again-about-time.html
+http://physicsoffinance.blogspot.com/2012/10/why-diversification-doesnt-work.html
+http://physicsoffinance.blogspot.com/2011/12/power-laws-in-finance.html
+
+# Arthur Charpentier: funny math and stats
+http://freakonometrics.hypotheses.org/
+Charpentier Bayesian Analysis Frequentist Hypothesis Testing.pdf
+
+# quant trading and research articles - most free - some premium
+https://www.cxoadvisory.com/
+
+# Things That Make You Go Hmmm... excellent global market analysis
+http://www.mauldineconomics.com/ttmygh
+
+# junior quant advice
+https://www.quantnet.com/
+
+http://quant.stackexchange.com/
+# Testing Valuation, Size and Momentum
+http://quant.stackexchange.com/questions/8757/testing-valuation-size-and-momentum-proprietary-factors-from-1988-2013-no-ev
+
+http://quant.stackexchange.com/questions/8838/rank-financial-instruments-by-price-movement-stability-and-outliers
+
+http://quant.stackexchange.com/questions/8827/example-code-for-gauge-invariance-geometry-and-arbitrage-paper
+
+http://www.automated-trading-system.com/
+
+http://www.aphysicistinwallstreet.com/
+
+http://intelligenttradingtech.blogspot.com/
+
+http://www.codusoperandi.com/posts/why-i-quit-algorithmic-trading-to-do-web-startups
+
+# econometric charts
+http://soberlook.com/
+
+# Jason Strimpel - not active
+http://blog.jasonstrimpel.com/
+
+# very weak
+http://www.opentrades.nl/
+
+# Victor Niederhoffer Scientific Method In Finance
+http://www.dailyspeculations.com/wordpress/
+
+# Eran Raviv
+http://eranraviv.com/category/blog/finance/
+
+
+
+###########
+### blogs trading & websites: screens, charts, strategies, and backtests
+
+# Stuart Reid Python programmer machine learning excellent
+http://www.turingfinance.com/
+# Quant trader using Python
+http://www.stuartreid.co.za/
+# links
+http://www.stuartreid.co.za/interesting-links/
+http://www.stuartreid.co.za/computational-finance-blog/
+http://www.stuartreid.co.za/algorithmic-trading-system-requirements-post/
+
+# James Picerno financial journalist using R
+http://www.capitalspectator.com/
+http://seekingalpha.com/author/james-picerno
+https://gist.github.com/jpicerno1
+https://github.com/jpicerno1
+
+# Sebastien Bossu equity derivatives hedge fund manager, book author
+http://sbossu.strikingly.com/
+
+# Quantitative Finance Collector by Biao Guo Assistant Professor, School of Finance, Renmin University, China
+http://www.mathfinance.cn/
+
+# ETF screens and charts, strategies with backtests - some free - most premium
+http://etfreplay.com/
+http://etfreplay.com/blog/
+
+# database of trading strategies with backtests - some free - most premium
+http://www.quantpedia.com/
+
+# stock, FX, futures screens and charts - some free - most premium
+http://finviz.com/
+
+# ETF and mutual fund trading strategies - cherry-picking from "Retired Strategies"
+http://www.marketsci.com/
+
+# Salil Mehta Bayes alpha analysis: distinguish skill from luck
+http://statisticalideas.blogspot.com/2014/02/forever-elusive-alpha.html
+http://www.nytimes.com/2014/04/06/business/the-oracle-of-omaha-lately-looking-a-bit-ordinary.html
+
+# Jeff Swanson lots of conventional technical trading strategies using VIX, RSI, etc.
+http://systemtradersuccess.com
+http://systemtradersuccess.com/how-to-identify-algorithmic-trading-strategies/
+# RSI strategy
+http://systemtradersuccess.com/rsi-and-how-to-profit-from-it/
+# Combining RSI And VIX
+http://systemtradersuccess.com/vix-rsi/
+http://systemtradersuccess.com/inverting-the-rsi-and-vix-strategy/
+# Connors 2-Period RSI Update For 2013
+http://systemtradersuccess.com/connors-rsi-update-for-2013/
+# Improving Moving Average Crossover strategy
+http://systemtradersuccess.com/improving-the-moving-average-crossover-system/
+# Overnight Edge strategy
+http://systemtradersuccess.com/overnight-edge/
+
+# Global Market Rotation Strategy
+http://logical-invest.com/
+http://logicalinvest.wordpress.com/
+https://www.quantopian.com/posts/global-market-rotation-strategy-buggy-implementation
+http://seekingalpha.com/article/1622832-a-global-market-rotation-strategy-with-an-annual-performance-of-41_4-percent-since-2003?source=intbrokers_regular
+
+# Sector Rotation trading using Credit Markets
+http://www.atraderjournal.com/2013/04/sector-rotation-trading-using-credit_27.html
+http://capitalcontext.com/
+
+# David Lucca: Market Timing FOMC Calendar Strategy
+http://www.zerohedge.com/news/2014-07-03/most-bizarre-market-timing-chart-ever
+http://www.zerohedge.com/news/chart-year-fed-has-doubled-sp-admits-fed
+http://libertystreeteconomics.newyorkfed.org/2012/07/the-puzzling-pre-fomc-announcement-drift.html#.U7ai6_ldWYI
+http://online.wsj.com/articles/heard-on-the-street-making-money-with-the-fed-dont-get-mad-get-even-1404330574
+http://faculty.haas.berkeley.edu/morse/research/papers/cieslakMorseVissingJorgensen.pdf
+
+# Stephen R. Rush - Probable Pattern - UConn PhD student and R-fin 2014 presenter about VPIN
+http://stephenrush.wordpress.com/
+http://stephenrush.wordpress.com/code/
+http://stephenrush.wordpress.com/open-source/
+https://gist.github.com/ProbablePattern
+# VPIN R code
+https://gist.github.com/ProbablePattern/c46e4fb12bf758b99b03
+
+# Internal Bar Strength IBS Mean Reversion
+http://qusma.com/2013/09/11/paper-the-ibs-effect-mean-reversion-in-equity-etfs/
+http://qusma.com/2012/11/06/closing-price-in-relation-to-the-days-range-and-equity-index-mean-reversion/
+http://intelligenttradingtech.blogspot.com/2013/01/ibs-reversion-edge-with-quantshare.html
+http://intelligenttradingtech.blogspot.com/2013/04/ibs-stingray-reversion-intuition-using.html
+http://adaptivetrader.wordpress.com/2012/12/28/cumulative-ibs-indicator/
+
+# Algo Trading and FX Market Efficiency
+http://libertystreeteconomics.newyorkfed.org/2014/03/has-automated-trading-promoted-efficiency-in-the-fx-spot-market-.html#.U7ayD_ldWYI
+
+# Matthieu Lestel PerformanceAnalytics contributor
+matthieu.lestel@gmail.com
+matthieu.lestel@lpredatoranalytics.com
+http://www.lpredatoranalytics.com/
+https://github.com/LitPepito
+
+
+
+###########
+### portfolio economics research
+
+# best journals:
+Journal of Financial Economics
+Journal of Finance
+Review of Financial Studies
+American Economic Review
+Journal of Political Economy
+https://www.dimensional.com/famafrench/questions-answers/qa-how-do-you-decide-which-research-papers-to-read.aspx
+
+# ARPM Attilio Meucci bootcamp (Python and Matlab) associated with Kepos (Mark Carhart)
+http://www.arpm.co/
+http://www.arpm.co/paper-series/
+
+# Isaac bar Aha: "put a third in land, a third in merchandise, and a third in cash"
+http://finance.yahoo.com/news/naive-diversification-vs-optimization-163550886.html
+
+# Gary Antonacci dual momentum strategy
+http://www.dualmomentum.net/
+#  Global Equities Momentum (GEM)
+http://www.optimalmomentum.com/gem_trackrecord.html
+
+# Adam Butler GestaltU - Adaptive Asset Allocation - Tactical Asset Allocation
+http://gestaltu.com/
+http://gestaltu.com/skew/
+http://www.investresolve.com/
+
+# Wouter J. Keller - Momentum Flexible Asset Allocation
+http://www.wkeller.nl/
+Keller Momentum Markowitz Asset Allocation.pdf
+
+# Enrico Schumann NMOF package minimum-variance portfolios
+http://enricoschumann.net/
+
+# Victor DeMiguel London Business School Shrinkage Estimators Portfolio Optimization
+http://faculty.london.edu/avmiguel/
+
+# Olivier Ledoit Shrinkage Estimators Portfolio Optimization
+http://www.ledoit.net/
+http://studdridge.com/profile/
+
+# Maxim Golts Fidelity Investments - Constrained Portfolio Optimization
+https://www.linkedin.com/in/maxgolts
+
+# portfolio optimization construction shrinkage
+http://quant.stackexchange.com/questions/44/what-methods-do-you-use-to-improve-expected-return-estimates-when-constructing-a
+http://quant.stackexchange.com/questions/10101/portfolio-optimization-shrinkage-of-covariance-matrix-when-data-is-available
+
+# Cluster Random Subspace portfolio optimization - cluster, sample, optimize
+https://cssanalytics.wordpress.com/2014/11/04/cluster-random-subspace-method-for-portfolio-management/
+https://cssanalytics.wordpress.com/2014/11/05/cluster-random-subspace-a-process-diagram/
+
+# qmj factor package David Kane Hutchin Hill + Anthoney Tsou
+https://github.com/anttsou/qmj
+https://github.com/anttsou/qmjdata
+https://www.linkedin.com/in/anthoney-tsou-109915b7
+
+# Portfolio Particle Swarm Optimization
+http://www.turingfinance.com/portfolio-optimization-using-particle-swarm-optimization/
+
+# Q Group Treynor Prize, Institute for Quantitative Research in Finance
+http://www.q-group.org/
+
+# James B. Heaton
+http://www.bartlit-beck.com/lawyers-JamesHeatonIII.html
+
+# Jan Hendrik Witte
+http://www.bellmanoptimality.com/
+https://www.linkedin.com/in/jhwitte
+
+# Nicholas Polson at Chicago Booth
+http://www.chicagobooth.edu/faculty/directory/p/nicholas-polson
+http://faculty.chicagobooth.edu/nicholas.polson/
+
+# Nicolas Baradel works for Bruno Bouchard - Limit Order Market Making
+http://www.nicolasbaradel.fr/
+http://www.crest.fr/pagesperso.php?user=3399
+# PGM Solutions: create GUI from R scripts
+http://www.pgm-solutions.com/
+
+
+
+###########
+### asset pricing forecasting efficient market hypothesis
+
+# Amit Goyal at Lausanne
+
+# Cowles-Jones test for randomness of time series
+Liesenfeld Forecasting Asset Returns Cowles-Jones Test.pdf
+
+# John Y. Campbell professor at Harvard
+http://scholar.harvard.edu/campbell/home
+
+# Piotr Orlowski high frequency option models
+piotr.orlowski@usi.ch
+piotrek.orlowski@gmail.com
+http://www.people.usi.ch/orlowskp/
+http://www.people.usi.ch/orlowskp/code.html
+https://github.com/piotrek-orlowski
+
+# Paul Schneider professor at Universita della Svizzera italiana
+paul.schneider@usi.ch
+http://search.usi.ch/projects/719/Trading-Asset-Pricing-Models
+http://www.people.usi.ch/trojanif/
+https://sites.google.com/site/paulgschneider/home/papers
+http://search.usi.ch/people/27026b456424b7decb40fbe1bc4c9c7c/Schneider-Paul
+
+# Ian Martin at LSE, stock forecasting using options
+http://personal.lse.ac.uk/martiniw/
+
+# Lucas Trees Asset Pricing Model
+http://quant-econ.net/jl/lucas_model.html
+
+
+
+###########
+### trading systematic research
+
+# Research archives
+http://arxiv.org/archive/q-fin
+# SciRate network shows highest ranked arXiv.org papers
+https://scirate.com/
+
+# SSRN top papers
+http://ssrn.com/en/
+http://ssrnblog.com/
+
+http://quantpapers.com/
+
+# list of source materials on systematic trading
+https://www.quora.com/topic/Algorithmic-Trading
+http://quant.stackexchange.com/questions/15013/what-are-the-textbooks-used-to-teach-quantitative-trading-at-universities
+https://www.quora.com/Algorithmic-Trading/What-are-some-good-tutorials-for-backtesting-in-R
+
+# David H. Bailey: Mathematicians Against Fraudulent Financial and Investment Advice (MAFFIA)
+http://www.davidhbailey.com/
+# Bailey blog
+http://www.financial-math.org/
+http://www.financial-math.org/blog/
+# Spigot algorithm
+http://en.wikipedia.org/wiki/Spigot_algorithm
+http://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula
+
+# Marcos López de Prado - Backtesting Overfitting Cross-validation
+lopezdeprado@gmail.com
+http://www.quantresearch.info/
+http://www.math.columbia.edu/mafn/program/practitioners-seminar-2014/
+# Backtest Overfitting
+http://www.financial-math.org/blog/2014/04/faqs-on-backtest-overfitting/
+http://www.bloomberg.com/news/2014-04-11/computer-models-often-use-unsound-math-researchers-say.html
+
+# Jon Borwein MAFFIA member CARMA leader
+http://www.financial-math.org/blog/
+https://www.carma.newcastle.edu.au/expmaths/
+
+# Jaffray Woodriff QIM - ensemble learning
+http://www.institutionalinvestor.com/article.aspx?articleID=2361672#.Uyz21vldU-V
+http://transparentsimplicity.com/wordpress/
+
+# Jaffray Woodriff using random data as a benchmark
+http://qusma.com/2013/01/22/doing-the-jaffray-woodriff-thing/
+
+# Interview with Tim Wong from AHL
+http://www.futuresindustry.org/futures-industry.asp?iss=210&a=1553
+
+# transaction costs in simulated market environment
+http://quant.stackexchange.com/questions/3573/how-to-account-for-transaction-costs-in-a-simulated-market-environment
+http://quant.stackexchange.com/questions/1264/how-to-simulate-slippage?rq=1
+http://quant.stackexchange.com/questions/3599/how-should-i-include-the-bid-ask-spread-as-a-transaction-cost-in-a-backtest?rq=1
+http://www.wsj.com/articles/SB10000872396390444024204578044293008576204
+http://www.investopedia.com/articles/trading/121701.asp
+http://www.investopedia.com/articles/investing/082213/how-calculate-bidask-spread.asp
+
+# systematic quantitative market making group in Chicago
+https://systematicedge.wordpress.com/
+https://systematicedge.wordpress.com/2013/10/14/random-subspace-optimization-max-sharpe/
+
+
+
+###########
+### utility Kelly criterion
+
+# Edward O. Thorp
+http://edwardothorp.com/id9.html
+# The Kelly Criterion In Blackjack Sports Betting, And The Stock Market
+http://edwardothorp.com/sitebuildercontent/sitebuilderfiles/KellyCriterion2007.pdf
+
+http://tgmstat.wordpress.com/2014/01/22/declining-marginal-utility-and-the-logarithmic-utility-function/
+
+### Kelly criterion intertemporal portfolio choice
+
+# Kelly criterion: expected net winnings divided by odds (which is variance)
+http://www.quantstart.com/articles/Money-Management-via-the-Kelly-Criterion
+http://quant.stackexchange.com/questions/7197/kelly-criterion-and-sharpe-ratio
+
+# intertemporal portfolio choice
+http://en.wikipedia.org/wiki/Intertemporal_portfolio_choice
+http://en.wikipedia.org/wiki/Merton%27s_portfolio_problem
+
+# Shlok Datye: Kelly Criterion and Optimal-f
+http://shlok.is/thesis
+Shlok Kelly Optimal-f Criteria.pdf
+# Kelly Criterion and Optimal-f
+https://alphaism.wordpress.com/2012/04/13/testing-kelly-criterion-and-optimal-f-in-r/
+
+
+
+### momentum trading
+
+# Jack Vogel Alpha Architect analysis of momentum investment strategies
+http://blog.alphaarchitect.com/2015/11/16/how-the-number-of-firms-and-holding-periods-affect-momentum-etfs/
+http://www.dualmomentum.net/2014/11/individual-stock-momentum-that-dog-dont.html
+https://www.researchaffiliates.com/Our%20Ideas/Insights/Fundamentals/Pages/448_How_NOT_to_Wipe_Out_with_Momentum.aspx
+
+# NYFed Treasury momentum trading
+
+http://libertystreeteconomics.newyorkfed.org/2014/05/can-investors-use-momentum-to-beat-the-us-treasury-market.html#.U7apIfldWYI
+
+http://www.aqrindex.com/AQR_Momentum_Indices/Momentum_Research/Content/default.fs
+http://physicsoffinance.blogspot.com/2014/04/how-to-consistently-beat-market-follow.html
+https://medium.com/the-physics-of-finance/8c61c714e8fd
+
+# Kent D. Daniel - momentum crashes
+http://www.kentdaniel.net/
+
+# momentum papers
+# Two centuries of trend following
+http://arxiv.org/abs/1404.3274
+# Lee Fundamental Data Improving Momentum Strategy
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1590460
+Lee Fundamental Data Improving Momentum Strategy.pdf
+
+# Getmansky and Lo paper reviews studies of hedge fund performance
+http://www.bloombergview.com/articles/2015-08-20/are-hedge-funds-fake-
+Fung and Hsieh paper shows that returns of an actively managed fund that can 
+perfectly predict price trends resembles a payoff of a lookback straddle. 
+They call the optimal trend-following strategy of buying lookback straddles the 
+"Primitive Trend-Following Strategy". 
+
+# Trend-following is Dead
+http://www.priceactionlab.com/Blog/2015/11/trend-following/
+http://www.followingthetrend.com/2015/11/apparently-trend-following-just-died-again/
+
+http://www.philosophicaleconomics.com/2016/01/movingaverage/
+
+
+# quant blog - stale now
+https://quantivity.wordpress.com/
+# momentum review - good
+http://quantivity.wordpress.com/2012/10/25/implicit-momentum-bias/
+
+# Larry Swedroe: Myths About Momentum
+http://seekingalpha.com/article/2226863-myths-about-momentum-part-i
+http://seekingalpha.com/article/2229023-myths-about-momentum-part-ii
+
+# Quantpedia Momentum and Style Rotation Effect
+http://www.quantpedia.com/Blog/Details/sample-strategy-5-momentum-and-style-rotation-effect
+
+# Andrew Swanscott bettersystemtrader
+http://bettersystemtrader.com/
+http://bettersystemtrader.com/sharpe-ratio-right-answer-wrong-question/
+
+# Laurent Bernut Alpha Secure Capital
+http://alphasecurecapital.com/
+# There are only two types of strategies: mean reversion or trend following
+# The best risk metric for mean reverting strategies is the tail ratio
+# A simple rule of thumb is to redeem mean reverting strategies if losses are below 0.4 of turnover
+# Trend following strategies have tail ratios ranging from 3 to 10. 
+# Winners are much bigger than losers. 
+# So, tail ratio is meaningless for trend followers.
+# Trend following risk is not in the tails, but in the aggregates
+# Risk of trend following strategies is best measured by the ratio of profits over 
+# losses. The risk metric for trend following strategies is therefore: Gain to Pain Ratio 
+http://alphasecurecapital.com/regardless-of-the-asset-class-there-are-only-two-types-of-strategies/
+
+# Characteristics of mean reversion strategies
+https://www.quora.com/Under-what-market-conditions-does-mean-reversion-work-better-than-trend-following
+
+
+
+###########
+### high frequency trading
+
+# high frequency trading tutorial
+http://quant.stackexchange.com/questions/147/what-are-the-key-risks-to-the-quantitative-strategy-development-process/150
+http://quant.stackexchange.com/questions/1501/which-approach-dominates-mathematical-modeling-or-data-mining/1505
+http://www.allaboutalpha.com/blog/2011/09/06/the-secrets-of-high-frequency-trading/
+http://www.zerohedge.com/news/2014-04-03/marc-cubans-primer-hft-idiots
+http://blogmaverick.com/2014/04/03/the-idiots-guide-to-high-frequency-trading/
+https://news.ycombinator.com/item?id=3894302
+
+# high frequency market making
+http://quant.stackexchange.com/questions/1274/how-can-we-reverse-engineer-a-market-making-algorithm-hft
+
+# high frequency market making inventory problem solution
+http://arxiv.org/abs/1105.3115
+
+# Kipp Rogers: patterns in orders provide profitable trading strategies
+https://mechanicalmarkets.wordpress.com/2015/04/30/market-data-patterns-order-anticipation-and-an-example-trading-strategy/
+
+# Eric Scott Hunsader founded Nanex
+http://www.marketwatch.com/story/this-man-wants-to-upend-the-world-of-high-frequency-trading-2016-02-02
+
+
+
+###########
+### futures trading
+
+# USDX ICE U.S. Dollar Index currency futures
+expiries March, June, September, December
+https://www.theice.com/products/194/US-Dollar-Index-Futures
+http://www.barchart.com/commodityfutures/US_Dollar_Index_Futures/DX
+http://www.barchart.com/charts/futures/DXY00
+
+# futures and commodities trading
+http://www.investopedia.com/exam-guide/series-3/studyguide/chapter7/bull-bear-spreads.asp
+https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/backwardation-bullish-or-bearish
+Contango is a state where the futures price is higher than the spot price.
+A contango is normal for non-perishable commodities that have a cost of carry, and for stable or bear markets.
+Backwardation is a state where the spot price is higher than the futures price.
+Backwardation typically occurs during bull markets.
+In contango the futures curve is upward sloping, and in backwardation it's downward sloping.
+The shape of the futures curve in bull and bear markets reflects the market's expectations of price reversion to the mean.
+If prices are high today, they are expected to revert lower (backwardation), and vice versa in contango.
+In contango, futures bull spread trades (buy nearby contract and sell distant contract) earn a positive carry, reflective of the cost of carry of the physical commodity.
+Volatility futures behave reversely to stock futures, since a bull market in volatility represents a bear market for stocks.
+Volatility futures are upward sloping in stock bull markets (low volatility), and downward sloping in stock bear markets (high volatility).
+
+
+
+###########
+### volatility VIX trading
+
+# volatility traders
+http://largecaptrader.com/
+http://www.tradingtheodds.com/
+# Double Digit Numerics DDN Volatility Risk Premium Strategy
+http://www.tradingtheodds.com/2014/11/ddns-volatility-risk-premium-strategy-revisited-2/
+
+# volatility ETFs VXX and XIV strategy tracking
+http://volatilitymadesimple.com/
+http://volatilitymadesimple.com/a-momentum-rotation-strategy-for-trading-vix-etps/
+
+# ETF and mutual fund trading strategies, including volatility ETFs VXX and XIV
+http://www.marketsci.com/
+http://www.marketsci.com/strategy.VT.html
+
+# VXX shares outstanding is a sentiment indicator for hedging demand, positively correlated with stock prices
+http://www.zerohedge.com/news/2016-04-27/tom-mcclellan-has-stark-warning-can-possibly-end-well
+
+# Chrilly Donninger momentum, ETF, VIX strategies
+http://www.godotfinance.com/
+http://www.godotfinance.com/workingpapers/
+
+# Christopher Cole Artemis Vega Fund Long VIX Volatility making great returns
+http://www.zerohedge.com/news/2015-09-02/your-crisis-alpha-action-hedge-fund-made-15-yesterday-market-tumbled
+
+# VIX strategies - stale
+http://vixandmoreevals.blogspot.com/
+
+# VIX short futures strategy +56% ytd 2015
+http://www.zerohedge.com/news/2015-08-02/most-successful-trade-last-decade
+http://www.zerohedge.com/news/2015-08-03/vix-etf-surges-record-low-crushing-contango-cruisers
+
+# August 24th VIX crash VIX inverse XIV short vol strategy has huge negative convexity
+http://www.zerohedge.com/news/2015-10-20/how-entire-short-volatility-etf-complex-could-be-wiped-out-overnight
+XIV rebalancing creates posiitive feedback loop in VIX, because when VIX rises then XIV needs to buy VIX.  Thus XIV has huge negative convexity. 
+Example was during the August 24th crash, when SPX futures opened limit down and VIX futures didn't open for 30 minutes. 
+When VIX opened it was 25 points higher at 53.29, before falling to 28 intra-day, then rebounding to 40.74 by the close, with the S&P 500 index down -3.9%.
+This was historically record breaking volatility-of-volatility despite relatively mild historical declines in the S&P 500 index.
+
+# VIX strategies
+http://statisticalideas.blogspot.com/2015/06/volatility-products-prayer.html
+http://statisticalideas.blogspot.com/2015/02/volatility-product-hitmen.html
+http://statisticalideas.blogspot.com/2015/02/volatility-product-proselytizers.html
+
+# VIX strategies Jonathan Kinlay
+https://www.linkedin.com/pulse/great-year-volatility-relative-value-jonathan-kinlay
+https://www.linkedin.com/pulse/daytrading-volatility-etfs-jonathan-kinlay
+# use data at frequencies of 1-5 minutes, trading at latencies of around 1 millisec,
+# derive signals from other markets: VXX-ES-TY
+https://www.linkedin.com/pulse/making-money-high-frequency-trading-jonathan-kinlay
+
+# options strategies but without Java code for backtesting
+http://dtr-trading.blogspot.ca/
+
+
+
+###########
+### lectures
+
+# Daniel Bloch ebook Quantitative Portfolio Management
+http://quantfin.eu/
+
+# Bloomberg Labs Seminars
+http://www.bloomberglabs.com/
+http://www.bloomberglabs.com/quantitative-finance/events/
+
+# Marco Avellaneda NYU Courant and Finance Concepts, previous Capital Fund Management Nimbus Fund
+http://www.math.nyu.edu/faculty/avellane/
+http://quantivity.wordpress.com/2011/05/28/avellaneda-lectures-model-risk/
+
+# Eric Zivot Course Slides
+http://faculty.washington.edu/ezivot/econ424/424notes.htm
+https://www.coursera.org/course/compfinance
+
+# Eric Zivot on Coursera: Computational Finance and Financial Econometrics
+https://www.coursera.org/course/compfinance
+# Computational Investing Part I
+https://www.coursera.org/course/compinvesting1
+# Financial Engineering and Risk Management
+https://www.coursera.org/course/fe1
+https://www.coursera.org/course/fe2
+
+# DataCamp & rcademy - Jonathan Cornelissen (works with Boudt)
+https://www.datacamp.com/
+
+# Jacek Suda - Paris School of Economics - time series and Kalman
+http://www.jaceksuda.com/index.html
+http://www.jaceksuda.com/teach/pseFall2012/index.html
+
+
+
+###########
+### systematic funds
+
+# Two Sigma was founded in 2001 by David Siegel, the former CTO at Tudor, who received a PhD in computer science from MIT, and John Overdeck from D.E. Shaw, who was an International Mathematics Olympiad Silver Medalist in 1986.
+
+# Pension Partners Beta Rotation Index
+https://pensionpartners.com/
+
+# Sang Lucci Trading - options courses
+http://www.sanglucci.com/
+http://www.bloomberg.com/news/2014-05-08/traders-scan-brains-in-hunt-for-profit-enlarging-pill.html
+
+# Spitznagel funds: Universa, Empirica Capital with Nassim Taleb
+http://dealbook.nytimes.com/2014/11/24/bear-going-vs-the-bulls-still-profits/
+http://www.zerohedge.com/news/2014-11-25/bearish-mark-spitznagel-profiting-strongly-2009-warns-only-so-much-debt-economy-can-
+
+# Binatix deep learning trading firm
+http://recode.net/2014/09/10/introducing-binatix-a-deep-learning-trading-firm-thats-already-profitable/
+http://www.binatix.com/
+http://www.binatix.com/technology.html
+
+
+
+###########
+### investing
+
+# Piotroski fundamental F-score for value stocks flopped in 2014
+http://triblive.com/business/johndorfman/7431505-74/stocks-score-percent#axzz3rgsQJbul
+
+# Partha Mohanram G-score for growth stocks
+http://www.businessinsider.com/glamour-stocks-avoiding-falling-stars-using-mohanrams-g-score-2011-7
+
+# Sam Stovall is chief investment strategist at S&P
+# S&P Capital IQ customer page: STARS, Fair Value and Quality Rankings for stocks
+http://www.advisor.marketscope.com/SP/msa/login.html#historyId0
+# S&P Capital IQ MarketScope
+http://www.standardandpoors.com/products-services/marketscope/en/us
+# S&P's Dividend Aristocrats
+http://www.moneyshow.com/articles.asp?aid=GURU-33694
+# Fidelity: Capital IQ ETF Research
+http://research2.fidelity.com/fidelity/research/reports/release2/Research/ETFStandardAndPoors.asp
+# Capital IQ was founded in 1999
+http://en.wikipedia.org/wiki/S%26P_Capital_IQ
+# S&P Capital IQ 5-STAR ranked stocks have produced 1,387% total return since 1992, versus 542% for the S&P 500 index
+http://finance.yahoo.com/news/p-capital-iq-equity-research-150000672.html
+# S&P SDY and NOBL ETF's performance statistics
+https://finance.yahoo.com/q/rk?s=SDY+Risk
+https://finance.yahoo.com/q/rk?s=NOBL+Risk
+
+# google search
+S&P Capital IQ STARS ranked stock performance -site:capitaliq.com -site:standardandpoors.com -site:marketscope.com
+
+# Betterment expert selected ETF Investing with automatic rebalancing
+https://www.betterment.com
+
+# Wealthfront diversified ETF Investing with automatic rebalancing
+# Modern Portfolio Theory investment methodology: maximize returns through optimal asset mix,
+https://www.wealthfront.com
+
+# Value Investing
+http://www.validea.com/home/home.asp
+
+
+
+###########
+### investing systematic
+
+# Wesley R. Gray book Quantitative Value
+http://empiritrage.com/
+http://turnkeyanalyst.com/
+http://alphaarchitect.com/blog
+http://blog.alphaarchitect.com/category/architect-academic-insights/
+http://abnormalreturns.com/qa-with-wesley-gray-co-author-of-quantitative-value/
+
+# Mebane Faber
+http://www.mebanefaber.com/
+http://www.mebanefaber.com/reading-list/
+http://mebfaber.com/2013/12/04/square-root-of-f-squared/
+http://f-squaredinvestments.com/alphasector/alphasector-premium/
+F-Squared sector ETF strategy
+
+# Mebane Faber Tactical Asset Allocation
+http://www.bloomberg.com/news/articles/2015-09-01/the-most-downloaded-ssrn-paper-ever-is-all-about-market-timing
+
+# David Varadi Dynamic Asset Allocation
+http://cssanalytics.wordpress.com/
+http://www.bsam.com/
+http://www.bsam.com/research/
+https://www.linkedin.com/pulse/think-mpt-doesnt-work-you-probably-using-wrong-way-david-varadi?trk=hp-feed-article-title-comment
+
+# Alex Chinco finance prof at Urbana-Champaign uses R: 
+http://www.alexchinco.com/
+http://business.illinois.edu/facultyprofile/faculty_profile.aspx?ID=15101
+# R code to replicate main results in Ang, Hodrick, Xing, and Zhang (2006)
+Ang Idiosyncratic Volatility Anomaly.pdf
+https://gist.github.com/alexchinco/d58ebd7750904db1b94c
+https://gist.github.com/alexchinco
+https://github.com/alexchinco
+
+# low idiosyncratic volatility anomaly in Ang, Hodrick, Xing, and Zhang (2006)
+http://www.alexchinco.com/notes-ang-hodrick-xing-and-zhang-2006/
+http://www.edhec-risk.com/latest_news/featured_analysis/RISKArticle.2013-05-22.1255?newsletter=yes
+
+# F-Squared Investments Receives Wells Notice From SEC
+http://online.wsj.com/articles/f-squared-investments-received-wells-notice-from-sec-1409768768
+F-Squared says it uses mathematical models to generate signals to buy and sell among a range of ETFs, which track a variety of global stock and bond markets.
+
+http://online.barrons.com/articles/SB50001424053111904780504580049961992594040
+Managed portfolios are the hottest trend in asset management. 
+Managed portfolios are similar to asset-allocation mutual funds built with low-cost, passive ETFs.
+But advisors have very little track record.
+Many of their managed portfolios are based on back tests and financial engineering. 
+F-Squared Investments is the biggest, managing $28 billion.
+F-Squared Investments admitted it overstated its past performance
+Be sure your manager's track record is real. 
+Windhaven Investment Management, with $19 billion, is second.
+Good Harbor Tactical Core U.S. is a popular aggressive strategy, but is down by 10.2% as of midyear 2014. 
+Good Harbor suffered when small-company stocks and other high-momentum sectors broke down in early 2014.
+Good Harbor's CIO is Paul Ingersoll.
+
+# Managed ETF performance has been dismal
+http://online.barrons.com/articles/why-etf-managed-accounts-fail-1412404692
+Separate "wrap" accounts with a five-year track record have underperformed.
+Tactical strategies try to ride the market’s uptrends and avoid its downtrends by getting out before losses are too great. 
+iSectors Post-MPT Growth Allocation, employs macro-economic signals to determine its allocations. 
+Its 18.3% five-year annualized return beats 99% of its peers in the world allocation category, 
+but still slightly lags the S&P 500’s 18.8% return. 
+The market is up-down, up-down, and even when it rises, it goes up too quickly.
+So almost all tactical strategies are getting in after the market’s already gone up.
+They’re inadvertently buying high and selling low—just the opposite of what you want to be doing.
+
+# iSectors offers a suite of 15 ETF-based asset allocation models
+http://isectors.com/post-mpt-strategies/
+http://finance.yahoo.com/news/investing-insights-isectors-utilizes-etfs-130043073.html
+iSectors model optimizes the portfolio allocation among up to nine asset classes.  
+
+# Dimensional Fund Advisors beats the market consistently
+http://us.dimensional.com/
+http://assetbuilder.com/investing/dfa_vs_vanguard
+http://online.barrons.com/news/articles/SB50001424053111904742804579284652021894432
+Dimensional's funds all operate on the same principles -- that it's hard to beat the market, and impossible to do it consistently, by stock-picking. There are, however, various factors that can be exploited to provide market-beating returns. 
+Its process is simple and repeatable -- and yet no other firm has tried emulating it. When asked why, co-founder, chairman, and co-CEO David Booth, 67, draws a surprising analogy to Star Wars, and Luke Skywalker's inability to harness the power of the Force until his devotion was deep and unwavering.
+Trade execution is critical to another factor that Fama and French added to their model more recently: Stocks that are falling tend to continue to fall, and those that are rising tend to continue to rise. "So you want to trade slowly," Booth says. "We are slow to trade most of the new names that have recently fallen into the value category, because they are negative-momentum stocks. We're also slow to sell positive-momentum stocks. We'll hold on for years."
+
+# David Booth co-founded Dimensional Fund Advisors in 1981
+http://en.wikipedia.org/wiki/David_G._Booth
+Booth was a research assistant to Eugene Fama.
+Dimensional manages about $360 bn and invests in small (low capitalization) and value (low price/book ratio) stocks and non-U.S. stocks. 
+David Booth gave $300 mm to the University of Chicago's School of Business, now named after him.
+
+# Jeremy Siegel: Stocks for the Long Run
+http://www.riosmauricio.com/wp-content/uploads/2013/05/Siegel_Stocks-For-The-Long-Run.pdf
+http://www.aaii.com/files/investorupdate/20140410.html
+http://theguruinvestor.com/2014/04/11/the-moving-average-strategy-good-results-if-you-have-the-discipline/
+http://www.raymondjames.com/assetadvice/FlexModel.aspx
+http://www.ft.com/intl/cms/s/0/23c9f650-10c7-11e3-b5e4-00144feabdc0.html#axzz30r9n7OpV
+
+# Eric H. Sorensen, CEO of PanAgora
+# Edward E. Qian at PanAgora book: Quantitative Equity Portfolio Management
+http://www.panagora.com/people/eric-sorensn/
+# Decision Tree Approach (CART) to Stock Selection, The Journal of Portfolio Management, Fall 2000 (with Keith Miller).
+http://www.iijournals.com/doi/abs/10.3905/jpm.2000.319781#sthash.luDp0VuS.dpbs
+
+# Robert Shiller: Irrational Exuberance data and charts
+http://www.irrationalexuberance.com/index.htm
+# CAPE Shiller P/E currently stocks overvalued
+http://blogs.ft.com/ft-long-short/2013/08/13/the-cape-of-less-hope/
+
+# matching investors to hedge funds using psychological analysis of investors
+http://www.news.getaltx.com/
+http://getaltx.com/
+http://imatchative.com/
+
+http://www.trendarchitect.com/
+http://www.trendarchitect.com/performance/
+http://arcanecapital.autotradenow.com/cgi-perl/system85750979
+
+http://www.spylon.com/
+
+http://arcanecapital.autotradenow.com/
+http://arcanecapital.autotradenow.com/about-this-site
+
+# adaptivwealth Minimum Variance Portfolio plus price momentum
+http://www.adaptivwealth.com/
+
+
+
+###########
+### sentiment indicators
+
+# Goldman Sachs sentiment indicator has strong contrarian forecasting ability for stocks
+http://www.bloomberg.com/news/articles/2016-09-12/goldman-we-ve-reached-maximum-bullishness-and-that-s-bad-news-for-u-s-stocks
+Indicator levels above 90 or below 10 are have significant ability to forecast stocks returns over the following weeks.
+Indicator levels above 90 forecast negative stocks returns of about -2% over the next two weeks.
+Goldman Sachs sentiment indicator reached the maximum 100 level before the September 2016 selloff
+
+# Suzy Moat - Future Orientation Index - Google searches predict market moves
+http://www.wbs.ac.uk/about/person/suzy-moat/
+http://www.suzymoat.co.uk/
+
+# Tobias Preis - Google Sentiment Trends
+http://www.tobiaspreis.de/
+http://www.preis.co.uk/
+# Future Orientation Index - Characterizing the Time-Perspective of Nations with Search Engine Query Data
+http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0095209
+# Google Trends Can Predict The Market
+http://www.forbes.com/sites/davidleinweber/2013/04/26/big-data-gets-bigger-now-google-trends-can-predict-the-market/
+# Quantifying the Relationship Between Financial News and the Stock Market
+http://www.nature.com/srep/2013/131220/srep03578/full/srep03578.html
+
+# FinSentS News Sentiment Screener
+http://portal.finsents.com/
+https://www.quantopian.com/posts/market-sentiment-market-mood-finsents-signals-detection
+
+# Gross National Happiness as Stock Market Return Predictor
+# CXO Advisory: GNH has no predictivve ability
+http://www.cxoadvisory.com/16248/sentiment-indicators/gross-national-happiness-as-stock-market-return-predictor/
+http://socialtimes.com/facebook-happiness-index-linked-stock-market-behavior_b200303
+http://www.sciencedirect.com/science/article/pii/S0167268114001735
+
+# Twitter scraping option trading robots
+http://www.slate.com/articles/business/moneybox/2015/04/bot_makes_2_4_million_reading_twitter_meet_the_guy_it_cost_a_fortune.html
+Trading robots buy cheap options in a second after tweet.
+Bloomberg and Dow Jones have designed direct robot news feeds.
+bots-gone-wild hazard: in 2008 a 6-year-old news story about United Airlines 2002 bankruptcy somehow reappeared online, and got scraped by algos. 
+United stock price plummeted by 76% within minutes, but recovered almost fully by end of day.
+
+# iSENTIUM Daily Directional Indicators based on Twitter sentiment
+http://www.isentium.com/
+http://isentium.com/ddi.html
+
+# Accern web media intelligence sentiment indicator by NYU student Anshul Vikram Pandey collaborating with Quantopian
+http://accern.com/
+http://accern.com/blog_single.php?imageid=32
+
+# Twitter Decahose Firehose API sentiment indicators
+https://gnip.com/
+https://blog.gnip.com/
+http://datasift.com/platform/datasources/twitter/
+# Global Twitter Heartbeat 
+https://www.sgi.com/go/twitter/
+
+# ECB paper Twitter Gardenhose sentiment indicator better than Google
+http://www.bloomberg.com/news/articles/2015-07-15/if-twitter-is-bullish-maybe-you-should-be-too
+Twitter bullishness predicts changes in Google bullishness.
+Twitter and Google bullishness are positively correlated to investor sentiment 
+and lead investor sentiment surveys.
+Twitter beats Google and both of them beat established sentiment surveys. 
+
+# Sentiment scraping using Google spreadsheets
+http://www.analyticbridge.com/profiles/blogs/how-to-transform-your-google-spreadsheet-into-an-opinion-mining
+
+
+
+###########
+### Books and Academic Papers
+
+# Quantitative Finance papers database
+http://arxiv.org/archive/q-fin
+
+# Norvig and Russell: Artificial Intelligence: A Modern Approach
+http://aima.cs.berkeley.edu/
+
+# David Leinweber at Berkeley book Nerds on Wall Street
+http://nerdsonwallstreet.com/
+http://www.forbes.com/sites/davidleinweber/
+http://www.forbes.com/sites/davidleinweber/2013/04/26/big-data-gets-bigger-now-google-trends-can-predict-the-market/
+http://crd.lbl.gov/groups-depts/SDM/current-projects/cift
+MarketMind
+QuantEx
+
+
+
+###########
+### market and economic research
+
+# NFP Non-farm Payrolls monthly report is a lagging indicator of economic activity
+http://www.forexfraud.com/forex-articles/understanding-the-non-farm-payrolls-release.html
+http://www.investopedia.com/university/releases/employmentsituation.asp
+
+# Nassim Nicholas Taleb: Antifragile systems posses a convexity bias through tinkering (trial and error)
+https://edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility
+Convexity bias allows systems to gain from "disorder cluster", like volatility, uncertainty, disturbances, randomness, and stressors. 
+Antifragile systems gain from uncertainty and they favor optionality. 
+Convexity is easier to attain than knowledge.
+Antifragile systems favor simplicity (premium for simplicity). 
+Optionality works by negative information: by avoiding things that don't work, instead of choosing things that do work. 
+This allows accidentally discovering things that do work. 
+
+
+
+###########
+### econophysics
+
+# Mark Buchanan: the economy is a "complex system" - econophysics
+https://medium.com/the-physics-of-finance/arrogant-physicists-do-they-think-economics-is-easy-b91a9e6ee184
+
+# Alex Rosenberg and Tyler Curtain: Economics isn't a science like physics
+http://opinionator.blogs.nytimes.com/2013/08/24/what-is-economics-good-for
+Economic theory should be understood more on the model of music theory than Newtonian theory. 
+
+# Mark Buchanan: Macroeconomics is just intuition and beliefs
+https://medium.com/bull-market/economic-hot-air-87ecce480cdc
+There’s very little real knowledge in economics on which arguments can be settled.
+Paul Krugman and John Cochrane arguing viciously over things we just don’t know much about.
+Ed Leamer: Our understanding of causal effects in macroeconomics is virtually nil, and will remain so. 
+Dynamic Stochastic General Equilibrium are just "patterns and stories", not cause and effect.
+
+# computer simulation of market shows discovery of money all on its own
+http://www.bloombergview.com/articles/2013-06-05/what-to-do-when-the-invisible-hand-stops-working
+
+# non-linear models needed because economy is complex adaptive system
+http://rogerfarmerblog.blogspot.com/2015/04/new-solutions-to-old-problems.html
+http://www.voxeu.org/article/stabilities-and-instabilities-macroeconomy
+
+# Brian Arthur complexity economics econophysics
+http://tuvalu.santafe.edu/~wbarthur/Papers/Comp.Econ.SFI.pdf
+
+# minority games
+http://physicsoffinance.blogspot.com/2012/02/minority-games.html
+The market should tend to evolved toward a value of alpha where the predictability of prices is low but not zero, making it hard but not impossible to find patterns in the market.
+http://arxiv.org/abs/physics/0608091
+
+# Didier Sornette
+http://www.er.ethz.ch/people/sornette
+# Financial Crisis Observatory
+http://www.er.ethz.ch/financial-crisis-observatory.html
+# ETH Risk Center
+http://www.riskcenter.ethz.ch/
+
+# Felix Patzelt: Adaptive Control Dynamics. Bubbles, Jumps, and Scaling from Properly Anticipated Prices, Power Laws, Intermittency and Levy
+http://www.neuro.uni-bremen.de/memberinfo/468/Felix%20Patzelt
+# The Seesaw Game
+http://seesaw.neuro.uni-bremen.de/
+
+# Xavier Gabaix at NYU Stern - power laws, risk premia puzzles
+http://pages.stern.nyu.edu/~xgabaix/
+
+# Neil Johnson UMiami and book "Financial Market Complexity"
+http://www.physics.miami.edu/~njohnson/
+
+# Brice Dupoyet Florida International University
+http://business.fiu.edu/faculty/faculty_experts.cfm?FlagDirectory=Display&User=dupoyetb
+http://faculty.fiu.edu/~dupoyetb/
+https://www.researchgate.net/profile/Brice_Dupoyet
+
+# Jean-Philippe Bouchaud - Capital Fund Management
+https://www.cfm.fr/
+
+# Arthur Berd Macro Vol Strategies at Capital Fund Management
+https://www.linkedin.com/in/arthurberd
+http://www.risk.net/static/arthur-berd
+# Journal of Investment Strategies
+http://www.risk.net/type/journal/source/journal-of-investment-strategies
+
+# LPPL model review
+http://quantivity.wordpress.com/2011/02/08/curiosity-of-lppl/
+
+# Tim Bollerslev
+http://public.econ.duke.edu/~boller/Published_Papers/
+
+# Doyne Farmer Prediction Company
+http://www.oxfordmartin.ox.ac.uk/people/407
+http://en.wikipedia.org/wiki/J._Doyne_Farmer
+
+
+
+###########
+### factor models anomalies investing smart beta
+
+# Fama-French Factor Model
+http://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model
+http://www.calculatinginvestor.com/2011/04/19/fama-french-tutorial/
+http://www.calculatinginvestor.com/octave-code/calculating-fama-french-loading/
+
+# William J. Bernstein Three-Factor model step by step
+http://www.efficientfrontier.com/ef/101/roll101.htm
+http://www.efficientfrontier.com/ef/index.shtml
+
+# Fama-French Factor Rolling Regression Viewer
+http://mas.xtreemhost.com/
+
+# Fama/French Forum
+http://www.dimensional.com/famafrench/
+
+# Current Factor Returns
+http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+
+# factor investing tutorial
+http://www.finiki.org/wiki/Multifactor_investing_-_a_comprehensive_tutorial
+http://www.bogleheads.org/wiki/Fama_and_French_three-factor_model
+
+# Andrew Ang at Columbia book Asset Management: A Systematic Approach to Factor Investing
+Ang Factor Models Investing.pdf
+http://factorinvestingbook.com/
+http://factorinvestingbook.com/book.html
+
+# Tobias J. Moskowitz: Market Anomalies and Value and Momentum Everywhere
+http://www.chicagobooth.edu/faculty/directory/m/tobias-j-moskowitz
+http://faculty.chicagobooth.edu/tobias.moskowitz/
+http://faculty.chicagobooth.edu/tobias.moskowitz/research/data.html
+
+# Marcial Messmer and Dimtry Borisenko: didactic overview of CAPM and factor models - no code
+http://www.factorstrategies.com/
+
+
+
+###########
+### sources and links
+
+# Jason Strimpel: links to trading, quant finance, technology, statistics, big data, data science, mathematics
+http://finance.jasonstrimpel.com/
+http://links.jasonstrimpel.com/
+https://github.com/strimp099
+
+http://www.reddit.com/r/algotrading/
+
+http://fishyoperations.com/
+
+# hedge fund styles review
+http://eranraviv.com/most-profitable-hedge-fund-style/
+
+
+
+###########
+### Frequentist Hypothesis Testing versus Bayesian Analysis
+
+Charpentier Bayesian Analysis Frequentist Hypothesis Testing.pdf
+Masson Bayesian Analysis Frequentist Hypothesis Testing.pdf
+
+http://lesswrong.com/lw/g13/against_nhst/
+http://statprob.com/encyclopedia/significancetestcontroversyandthebayesianalternative.html
+http://www.bayesian-inference.com/hypotheses
+
+# Bonferroni correction addresses the problem of multiplicity: rejecting a true null hypothesis (type I error) using a multiplicity of tests.
+# as the number of hypotheses increases, the likelihood of witnessing a rare event increases, and rejecting a true null hypothesis (type I error).
+http://en.wikipedia.org/wiki/Bonferroni_correction
+
+
+
+#########
+### prediction, forecasting, wisdom of crowds, human computation, superintelligence
+
+# Good Judgment Project
+http://www.goodjudgmentproject.com/
+https://goodjudgmentproject.com/blog/
+http://en.wikipedia.org/wiki/The_Good_Judgment_Project
+http://www.washingtonpost.com/blogs/monkey-cage/wp/2013/11/26/good-judgment-in-forecasting-international-affairs-and-an-invitation-for-season-3/
+http://www.npr.org/blogs/parallels/2014/04/02/297839429/-so-you-think-youre-smarter-than-a-cia-agent
+http://technologie.gazeta.pl/internet/1,104530,15742315,Czy_tlum_jest_madrzejszy_od_najlepszych_analitykow.html
+http://edge.org/conversation/how-to-win-at-forecasting
+
+http://en.wikipedia.org/wiki/Clickworkers
+
+# Pietro Michelucci at Human Computation Institute (HCI)
+http://humancomputation.org/
+https://www.sciencemag.org/content/351/6268/32.summary
+http://www.technologyreview.com/view/538101/the-emerging-science-of-human-computation/
+http://phys.org/news/2015-12-human-machine-superintelligence-world-dire-problems.html
+
+# difference between prediction and forecasting
+http://stats.stackexchange.com/questions/65287/difference-between-forecast-and-prediction
+http://www.analyticbridge.com/forum/topics/difference-between-prediction
+A prediction is a definitive and specific statement about when and what event will occur, for example: there will be an earthquake in Southern California this December.
+A forecast is a probabilistic statement, usually over a longer time scale, for example: there is a 60% chance of an earthquake in Southern California over the next thirty years.
+Forecasting can be considered a subset of prediction. 
+In statistical regression analysis, predictions are in-sample model outputs, while forecasts are out-of-sample model outputs.
+Nate Silver in The Signal and the Noise:
+The term "predict" comes from Latin, while the term "forecast" comes from English Germanic.
+In ancient times prediction was associatied with fatalism, fortune-telling, and superstition.
+Forecasting reflects the new Protestant worldliness rather than the otherworldliness of the Holy Roman Empire. 
+Making a forecast typically implied planning under conditions of uncertainty. It suggested having prudence, wisdom, and industriousness, more like the way we now use the word foresight.
+
+# Galesic paper Wisdom of Small Crowds: small crowds may be better at forecasting than big ones
+http://www.bloomberg.com/view/articles/2016-07-07/brexit-casts-doubt-on-the-wisdom-of-crowds
+
+# Superforecaster failure at the Good Judgment project run by Philip E. Tetlock estimated likelihood of Brexit at only 23%
+http://www.bloomberg.com/gadfly/articles/2016-06-24/trade-of-the-week-buying-nets-to-catch-helicopter-money
+http://www.bloomberg.com/politics/articles/2016-06-24/they-got-it-wrong-swarms-of-global-chatterers-misread-brexit
+http://www.bloomberg.com/news/articles/2016-05-18/superforecasters-see-24-chance-of-brexit-as-economy-wins-out
+
+# British exit 2016: both prediction and financial markets failed to predict Brexit
+http://www.bloomberg.com/gadfly/articles/2016-06-24/brexit-bookies-odds-and-the-hubris-of-efficient-markets
+http://www.bloomberg.com/view/articles/2016-06-24/the-sun-not-the-rain-tipped-the-u-k-vote
+http://www.optionsstrategynetwork.com/news/2016/6/25/brexit-provides-a-review-of-pitfalls-for-options-and-futures-traders
+Just before the referendum vote on Thursday, the probability for the remain vote implied by betting odds reached 90% probability for remain.
+Financial markets were also wrong, as they rallied into the vote. 
+
+# Cameron Hight: forecasting ability feedback loop needed to improve forecasting accuracy
+http://blog.alphatheory.com/2015/11/superforecasting-the-future-of-analyst-performance-measurement.html
+
+# Alpha Theory accumulates forecasts from analysts, tests their accuracy and aggregates
+https://www.alphatheory.com/home
+http://blog.alphatheory.com/
+
+# Brier score forecasting accuracy
+https://en.wikipedia.org/wiki/Brier_score
+
+# vetr crowdsourced star ratings for stocks
+http://www.benzinga.com/general/crowdsourcing/15/01/5118917/vetr-a-platform-that-crowdsources-stock-ratings
+https://www.vetr.com/
+
+# crowdsource earnings forecasts
+http://www.estimize.com/
+
+http://www.predictwallstreet.com/
+
+# stocks tweets from investors
+http://stocktwits.com/
+
+# wisdom of the inner crowd: reduce your own cognitive biases
+https://hbr.org/2015/05/outsmart-your-own-biases
+Make three estimates: high, low, and mid.
+That makes middle estimate closer to expected value, than a two-number range would.
+Make two forecasts and take the average. 
+Premortem prospective hindsight: imagine a future failure and then explain the cause of it.
+Take an "outside view" of project.
+
+# BattleFin tournament for crowdsourcing best investment talent
+http://www.battlefin.com/
+http://www.battlefin.com/blog
+http://dealbook.nytimes.com/2013/09/26/in-this-battle-arena-warriors-are-armed-with-algorithms/
+http://www.businessweek.com/articles/2012-12-20/the-hedge-fund-hunger-games
+https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge
+# Mark A. Moore First Place in Battlefin Investment Contest
+https://www.linkedin.com/pub/mark-a-moore-ph-d/1b/531/649
+
+# Portfolios with Purpose paper trading contest
+https://www.portfolioswithpurpose.org/
+https://www.portfolioswithpurpose.org/how-it-works
+https://www.portfolioswithpurpose.org/blog/
+
+# Philip Tetlock book Superforecasting: Amateur forecasters are better than experts
+http://blogs.wsj.com/moneybeat/2015/09/25/can-you-see-the-future-probably-better-than-professional-forecasters/
+Philip Tetlock runs the Good Judgment Project.  
+Amateur forecasters in the Good Judgment Project were about 30% more accurate than experts, even those with access to classified information.
+Amateur forecasters were coached to be ruthlessly honest to themselves about their convictions, and why they hold them.
+Amateur forecasters were coached to search for information that might disprove their convictions, and to change them at will, as often as new evidence emerged.
+Amateur forecasters were coached to think in terms of probabilities in an uncertain world.
+The best amateur forecasters were called superforecasters.
+The superforecasters were more careful, curious, open-minded, persistent and self-critical (as measured by psychological tests) than others.
+Superforecasters regard their views as hypotheses to be tested and adjusted, rather than certainties.
+Experts are more confident and arrogant, and less willing to adjust their views.
+Most experts are too quick to make up their minds and too slow to change them. 
+Experts are also paid not just to be right, but to sound right, cocksure even when the evidence is sparse or ambiguous.
+98% of economists expected interest rates to rise in 2014, but they fell instead.
+Most energy analysts didn’t foresee oil price collapse in 2014.
+
+# (10-28-15) Superforecasters predict no rate hike in 2015, not before January 2016
+http://www.bloomberg.com/news/articles/2015-10-28/what-the-superforecasters-say-about-when-the-fed-will-lift-rates
+
+# Philip Tetlock book The Fox vs the Hedgehog Forecaster
+http://historysquared.com/2012/05/31/the-fox-vs-the-hedgehog-forecaster-by-philip-tetlock/
+# Philip Tetlock: Expert Political Judgment
+http://emilkirkegaard.dk/en/wp-content/uploads/Philip_E._Tetlock_Expert_Political_Judgment_HowBookos.org_.pdf
+
+# Good Judgment Project by Philip Tetlock professor at Wharton
+http://www.goodjudgmentproject.com/
+https://goodjudgmentproject.com/blog/
+http://en.wikipedia.org/wiki/The_Good_Judgment_Project
+http://www.washingtonpost.com/blogs/monkey-cage/wp/2013/11/26/good-judgment-in-forecasting-international-affairs-and-an-invitation-for-season-3/
+http://www.npr.org/blogs/parallels/2014/04/02/297839429/-so-you-think-youre-smarter-than-a-cia-agent
+http://technologie.gazeta.pl/internet/1,104530,15742315,Czy_tlum_jest_madrzejszy_od_najlepszych_analitykow.html
+http://edge.org/conversation/how-to-win-at-forecasting
+
+# Good Judgment Project by Philip Tetlock professor at Wharton
+https://www.gjopen.com/
+
+# FutureMAP was a terror prediction market set up by U.S. 
+http://www.bloombergview.com/articles/2015-11-20/preventing-terrorism-through-markets
+Concern was that terrorists might profit from their own acts of terror, 
+by making bets first and then committing acts of terror.
+
+# British elections 2015: prediction markets failed to predict Tory victory
+http://www.bloombergview.com/articles/2015-05-08/prediction-is-hard-especially-about-the-future-it-needs-improving-
+
+# Prediction markets failed to predict no vote in Greek referendum 2015
+http://www.bloombergview.com/articles/2015-07-07/the-wisdom-of-crowds-is-not-that-wise
+http://trendfollowing.com/whitepaper/D4114-FatTailsNonlinearityLMIS.pdf
+https://www.predictit.org/
+Wisdom of crowds works well only when there's proper diversity, aggregation, 
+and incentives.
+Incentives can be part of a feedback loop.
+
+# predictit prediction Wisdom of crowds
+https://www.predictit.org/
+
+# mindhive crowdsource evidence based policy
+http://mindhive.org/
+
+# augur crowdsourced forecasting using Ethereum by Joey Krug
+https://www.augur.net/
+
+# Nate Silver
+http://fivethirtyeight.com/
+http://fivethirtyeight.blogs.nytimes.com/2012/06/25/the-problems-with-forecasting-and-how-to-improve/
+http://en.wikipedia.org/wiki/Nate_Silver
+
+# Mike Bostock
+http://bost.ocks.org/mike/
+http://www.nytimes.com/newsgraphics/2014/senate-model/
+# viewer of GitHub Gist code examples
+http://bl.ocks.org/
+
+# Dart Throwing Chimp
+http://dartthrowingchimp.wordpress.com/
+
+
+
+###########
+### crowdsourcing, wisdomofquants, algorithmic trading platforms, risk systems
+
+# Quantiacs trading platform with Python or Matlab IDE by Martin Froehler
+https://www.quantiacs.com/
+
+# Numerai San Francisco hedge fund founded by Richard Craib
+https://numer.ai/
+https://medium.com/@Numerai/encrypted-data-for-efficient-markets-fffbe9743ba8#.u30y2uofa
+https://medium.com/@Numerai/rogue-machine-intelligence-and-a-new-kind-of-hedge-fund-7b208deec5f0#.rda4l7lx8
+Numerai provides data to anonymous quants, quants submit stock price forecasts, and Numerai pays the best forecasters in bitcoin. 
+
+# Numerai code in Python by Zygmunt Zajac
+http://fastml.com/numerai-like-kaggle-but-with-a-clean-dataset-top-ten-in-the-money-and-recurring-payouts/
+https://github.com/zygmuntz/numer.ai
+
+# Technical Trading Robots based in Europe
+http://predicio.com/
+
+# sigmatrader trades random walk - is it a joke?
+http://sigmatrader.com/
+
+# Wootrader premium black box by Atanas Stoyanov
+https://wootrader.com/
+https://www.quandl.com/blog/wootrader
+# Wootrader statistical engine for strategy allocation based on analysts estimates, fundamental analysis, technical analysis, options volatility
+https://wootrader.com/how-does-wootrader-work/
+
+# Automated Trading Robots for MetaTrader 5 MetaQuotes MQL5 language
+http://www.mql5.com/
+http://championship.mql5.com/
+http://www.mql5.com/en/articles/584
+http://www.mql5.com/en/articles/608
+
+#  Java algorithmic trading platform, using Esper engine
+http://www.algotrader.ch/
+# Esper Open Source Complex Event Processing
+http://esper.codehaus.org/
+http://illposed.net/esperr.html
+
+# Multi-asset, broker neutral automated trading platform
+# Connect to any market destination or data feed, co-located infrastructure
+http://www.quanticatrading.com/
+
+# cryptotrader Bitcoin and cryptocurrency algorithmic trading platform
+# provides backtest and algo automation using scripting language based on Coffeescript
+https://cryptotrader.org/
+
+# EquaMetrics RIZM algo trading with GUI (no coding)
+http://equametrics.com/
+https://rizm.equametrics.com
+http://finance.fortune.cnn.com/2013/06/18/quant-trading-comes-to-main-street/
+
+# PERL toolbox for building trading systems
+http://www.geniustrader.org/
+http://www.geniustrader.org/screenshots.html
+http://www.geniustrader.org/examples/report.html
+
+# JForex automated trading platform
+http://www.dukascopy.com/wiki/
+
+# Zorro trader scripting with API to IB
+http://zorro-trader.com/
+
+# Arthur Berd SmartQuant
+http://www.smartquant.com/
+arthur.berd@smartquant.com
+
+
+###########
+### credit scoring
+
+# Joshua Kunst riskr package for credit scoring
+http://jkunst.com/riskr/
+
+
+
+###########
+### Python Trading
+
+# Mike Halls-Moore Python-centric Algorithmic Trading resource - very good
+http://www.quantstart.com
+
+# Algorithmic trading libraries written in Python
+http://www.quantstart.com/questions/2/algorithmic-trading-libraries-written-in-python
+http://quant.stackexchange.com/questions/8896/except-zipline-are-there-any-other-pythonic-algorithmic-trading-library-i-can-c
+
+# PyAlgoTrade Algorithmic Trading Library with quantopian example
+https://github.com/gbeced/pyalgotrade
+http://gbeced.github.io/pyalgotrade/
+http://gbeced.github.io/pyalgotrade/docs/v0.15/html/tutorial.html
+# VWAP Momentum strategy quantopian example
+http://gbeced.github.io/pyalgotrade/docs/v0.15/html/sample_vwap_momentum.html
+# PyAlgoTrade group
+https://groups.google.com/forum/#!forum/pyalgotrade
+http://osrc.dfm.io/gbeced
+http://www.freelancer.com/u/gbeced.html
+
+# Python machine learning trading simple tutorial
+https://www.toptal.com/machine-learning/s-p-500-automated-trading
+
+# Python trading paid tutorial
+http://www.tradingwithpython.com/
+http://tradingwithpython.blogspot.com
+
+http://nbviewer.ipython.org/urls/dl.dropbox.com/u/11352905/notebooks/trading%2520with%2520python%2520example.ipynb
+
+# Thomas Wiecki probabilistic programming
+http://twiecki.github.io/bayesian_risk_perf_boston_data_fest14.slides.html#/
+# Thomas Wiecki Zipline in the Cloud
+http://nbviewer.ipython.org/urls/raw.github.com/twiecki/zipline_in_the_cloud_talk/gh-pages/Zipline%2520in%2520the%2520Cloud%2520--%2520PyData%252013.ipynb
+
+# Python Machine Learning for Trading course at Georgia Tech
+http://wiki.quantsoftware.org/index.php?title=ML4Trading
+http://wiki.quantsoftware.org/index.php?title=ML4TradingOverview
+https://www.coursera.org/course/compinvesting1
+# Python-based open source software framework designed to support portfolio construction and management
+http://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit
+
+# Tucker Balch Georgia Tech
+http://www.cc.gatech.edu/~tucker/
+http://augmentedtrader.wordpress.com/
+https://lucenaresearch.com/
+
+# ultra-finance data and trading strategies (Wes McKinney?)
+https://code.google.com/p/ultra-finance/
+
+# IPython Notebooks
+http://nbviewer.ipython.org/
+
+# RapidQuant paid service using RQlib: signal generation, backtesting, factors, risk analysis, portfolio construction, backtesting, and performance attribution
+http://www.rapidquant.com/
+
+# stock market structure in Python
+http://scikit-learn.sourceforge.net/dev/auto_examples/applications/plot_stock_market.html
+
+
+
+###########
+### machine learning
+
+# blog: Machine Learning Mastery
+http://machinelearningmastery.com/
+# Tour of Machine Learning Algorithms
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+
+# Trevor Hastie
+http://blog.revolutionanalytics.com/2013/05/hastie-glmnet.html
+http://www.stanford.edu/~hastie/
+https://www.stat.auckland.ac.nz/~yee/smartpred/index.shtml
+https://www.stat.auckland.ac.nz/~yee/smartpred/DummiesGuide.txt
+https://www.stat.auckland.ac.nz/~yee/smartpred/TechnicalGuide.txt
+https://www.stat.auckland.ac.nz/showperson.php?firstname=Thomas&surname=Yee
+
+# Mirko Krivanek's Blog (37)
+http://www.datasciencecentral.com/profiles/blog/list?user=18dbktubfz01d
+
+# Introduction to Statistical Learning: with Applications in R book by Gareth James, Daniela Witten, Trevor Hastie (Hardcover)
+http://www-bcf.usc.edu/~gareth/ISL/
+# Trevor Hastie web page
+http://www.stanford.edu/~hastie/swData.htm
+# presentations
+http://web.stanford.edu/~hastie/TALKS/?C=M;O=D
+
+# Michael Kearns UPenn machine learning trading and finance
+http://www.cis.upenn.edu/~mkearns/
+
+# Machine Learning tutorials by Andrew W. Moore
+http://www.autonlab.org/tutorials
+
+# Tom Mitchell (CMU) Machine Learning 1997
+http://www.cs.cmu.edu/~tom/mlbook.html
+http://www.cs.cmu.edu/~tom/mlbook-chapter-slides.html
+http://www.cs.cmu.edu/~tom/10701_sp11/
+
+# Machine Learning with Strata
+http://strata.oreilly.com/ben
+http://practicalquant.blogspot.com/
+http://practicalquant.blogspot.com/2012/10/mining-time-series-with-trillions-of.html
+http://practicalquant.blogspot.com/2013/10/deep-learning-oral-traditions.html
+
+# Manifold learning is an approach to non-linear dimensionality reduction.
+http://scikit-learn.sourceforge.net/dev/modules/manifold.html
+
+# Machine Learning Taiwan lecture notes
+http://www.csie.ntu.edu.tw/~htlin/course/ml13fall/doc/07_handout.pdf
+
+# Machine Learning CalTech lecture notes
+http://blaenkdenum.com/notes/machine-learning/
+
+# Machine Learning from Streaming Data
+http://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/
+
+# Support Vector Machines
+http://www.reddit.com/r/algotrading/comments/14sipb/support_vector_machines/
+http://www.reddit.com/r/algotrading/
+
+# James Brofos Python Machine Learning
+http://www.cs.dartmouth.edu/~james/
+https://github.com/JamesBrofos
+
+
+### SVM Support Vector Machines
+
+# Huerta SVM Support Vector Machines Stock Selection
+Huerta SVM Stock Selection.pdf
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1930709
+
+# Alexander Smola - SVM and Kernel methods
+http://alex.smola.org/
+http://alex.smola.org/slides.html
+
+# Linear classification Kernel trick
+http://en.wikipedia.org/wiki/Kernel_trick
+
+
+### CART
+
+# CART (Classification And Regression Trees) Stock Market Forecasting
+http://www.thertrader.com/2014/02/28/using-cart-for-stock-market-forecasting/
+# Classification and regression trees
+http://www.stat.wisc.edu/~loh/treeprogs/guide/wires11.pdf
+http://www.analyticsvidhya.com/blog/2014/06/comparing-cart-random-forest-1/
+
+# Axel Sunden thesis CART classification and regression trees trading
+http://www.math.kth.se/matstat/seminarier/reports/M-exjobb10/100308b.pdf
+
+# Loh CART Classification and Regression Trees
+http://www.stat.wisc.edu/~loh/treeprogs/guide/wires11.pdf
+
+
+### random forests
+
+# random forest simple illustration
+http://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/
+http://www.analyticsvidhya.com/blog/2014/06/comparing-cart-random-forest-1/
+
+# Random Forests in Python using the GPU
+http://blog.explainmydata.com/2013/10/training-random-forests-in-python-using.html
+
+# Python code Gilles Louppe dissertation Understanding Random Forests
+https://github.com/glouppe/phd-thesis
+
+# Alexander Didenko Finuniversity Moscow Random Forest Ensemble Learning Portfolio Views
+http://moneymakingmankind.wordpress.com/
+https://github.com/cocaineteddybear
+http://quant.stackexchange.com/users/6535/alexander-didenko
+http://moneymakingmankind.wordpress.com/2014/09/01/algotrading-in-bloomberg-r-and-beyond-financial-university-spring-fall-2014/
+
+
+
+###########
+### neural networks
+
+# multiple linear regression using neural networks
+http://www.stuartreid.co.za/misconceptions-about-neural-networks/
+# Trading with Artificial Neural Nets
+http://www.dukascopy.com/fxcomm/fx-article-contest/?Trading-With-Artificial-Neural-Nets&action=read&id=1300
+
+# Matthew Dixon neural networks
+http://stuart.iit.edu/faculty/matthew-dixon
+
+# Nicholas Polson Bayesian models neural networks
+http://faculty.chicagobooth.edu/nicholas.polson/
+http://www.chicagobooth.edu/faculty/directory/p/nicholas-polson
+
+# Kohonen Neural Network Self-Organizing Maps
+https://en.wikipedia.org/wiki/Self-organizing_map
+http://cortex.snowcron.com/index.html
+http://cortex.snowcron.com/forex_som.htm
+
+
+
+###########
+### deep Learning and Boltzmann machines
+
+http://www.economist.com/node/17305316
+
+http://www.trade2win.com/boards/trading-software/105880-3rd-generation-nn-deep-learning-deep-belief-nets-restricted-boltzmann-machines.html
+
+http://metacademy.org/roadmaps/rgrosse/deep_learning
+http://www.wired.com/2013/12/facebook-yann-lecun-qa/
+
+# Theano Python library
+http://www.deeplearning.net/software/theano/
+http://deeplearning.net/
+http://deeplearning.net/2013/05/20/g-hinton-wants-to-train-neural-nets-with-trillions-of-parameters/
+
+http://markus.com/deep-learning-101/
+http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html
+
+http://www.alexburns.net/tag/quantitative-trading/
+
+http://quantlabs.net/blog/2011/07/quant-development-neural-networks-in-swing-trading/
+
+http://censix.com/learning/
+
+http://dekalogblog.blogspot.com/2013/02/restricted-boltzmann-machine.html
+
+http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/
+
+http://censix.com/tag/restricted-boltzmann-machine/
+
+http://alandgraf.blogspot.com/?view=flipcard
+
+http://deeplearning4j.org/restrictedboltzmannmachine.html
+
+http://gigaom.com/2014/06/08/why-were-all-so-obsessed-with-deep-learning/
+
+http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
+http://cs.nyu.edu/~zaremba/
+
+# Ersatz Launches Industry First GPU Platform for Deep Learning
+http://www.ersatzlabs.com/
+http://www.programmableweb.com/news/ersatz-launches-industry-first-gpu-platform-deep-learning/2014/06/11
+http://gigaom.com/2014/06/11/more-deep-learning-for-the-masses-courtesy-of-ersatz-labs/
+
+# Skymind
+http://www.skymind.io/
+http://gigaom.com/2014/06/02/a-startup-called-skymind-launches-pushing-open-source-deep-learning/
+# deep-learning library for Java, supported by Skymind
+http://deeplearning4j.org/
+
+# web Deep Learning
+http://www.alchemyapi.com/
+
+### Nvidia has developed the Tesla GPU specifically for deep learning
+# CUDA Nvidia
+http://www.nvidia.com/object/tesla-supercomputing-solutions.html
+http://www.nvidia.com/object/tesla-servers.html
+
+http://www.cio.com/article/750267/Nvidia_Pushes_Brain_like_Computing_with_New_Graphics_Products
+
+Nvidia offers free trial on a remote cluster
+http://www.nvidia.com/object/gpu-test-drive.html
+
+Own a GPU Starter DevKit for $5,000 
+http://blogs.nvidia.com/blog/2014/06/04/new-gpu-starter-devkit/
+
+Yandex, Russia’s most popular search engine, is the first to use NVIDIA Tesla GPUs broadly in production to improve the quality of ranking web search results.
+http://blogs.nvidia.com/blog/2014/03/25/machine-learning/
+
+Nvidia has is partnering with AWS to offer their new GPU
+http://www.nvidia.com/object/gpu-cloud-computing-services.html
+
+# Getting Started with CUDA and Parallel Programming in the AWS Cloud
+http://aws.amazon.com/articles/7249489223918169
+
+# AWS offers cloud free for 12 months
+http://aws.amazon.com/free/
+https://aws.amazon.com/
+
+# GPUs on AWS cloud for Deep Learning
+http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html
+
+
+
+###########
+### Finance Packages and Libraries
+
+# QuantLib Library
+http://quantlib.org/index.shtml
+http://quantlib.org/reference/class_quant_lib_1_1_calendar.html
+
+
+
+###########
+### data sources
+
+# best data sources
+http://quant.stackexchange.com/questions/141/what-data-sources-are-available-online
+http://quant.stackexchange.com/questions/18215/where-to-get-long-time-historical-intraday-data
+https://tfetimes.com/best-quant-data-sources/
+http://www.quandl.com/
+http://blog.quandl.com/
+http://quantpedia.com/Links/HistoricalData
+
+# AQR
+https://www.aqr.com/library/data-sets/
+http://www.aqrindex.com/AQR_Momentum_Indices/Momentum_Research/Content/default.fs
+
+# Wharton Research Data Services (WRDS) incl CRSP, COMPUSTAT, NYSE Trade and Quote
+http://wrds-web.wharton.upenn.edu/wrds/
+https://wrds-web.wharton.upenn.edu/wrds/about/WRDS%20FAQs.cfm
+# WRDS tutorials
+https://wrds-web.wharton.upenn.edu/wrds/E-Learning/
+http://libguides.library.kent.edu/c.php?g=277981&p=1853494
+# Using R with WRDS
+https://wrds-web.wharton.upenn.edu/wrds/support/Accessing%20and%20Manipulating%20the%20Data/_007R%20Programming/_001Using%20R%20with%20WRDS.cfm
+https://wrds-web.wharton.upenn.edu/wrds/support/Accessing%20and%20Manipulating%20the%20Data/_010Encoding%20your%20WRDS%20Password.cfm
+# TAQMNGR processes raw data from WRDS (Wharton Research Data Service)
+http://cran.r-project.org/web/packages/TAQMNGR/
+# download WRDS data using package RPostgreSQL
+https://iangow.wordpress.com/2011/08/01/wrds-sas-versus-postgresql/
+# download WRDS data into R using SAS
+https://iangow.wordpress.com/2012/09/03/remote-wrds-sas-from-r/
+# download WRDS data using Perl script
+https://github.com/iangow/wrds_pg
+# Java program by bearcave:
+http://www.bearcave.com/finance/wrds_data.html
+
+# CRSP data
+http://www.crsp.com/
+
+# Federal Reserve Bank of St. Louis
+http://research.stlouisfed.org/fred2
+# GeoFRED map of FRED data
+http://geofred.stlouisfed.org
+# ALFRED to compare vintage data with the latest
+http://alfred.stlouisfed.org
+
+# Fama/French Factors
+http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+
+# data.table project
+http://datatable.r-forge.r-project.org/
+
+# OptionMetrics
+http://www.optionmetrics.com/
+
+### intraday and tick data from Yahoo and Google for U.S. stocks
+http://www.quantshare.com/sa-426-6-ways-to-download-free-intraday-and-tick-data-for-the-us-stock-market
+http://stat.researchforprofit.com/2014/01/15/intraday-prices/
+http://www.marketcalls.in/database/google-realtime-intraday-backfill-data.html
+http://stackoverflow.com/questions/15609334/how-to-download-intraday-stock-market-data-with-r
+
+# AlgoSeek on Quandl
+https://www.algoseek.com/
+
+# Yahoo intraday and EOD data for U.S. stocks
+http://theeclecticengineer.blogspot.com/2014/03/summary-of-yahoos-financial-api.html
+http://www.quora.com/Is-http-chartapi-finance-yahoo-com-a-valid-web-service
+https://developer.yahoo.com/forum/Y-OS-Documentation/Where-can-I-find-chartapi-finance-yahoo-com-documentation/1264748725000-703c455d-ad1e-30fd-880a-431518d40346/
+
+# Garrett See
+http://silkriver-edges.blogspot.com/2013/07/intraday-historical-data.html
+http://silkriver-edges.blogspot.com/2013/07/r-for-trading.html
+
+# data sources review
+http://quant.stackexchange.com/questions/141/what-data-sources-are-available-online
+
+# fundamental corporate data
+http://stackoverflow.com/questions/10177435/get-annual-financial-data-for-a-stock-for-many-years-in-r
+Factset
+Compustat
+
+# IBES Institutional Brokers Estimate System
+http://financial.thomsonreuters.com/en/products/data-analytics/company-data/ibes-estimates.html
+
+# vendors: CapitalIQ
+# data source corporate Calcbench - 3k/yr
+https://www.calcbench.com/
+
+# CBOE
+http://www.cboe.com/MktQuote/default.aspx
+
+# American Association of Individual Investors Stock Investor Pro 
+# fundamental corporate data earnings estimates cash flow, income statements and balance sheets
+http://www.aaii.com/store/sipro
+# backtesting using Stock Investor Pro
+http://www.aaii.com/stock-investor-pro/article/Backtesting-Using-Stock-Investor-Pro
+http://www.oldschoolvalue.com/blog/investment-tools/how-to-backtest-investing-strategies/
+
+# Google public economic data + Data Explorer allows upload and visualization
+http://www.google.com/publicdata/directory
+
+# FINRA Corporate and Agency Bonds (TRACE), Municipal Bonds (MSRB) and end of day prices for U.S. Treasury Bonds.
+http://finra-markets.morningstar.com/BondCenter/Default.jsp
+
+# SEC EDGAR database of 10-K annual and 10-Q quarterly company filings
+http://www.sec.gov/edgar.shtml#.VEzsi_ldXw8
+
+# Nanex data
+http://www.nanex.net/
+http://www.bloomberg.com/news/2013-11-26/speed-traders-meet-nightmare-on-elm-street-with-nanex.html
+http://physicsoffinance.blogspot.com/2013/06/nanex-visualizing-zillions-of-trades-in.html
+
+http://www.quantshare.com/sa-43-10-ways-to-download-historical-stock-quotes-data-for-free
+
+# Thinknum financial data and web platform for firm cashflow models, financial analysis and investment research
+http://thinknum.com/
+http://www.thinknum.com/browseFunctions
+# Thinknum and R
+http://www.econometricsbysimulation.com/2013/09/thinknum-new-interactive-public.html
+
+# huge list of datasets and data repositories
+https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
+
+# Market Data for 250/month
+https://quantgo.com/
+
+# Intraday historical data
+http://r.789695.n4.nabble.com/intraday-historical-data-td4660996.html
+
+# Institutional Historical Market Data
+https://quantgo.com/?affid=17d
+
+# well regarded sources:
+http://www.iqfeed.net/index.cfm
+https://www.cqgdatafactory.com/
+# also eSignal TradeStation:
+
+# public data aggregator
+http://enigma.io/
+
+http://www.eoddata.com
+http://www.barchartmarketdata.com/
+https://www.globalfinancialdata.com/
+http://www.tickdata.com/
+http://www.xignite.com/
+http://www.ninjatrader.com/
+http://www.kinetick.com/
+
+# Datasets for Data Mining
+http://www.kdnuggets.com/datasets/
+
+http://www.google.com/finance
+http://www.google.com/finance#stockscreener
+
+http://www.tradingeconomics.com/
+
+# ReturnFinder stock total return data
+http://correctcharts.com/returnfinder/etfs
+
+# Sirca data consortium
+http://www.sirca.org.au/
+
+# Mapping symbols between tickers, Reuters RICs and Bloomberg tickers
+http://quant.stackexchange.com/questions/7568/mapping-symbols-between-tickers-reuters-rics-and-bloomberg-tickers
+
+# stock codes mapping Reuters, Bloomberg, ISIN
+http://www.tr8tool.com/
+
+# R packages open data project
+http://ropensci.org/
+https://github.com/sckott/
+
+# Reuters
+http://thomsonreuters.com/financial/market-data/
+
+# CME data
+http://www.cmegroup.com/
+http://www.cmegroup.com/trading/products/
+http://www.cmegroup.com/product-codes-listing/month-codes.html
+http://www.barchart.com/futures/specifications.php
+
+load("E:/mktdata/ZQF3.rda")
+E:/mktdata/ZQF3
+load("E:/mktdata/sec/ESM9/2009.04.02.ESM9.rdata")
+getSymbols("ES")
+
+directories for RICS that I do recognize (like ESH3) are empty.
+the directories with files in them have names that I can't recognize as RICS or anything related.
+not in 1min bars
+what is Price column
+
+ZS	Soybean Futures
+ZSK5	very large - 3,731,823 rows
+ZSK5.N5	23,738 rows
+ES*	empty dir
+Euribor Futures empty dir
+FEIBFZ4.Z5.Z6	empty dir
+FEIH0	empty dir
+german bund futures
+GE*
+
+
+### Recruiters
+
+Felix Bateman
+Senior Consultant Banking & Finance
+Quants & Systematic Trading
+Huxley Associates
++44 (0)20-7469-5055
+bateman@huxley.com
+
+
+### Jobs
+
+http://jobs.phds.org/
+
+
+### Names
+
+http://wordoid.com/
+
+ablealgo@gmail.com
+
+quick
+algoquants, 
+ablealgo, 
+algoforte, algoforce, algority, newportalpha, newportresearch, 
+jpresearch, 
+algoricity, 
+
+algostar, 
+algopro, 
+algoboss, 
+algodoc, 
+algocloud, 
+algofix, 
+algograph, 
+algolab, 
+algomeister, 
+algoquant, 
+algotea, 
+algotera, 
+algomill, 
+algoworks, 
+iquant, 
+quantboss, 
+quanticiti, 
+quantfix, 
+quantcrunch, 
+quantea, 
+quantera, 
+quanterra, 
+quantops, 
+smartalgo, 
+tradehound, 
+wisdomofquants, 
+
+Alpha Research
+Alpha IQ
+Alpha Pro
+Algo Pro
+Algo Quants
+Alpha Quant
+Alpha Labs
+Alpha Farms
+Newport Research
+Newport Alpha
+

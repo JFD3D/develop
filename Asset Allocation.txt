@@ -1,0 +1,75 @@
+Asset Allocation papers
+
+Cliff Asness (of AQR Fund):  Value and Momentum Everywhere
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2174501
+
+Sharpe:  Adaptive Asset Allocation
+http://www.stanford.edu/~wfsharpe/aaap/wfsaaap.pdf
+
+Andrew Clare:  The Trend is our Friend: Risk Parity, Momentum and Trend Following in Global Asset Allocation http://www.cassknowledge.com/research/article/trend-funds-assets-cass-knowledge
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2275745
+
+David Blitz of Robeco Asset Management:  Global Tactical Cross-Asset Allocation: Applying Value and Momentum Across Asset Classes
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1079975
+  
+David Blitz of Robeco Asset Management: selected papers
+http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=113731
+
+Peng Wang:  Using a Z-score Approach to Combine Value and Momentum in Tactical Asset Allocation
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1726443
+
+Wouter J. Keller:  Generalized Momentum and Flexible Asset Allocation
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2193735
+
+Marcos López de Prado
+http://www.quantresearch.info
+
+Systematic Edge
+http://systematicedge.wordpress.com
+
+
+Dynamic Asset Allocation
+http://www.systematicportfolio.com/rfinance2013
+
+David Varadi
+Flexible Plan ETF
+http://cssanalytics.wordpress.com
+
+
+Mebane Faber
+http://www.mebanefaber.com
+http://www.cambriainvestments.com
+http://alphaclone.com
+
+
+Bridgewater Risk Parity
+http://www.bwater.com/Uploads/FileManager/research/All-Weather/All-Weather-Story.pdf
+
+http://markovprocesses.com/blog
+
+http://troyshu.wordpress.com/2013/01/24/adaptive-asset-allocation-momentum-and-risk-parity
+
+http://systematicinvestor.wordpress.com/2012/08/14/adaptive-asset-allocation
+http://cssanalytics.wordpress.com/2012/07/17/adaptive-asset-allocation-combining-momentum-with-minimum-variance
+http://seekingalpha.com/article/587491-adaptive-asset-allocation-a-true-revolution-in-portfolio-management
+http://cssanalytics.wordpress.com/2013/04/04/minimum-variance-algorithm-mva-test-drive
+
+http://www.thinknewfound.com
+http://d1ao0hdmmn2izt.cloudfront.net/wp-content/uploads/2012/11/Allocating-Under-Uncertainty.pdf
+
+http://www.systematicportfolio.com/minvar
+
+http://www.adaptiveassetallocation.net
+
+
+Dynamic Asset Allocation                                        
+http://gestaltu.com/2013/05/dynamic-asset-allocation-for-practit
+ioners-part-1-the-many-faces-of-momentum-2.html                 
+http://gestaltu.com/2013/06/dynamic-asset-allocation-for-practit
+ioners-part-2-risk-adjusted-momentum.html                       
+http://gestaltu.com/2013/08/dynamic-asset-allocation-for-practit
+ioners.html                                                     
+http://seekingalpha.com/article/1612302-equity-momentum-august-2
+013                                                             
+http://alphahive.wordpress.com
+

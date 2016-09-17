@@ -1,0 +1,13 @@
+*.tmp
+*.pst
+*.Rhistory
+*.RData
+*.Rproj.user
+*.Rproj.user/
+data/
+web/
+R/
+Explore/
+GIThub/
+Python/
+BAK/

@@ -1,0 +1,147 @@
+# quantopian main page
+https://www.quantopian.com/
+https://www.quantopian.com/faq
+https://www.quantopian.com/help
+
+# add account
+https://www.quantopian.com/account#trading
+
+# github home
+https://github.com/quantopian
+https://github.com/quantopian/zipline
+http://zipline.io/
+
+# Contribution Requests
+https://github.com/quantopian/zipline/wiki/Contribution-Requests
+# quantopian algos - old
+https://github.com/quantopian/quantopian-algos
+
+# Zipline in the Cloud - code for presentation by Thomas Wiecki
+# describes Bayesian Optimization via Gaussian Processes
+http://nbviewer.ipython.org/github/twiecki/zipline_in_the_cloud_talk/blob/gh-pages/Zipline%20in%20the%20Cloud%20--%20PyData%2013.ipynb
+
+# Jessica Stauth - VP Quant Strategy @quantopian
+https://www.quantopian.com/users/50f97faeaa4b3d78fd0000ee
+
+# Alisa Deychman
+adeychman@quantopian.com
+https://www.quantopian.com/posts/assigning-max-notional-to-value-of-total-cash-in-portfolio
+
+
+# Grant Kiehne - active user
+https://www.quantopian.com/users/4f005d1b5e32ee000b000001
+https://github.com/gkiehne/quantopian
+https://www.quantopian.com/posts/finite-state-machine-in-python
+
+# Anony Mole - sounds experienced
+https://www.quantopian.com/users/50e91684917ddce675000101
+https://www.quantopian.com/posts/another-way-to-rebalance-simple-price-and-volume-return
+
+# censix on quantopian
+https://www.quantopian.com/users/51349dedd08eef63e500012a
+
+# Peter Cawthron - active user
+https://www.quantopian.com/users/50b24ec26d284c0200000088
+
+# Alexander Izydorczyk - student at Wharton
+https://www.quantopian.com/users/505cd9730106e00002000057
+http://blog.quantopian.com/upgrade-capital-competitor-alexander-izydorczyk/
+https://www.linkedin.com/pub/alexander-izydorczyk/59/907/863
+https://www.quantopian.com/posts/can-naivebayes-tell-us-anything-about-momentum-trading#51265f83f9d6c327a00001ff
+# code for machine learning training and validation sets
+https://www.quantopian.com/posts/machine-learning
+
+http://blog.quantopian.com/upgrade-capital-competitor-neal-basumullick
+
+# Upgrade Capital is a talent scout - partnership with Fortress
+http://upgradecapital.com/
+http://blog.quantopian.com/algorithm-development-competition-with-upgrade-capital/
+
+# good strategies
+http://blog.quantopian.com/5-basic-quant-strategies-implemented-by-the-quantopian-community/
+https://www.quantopian.com/posts/mebane-faber-relative-strength-strategy-with-ma-rule
+https://www.quantopian.com/posts/rules-based-sector-rotation-strategy-based-on-mebane-faber-research
+https://www.quantopian.com/posts/ernie-chans-ewa-slash-ewc-pair-trade-with-kalman-filter
+https://www.quantopian.com/posts/modern-portfolio-theory-minimum-variance-portfolio
+
+# building custom indicator
+https://www.quantopian.com/posts/building-custom-indicator-in-quantopian
+
+# Random Forest
+https://www.quantopian.com/posts/machine-learning-turn-$10k-into-2-dollars-dot-25m-in-two-years-plus-22407-percent-returns-by-trading-brk-a-berkshire-hathaway-with-random-forest
+
+# paper trading
+https://www.quantopian.com/help#overview-papertrading
+# live trading
+https://www.quantopian.com/posts/paper-trading-with-interactive-brokers-open-beta-launch
+# algo simple monthly rebalance
+https://www.quantopian.com/posts/diversified-portfolio-monthly-rebalance-for-live-trading
+
+# Live results vs. backtest results at a glance
+https://www.quantopian.com/posts/live-results-vs-backtest-results-at-a-glance
+
+# fetcher from Quandl
+https://www.quantopian.com/posts/how-to-use-the-fetcher-from-quandl-dataset-to-backtest-the-strategy-via-quantopian#535866dc2715c337bf0000be
+
+
+# major contributor: Eddie Hebert
+https://github.com/ehebert
+
+# major contributor: Thomas Wiecki
+https://github.com/twiecki
+
+# Tutorial scripts for PyData Boston 2013
+https://github.com/twiecki/financial-analysis-python-tutorial
+# Pandas replication of Google Trends paper
+https://github.com/twiecki/financial-analysis-python-tutorial/blob/master/2.%20Pandas%20replication%20of%20Google%20Trends%20paper.ipynb
+
+# PyMC3 Bayesian fitting and estimation of statistical models to data
+https://github.com/twiecki/pymc3_talk
+
+
+# Theano Python compiler for multi-dimensional arrays
+http://deeplearning.net/software/theano/
+https://pypi.python.org/pypi/Theano
+
+
+# A community for developers and users of Python data tools
+http://pydata.org/
+
+# PyrexGsl provides a Pyrex interface for the GNU Scientific Library (GSL).
+# Pyrex is a language for writing code that mixes Python and C data types, and compiles it into a C extension module for Python.
+http://wwwteor.mi.infn.it/~pernici/pyrexgsl/pyrexgsl.html
+
+
+https://sites.google.com/a/brown.edu/lncc/home/members/thomas-wiecki
+http://twiecki.github.io/
+
+
+# The ideal system
+
+user can define strategies in R language
+
+screening on fundamental data
+
+econometric time series data
+
+strategies can consume a variety of time series data
+price quotes and ticks
+price bars OHLC
+
+sentiment indicators
+Google trends
+
+aggregations
+VWAP
+median
+
+regularization
+
+
+validation in rolling window
+
+be tested 
+
+
+
+

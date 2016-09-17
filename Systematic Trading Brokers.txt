@@ -1,0 +1,347 @@
+### Systematic Trading Brokers
+
+###########
+### Exchanges
+
+# Lykke distributed exchange using blockchain, founded by Richard Olsen founder of OANDA
+https://lykke.com/
+
+# Quantitative Brokers by Robert Almgren - friend of Neil Chriss - high frequency volatility, order book
+http://quantitativebrokers.com/
+http://www.courant.nyu.edu/~almgren/
+
+
+###########
+### Social Trading
+
+http://www.intjcapital.com/algorithmic-trading-autotrading-universe/
+
+# Social Trading portal
+http://socialtradingguru.com/
+# leading social trading platforms
+http://socialtradingguru.com/networks/social-trading-networks
+
+# FX largest social trading network
+http://socialtrading.zulutrade.com/
+
+http://social.ayondo.com/en/home
+
+https://zercatto.com/
+
+# spinoff from PDT Partners (Process Driven Trading Partners) led by quantitative trader Peter Muller
+http://extractalpha.com/models/
+
+# eToro social investment network for trading CFD's (contract for difference)
+http://www.etoro.com/
+http://socialtradingguru.com/etoro-scam-or-not
+
+# London social trading network
+https://www.tradecrowd.com
+
+# Quantocracy blog of blogs
+http://quantocracy.com/
+
+
+###########
+### algo systematic trading robots
+
+# Quantopian, Quantiacs, and Numerai funds are creating crowdsourced hedge funds
+http://www.ft.com/cms/s/0/0a706330-5f28-11e6-ae3f-77baadeb1c93.html
+
+# very basic article
+http://www.forbes.com/sites/jeremybogaisky/2013/09/04/quants-r-us-algorithmic-trading-trickles-down-to-individual-investors/
+
+http://en.wikipedia.org/wiki/Algorithmic_trading
+
+# The Autotrading Universe
+http://www.intjcapital.com/algorithmic-trading-autotrading-universe
+
+# World of Algorithmic Trading - news machup by Pavel Curda
+http://paper.li/f-1361958382
+
+# Low latency trading strategies 
+https://www.linkedin.com/pulse/how-set-up-your-own-high-frequency-trading-firm-ariel-silahian
+Liquidity rebate capture: providing liquidity by making a market on a security or contract. 
+Automated market making: using low-latency algorithms to make markets.
+Latency arbitrage: exploiting delays in orders submitted to different exchanges. 
+Automatic index benchmarking: using an algorithm to correlate a price to an market index, such as the S&P 500.
+
+# Quantconnect trading platform with C# IDE
+https://www.quantconnect.com/
+http://www.intjcapital.com/2013/04/11/quantopian-and-quantconnect/
+http://www.forexthink.com/platforms/quantconnect-cloud-based-algorithm-trading-service-community/
+
+# technical indicators plus machine learning - generates MetaTrader4 code
+https://www.inovancetech.com/
+
+# Quantlabs.net with IDE in Python, Matlab, and R, Simulink, - R courses paywall - Bryan Downing
+http://quantlabs.net/
+
+# collective2 trading platform with undefined IDE
+# Developers can sell their trading system
+http://www.collective2.com/
+http://www.thesystematictrader.com/2013/05/21/survival-of-the-fittest-on-collective2/
+http://www.intjcapital.com/2013/01/29/collective2-a-review/
+
+
+
+
+###########
+### Interactive Brokers
+
+# Interactive Brokers
+https://www.interactivebrokers.com/en/main.php
+# Marketplace@IB
+https://www.interactivebrokers.com/en/?f=2277
+
+# IB paper trading account
+https://individuals.interactivebrokers.com/en/index.php?f=tws&p=papertrader
+http://quant.stackexchange.com/questions/8744/what-is-the-difference-between-the-interactive-brokers-demo-account-and-a-person
+
+# IB historical data
+https://www.interactivebrokers.com/en/software/api/apiguide/tables/historical_data_limitations.htm
+https://www.interactivebrokers.com/en/software/api/apiguide/excel/historical_data_page.htm
+https://www.interactivebrokers.com/en/index.php?f=marketData&p=qbooster
+
+# IB manuals
+https://www.interactivebrokers.com/download/newMark/PDFs/APIprintable.pdf
+http://www.interactivebrokers.com/download/ExcelApiBeginners.pdf
+
+# Interactive Brokers TWS API Discussion
+https://groups.yahoo.com/neo/groups/TWSAPI/info
+https://www.interactivebrokers.com/en/software/tws_FAQs.php
+
+# Python IBPy
+http://www.quantstart.com/articles/Using-Python-IBPy-and-the-Interactive-Brokers-API-to-Automate-Trades
+
+# swigibpy Python package for Interactive Brokers API
+http://qoppac.blogspot.co.uk/2014/03/using-swigibpy-so-that-python-will-play.html
+# (weak) Automated Trading System Interactive Brokers
+http://www.investopedia.com/university/automated-trading-systems-using-interactive-brokers/automated-trading.asp
+
+# TradeKing - broker
+https://www.tradeking.com/
+https://developers.tradeking.com/documentation/r
+# R interface to authenticate via OAuth to any server
+http://cran.r-project.org/web/packages/ROAuth/index.html
+
+
+###########
+### Quantopian
+
+# Quantopian trading platform with Python IDE
+https://www.quantopian.com
+# lectures and trading ideas
+https://www.quantopian.com/lectures
+https://www.quantopian.com/posts/trading-strategy-ideas-thread
+# Trading costs - slippage
+https://www.quantopian.com/posts/slippage
+https://www.quantopian.com/posts/questions-regarding-bid-slash-ask-spread
+https://www.quantopian.com/posts/custom-slippage-modeling-transaction-costs-for-algorithmic-strategies
+https://www.quantopian.com/posts/trade-at-the-open-slippage-model
+# Search queries sentiment indicators
+https://www.quantopian.com/posts/market-sentiment-market-mood-finsents-signals-detection
+http://techcrunch.com/2013/10/02/quantopian
+http://www.forbes.com/sites/petercohan/2013/10/04/is-quantopian-the-next-bloomberg
+http://online.barrons.com/news/articles/SB50001424052748704551504578489963625123642
+# latent states using a Gaussian Hidden Markov Model
+https://www.quantopian.com/posts/inferring-latent-states-using-a-gaussian-hidden-markov-model
+# Machine Learning from Streaming Data
+https://www.quantopian.com/posts/machine-learning-from-streaming-data
+
+# Zipline, a Pythonic Algorithmic Trading Library
+https://github.com/quantopian/
+https://github.com/quantopian/zipline
+
+# Quantopian fund received $250 million investment from Steven Cohen
+http://www.wsj.com/articles/steven-a-cohens-newest-bet-do-it-yourself-computer-traders-1469592001
+Millennium Management and QuantConnect also have systems that allow amateur quants to submit their algorithms for potential use in trading.
+
+# Quantopian fund outperformed S&P500 index in 2016
+http://www.ft.com/intl/cms/s/0/0808729a-faa6-11e5-b3f6-11d5706b613b.html
+http://www.bloomberg.com/news/articles/2016-03-16/barbarian-coders-at-the-gate-the-inexorable-rise-of-diy-quants
+Quantopian fund returned 1.93% in 1Q2016, while the S&P500 rose 0.8%.
+Quantopian plans to increase fund capital from $500k to $1mm in 2016.
+Quantopian fund has eight PMs, but plans to eventually use 20-30 PMs.
+
+# Quantopian using machine learning to pick best algos
+http://blog.quantopian.com/using-machine-learning-to-predict-out-of-sample-performance-of-trading-algorithms/
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2745220
+https://www.datarobot.com/
+Quantopian looked the out-of-sample performance of 888 user strategies, and found very low R²=0.02.
+Quantopian picked algos using machine learning to select those with potential best OOS Sharpe ratio.
+Quantopian used datarobot by Xavier Conort.
+
+# Barron's: Algorithms for the Masses and Quantopian
+http://online.barrons.com/article/SB50001424052748704551504578489963625123642.html
+
+
+
+
+###########
+### PortfolioEffect high frequency risk system
+
+# Aleksey Zemnitskiy Snowfall Systems PortfolioEffect
+# PortfolioEffect real-time HFreq performance metrics, portfolio optimization, and backtesting, but no order execution yet
+# API in  C++/Java/.NET plus R package
+https://www.portfolioeffect.com/
+http://www.volatility.io/
+https://www.portfolioeffect.com/account.php
+algoquant
+OKsleib15
+
+# dataset covers 2 years, for 8,000+ stock symbols (NYSE and NASDAQ), at 1 second bars. 
+# Intraday aggregations: return, vol, skew, kurtosis, Hurst, etc.
+# Intraday factor model, alpha, beta and portfolio moments,
+# Intraday portfolio/strategy construction using server-side HF data through our R & Matlab backtesting interfaces. 
+https://www.portfolioeffect.com/docs/platform/quant/manuals/portfolio-construction
+# continuous portfolio optimization with multiple constraints based on the global multi-start optimization algorithm.
+
+Intraday Optimization Intro
+https://www.portfolioeffect.com/docs/platform/quant/tutorials/portfolio-optimization
+https://www.portfolioeffect.com/docs/platform/quant/tutorials/portfolio-metrics
+
+Realistic Efficient Frontiers
+https://www.portfolioeffect.com/docs/platform/quant/tutorials/efficient-frontier
+
+# PortfolioEffect presentations
+https://www.portfolioeffect.com/workspace_viewer.php?link=Fp9A1rxUMX
+https://www.portfolioeffect.com/docs/platform/quant/manuals/portfolio-construction
+https://www.portfolioeffect.com/docs/platform/quant/tutorials/lf-hf-strategy
+https://www.portfolioeffect.com/docs/platform/quant/tutorials/portfolio-optimization
+https://www.portfolioeffect.com/docs/platform/quant/tutorials/efficient-frontier
+
+
+
+###########
+### Blogs and Forums
+
+# QuantStart with great detailed Python info
+http://www.quantstart.com/
+# book
+http://www.quantstart.com/successful-algorithmic-trading
+http://www.quantstart.com/articles/Free-Quantitative-Finance-Resources
+http://quantstart.com/articles/How-to-Identify-Algorithmic-Trading-Strategies
+http://www.quantstart.com/articles/Successful-Backtesting-of-Algorithmic-Trading-Strategies-Part-I
+http://www.quantstart.com/articles/Best-Programming-Language-for-Algorithmic-Trading-Systems
+http://www.quantstart.com/articles/Choosing-a-Platform-for-Backtesting-and-Automated-Execution
+
+http://prezi.com/cssll3e1svsn/how-to-build-your-own-algo-trading-fund/
+
+http://www.traderji.com/
+
+# Giles Heywood
+http://amberalpha.com/rfinance/0menu.htm
+http://amberalpha.com/
+
+http://geektrader.me/
+# Interactive Brokers bar data from R
+http://geektrader.me/2013/08/29/fetch-1-second-bar-data-from-interactive-brokers-with-r/
+
+# Quantitative Trading by Ernie Chan (also wrote book "Algorithmic Trading")
+http://epchan.blogspot.com/
+
+http://www.quantshare.com/
+
+http://www.flextrade.com/
+
+http://adaptivetradingstrategies.com/
+
+http://tradersplace.net/
+
+http://www.iq-challenge.org/
+
+http://code.google.com/p/jbooktrader/
+
+http://www.smart-algo.com/
+
+http://www.strategyquant.com/
+
+http://answers.yahoo.com/question/index?qid=20110719062248AAgo5Gu
+
+http://code.google.com/p/algo-trader/
+
+http://quantivity.wordpress.com/
+
+http://www.fcm360.com/financial-industry-solutions/algorithmic-trading/
+
+http://www.etnasoft.com/solutions/automated-trading-robot
+
+http://www.cxoadvisory.com/
+http://www.cxoadvisory.com/investing-demons/
+
+# Frank D. Francone Genetic Programming System
+http://tradingsystemlab.com/
+
+http://www.tradesignalonline.com/default.aspx
+
+http://www.geckosoftware.com/index.htm
+
+http://www.automated-trading-system.com/
+
+http://www.seykota.com/
+
+http://www.geneticfinance.com/
+
+http://prodigiorts.com/
+
+http://www.linkedin.com/groupItem?view=&gid=1813979&type=member&item=252127572&qid=5ded7b68-806b-415c-8d37-05fc8250e226&trk=group_items_see_more-0-b-ttl
+
+http://www.biocompsystems.com/products/profit
+
+http://www.linkedin.com/groupItem?view=&gid=1813979&type=member&item=258221690&qid=8239bbd1-0635-4f21-ae2d-1e802d1fdaa5&trk=group_items_see_more-0-b-ttl
+
+http://www.interactivedata.com/index.php/productsandservices/content/id/Reference+Data 
+
+http://www.quantf.com/
+
+
+###########
+### Starting a Fund
+
+# Incubator funds
+http://www.investmentlawgroup.com/hedge-fund-formation
+http://www.investmentlawgroup.com/incubator-fund-formation
+http://www.investmentlawgroup.com/launching-an-incubator-hedge-fund
+
+http://capitalmanagementservicesgroup.com/incubatorhedgefunds.html
+http://capitalmanagementservicesgroup.com/startahedgefund/hedgefundchecklist.html
+
+http://www.greencompany.com/HedgeFunds/HedgeFundIncubatorFunds.shtml
+
+
+
+# Legal creation
+http://www.strategicfundformation.com
+http://www.strategicfundformation.com/packages.html
+
+
+# Starting a traditional fund
+http://howdoyoustartahedgefund.com/
+http://howdoyoustartahedgefund.com/start-a-hedge-fund
+
+# Generic advice
+http://www.lifeonthebuyside.com/start-a-hedge-fund/
+http://www.moneyscience.com/pg/pages/view/1018/how-to-start-a-hedge-fund
+
+http://www.bnymellon.com/assetservicing/fundstartup.html
+http://www.mergersandinquisitions.com/start-hedge-fund-part-1/
+http://www.investopedia.com/articles/financial-careers/08/become-a-hedge-fund-manager.asp
+
+
+# Fund administration
+
+
+# Website for fundraising - List of startups
+https://angel.co/investment-management
+
+
+# Eze Castle IT and technology consulting for hedge funds
+http://www.eci.com/about_us/index.html
+http://www.eci.com/knowledge-center/lhfkc10.html
+
+
+https://sumzero.com/
+https://www.finect.com/
+https://www.nesteggwealth.com/
+

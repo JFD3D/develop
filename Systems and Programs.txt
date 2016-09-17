@@ -1,0 +1,2024 @@
+###########
+### general
+
+# List of Programming Resources and Books
+http://resrc.io/list/10/list-of-free-programming-books/#algorithms--datastructures
+http://resrc.io/list/10/list-of-free-programming-books/#python
+
+
+# 100 Most Influential Books According to Stack Overflow
+http://cspray.github.io/2012/02/13/a-community-gone-mad.html
+http://cspray.github.io/my.so-archive/100-most-influential-programming-books.html
+
+
+# online interpreters
+http://repl.it/languages/
+
+
+
+#########
+### tools
+
+# ScreenToGif record comp screen and save as animated Gif
+https://screentogif.codeplex.com/
+
+http://www.discourse.org/
+
+
+
+#########
+### computer science artificial intelligence machine learning non-finance
+
+# Prisma program neural network can redraw pictures in the style of paintings by well-known artists
+http://www.bloomberg.com/view/articles/2016-06-20/new-masters-software-has-painterly-technique-down-pat
+http://phys.org/news/2016-06-russian-photo-app-prisma-splash.html
+The Prisma neural network can separate the style and technique of a painting from its content (people, trees, etc.)
+The Prisma program is able to paint a given person's face in the style of Picasso or Van Gogh. 
+Prisma was written by the Russian programer Alexei Moiseenkov, using research from German universities. 
+The Prisma program has reached the no. 1 spot in the iOS app store. 
+
+# University of Pennsylvania statistician Richard Berk created machine learning algorithm that predicts likelihood someone will commit domestic violence crimes
+http://www.bloombergview.com/articles/2016-03-08/the-crime-you-have-not-yet-committed
+The algorithm uses data such as age, sex, zip code, age at first arrest, list of previous charges like drunk driving, animal mistreatment, and firearms crimes. 
+The algorithm doesn't use race directly but race can be inferred from other data like zip code.
+The algorithm outperforms parole judges, with about 20% of those released by judges were later arrested, while only 10% of the computer’s choices were arrested.
+Philadelphia uses the algorithm to assign parolees to high, medium, and low-risk groups, allowing parole officers to focus most of their attention on the high-risk cases.
+
+# machine learning classification algorithms are easily fooled by adversarial examples
+Szegedy ANN Deep Learning Adversarial Misclassification.pdf
+http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html
+http://www.kdnuggets.com/2014/06/deep-learning-deep-flaws.html
+Adversarial examples are images (data sets) that are slightly modified in such a way that machine learning classification algorithms are fooled into classifying them incorrectly.
+Adversarial examples are often indistinguishible by the human eye from the original images, yet are incorrectly classified by machine learning algorithms.
+The human eye (perception) is not susceptible to adversarial examples that are able to fool machine learning algorithms.
+Deep learning is not the only machine learning algorithm susceptible to adversarial examples, and it's not more susceptible than other algorithms.
+Rubbish examples are random images that algorithms classify to some class with high confidence, even though they should not belong to any class. 
+Machine learning algorithms often classify a very large percentage of random images to some class with high confidence, even though they should not belong to any class. 
+The mis-classification of adversarial examples by machine learning algorithms may be caused by the linear nature of the algorithms. 
+Machine learning algorithms classify images (data sets) in a very different way than human (animal) perception does. 
+Human (animal) perception performs abstractions of images by identifying edges of objects, and by identifying objects contained in images.  
+Human (animal) perception classifies images based on the objects (elements) they contain.  
+A face for example has two eyes, a nose and a mouth.
+But edge detection is a nonlinear process, so linear algorithms can't identify the edges of objects. 
+Machine learning classification algorithms don't create abstractions of images (data sets), the way human (animal) perception does. 
+Instead, algorithms classify images based on pixels, so they're susceptible to small changes of individual pixels.
+
+# Intelligent learning systems are composed of two complementary sub-systems
+http://techxplore.com/news/2016-06-insights-human-foster-smarter-artificial.html
+The first system acquires knowledge and skills from exposure to experiences, while the second system stores and organizes the experiences so that they can be replayed, and integrated back into the first system. 
+In animal brains the first system is the frontal cortex, and the second system is the hippocampus. 
+
+# Defective lists the major defects of C++
+http://yosefk.com/c++fqa/defective.html
+
+# Ray Solomonoff invented algorithmic probability related to Kolmogorov complexity and algorithmic information theory
+https://en.wikipedia.org/wiki/Ray_Solomonoff
+Algorithmic probability can predict the most likely next event in a series of events, using inductive inference (Bayes' rule).
+
+# Laszlo Babai claims to have proven that P=NP
+http://www.chicagomag.com/city-life/October-2015/Why-Computer-Scientists-and-Mathematicians-Are-Stunned-By-a-Chicago-Professors-New-Proof/
+That means that every problem whose solution can be quickly verified, 
+can also be quickly solved. 
+
+# Does P equal NP? problem
+http://news.mit.edu/2009/explainer-pnp
+Does every problem whose solution can be quickly verified, can also be quickly solved?
+P-problems have solutions that are polynomial in number of elements.  
+For example sorting a list is a P-problem. 
+NP-problems have solutions that are non-polynomial (exponential) in number of elements.
+Some of them may also have solutions in polynomial time, but nobody knows if they do. 
+For example finding the prime factors of a number is a NP-problem. 
+Verifying a solution is a forward process (for example multiplication).  
+Finding a solution is an inverse process (for example division or integration).  
+"Does P equal NP?" means that if a solution can be verified in polynomial time, 
+then can the solution also be found in polynomial time?
+In other words, can efficient solutions to NP-problems ever be found? 
+
+# Italian computer scientist Massimo Marchiori invented Hyper Search algorithm inspiration for Google's PageRank
+http://www.bloomberg.com/news/2014-05-15/meet-the-italian-man-who-beat-google-to-web-search-and-gave-it-away-for-free-.html
+
+# Exquisite Forest algo generates music
+http://labs.dinahmoe.com/theme/
+http://www.exquisiteforest.com/
+# Tate
+http://milk.co/forest-tate
+
+# machine learning boom of 2015
+http://www.bloomberg.com/news/articles/2015-12-08/why-2015-was-a-breakthrough-year-in-artificial-intelligence
+
+# Google RankBrain machine learning system trying to understand language
+http://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines
+RankBrain parses text on websites, and ranks websites nased on their relevance for certain queries.
+
+# NEAT algorithm for evolving neural networks and simulating creative processes
+http://fivethirtyeight.com/features/stop-trying-to-be-creative/
+Creative processes are driven by a hazy intuition or vision, instead of a plan.
+Creative processes are deliberate, not just random searches, and rely on serendipity.
+Creative processes can't be planned or predicted ahead of time because they don't have a well defined goal, so the time to arrive at their objective can't be known in advance.
+Pursuing creative solutions instead of well defined goals is therefore risky, since many attempts will not pay off, but the potential payoffs are higher as well.
+# evolve pictures using genetic programming
+http://picbreeder.org/
+
+# machine learning boom funded by startups
+http://www.bloomberg.com/news/articles/2015-02-03/i-ll-be-back-the-return-of-artificial-intelligence
+Most AI startups aren’t developing machines capable of animal intelligence, but are instead making clever tools to solve practical data analysis problems. 
+The extraordinary increase in chip performance over the last 17 years has allowed applications of machine learning software.
+Video chips in 2014 became 84.3 times more powerful than those in 2004.
+
+# Hofstadter The Man Who Would Teach Machines to Think
+http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
+AI today has become too much like the man who tries to get to the moon by climbing a tree: One can report steady progress, all the way to the top of the tree.
+
+# Is A Simulated Brain Conscious?
+http://www.popsci.com/article/science/simulated-brain-conscious
+
+# Human brains combined with computers
+http://online.wsj.com/articles/a-lesson-from-alan-turing-how-creativity-drives-machines-1411749814
+Ada Lovelace envisioned that the combined talents of humans and computers will indefinitely be more creative than any computer working alone.
+Licklider wrote in 1960: Human brains and computing machines will be coupled together very tightly, and the resulting partnership will think as no human brain has ever thought and process data in a way not approached by the information-handling machines we know today.
+
+# machine learning experts in high demand
+http://www.wsj.com/article_email/artificial-intelligence-experts-are-in-high-demand-1430472782-lMyQjAxMTA1MzA2MTMwNTEyWj
+
+# kaggle: selecting right data much more important than sophisticated models
+http://www.nytimes.com/2015/03/22/opinion/sunday/making-march-madness-easy.html
+Ensemble prediction algorithms often do better than their components do alone.
+
+# machine learning at Google
+http://www.wired.com/2014/07/google_brain/
+
+http://www.wired.com/2013/12/facebook-yann-lecun-qa/
+Deep learning was started by Geoff Hinton, Yann LeCun, and Yoshua Bengio, from the University of Montreal. 
+They got funding from the CIFAR foundation (Canadian Institute For Advanced Research). 
+Geoff was the director, and Yann LeCun was the chair of the advisory committee, and they would meet twice a year to discuss progress.
+
+# Machine Learning Most Popular Course At Stanford
+http://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/
+
+# machine learning replacing human workers
+http://www.bloomberg.com/news/2014-03-12/your-job-taught-to-machines-puts-half-u-s-work-at-risk.html
+Three associates selected relevant documents from a smaller sample, "teaching" their reasoning to the computer. The software’s algorithms then sorted the remaining material by importance.
+http://www.bloomberg.com/infographics/2014-03-12/job-automation-threatens-workforce.html
+
+# machine learning scores consumer credit
+http://www.bloomberg.com/news/2014-10-01/lender-charging-390-uses-data-to-screen-out-deadbeats.html
+An algorithm called Naive Bayes checks whether individual traits such as age or marital status help predict defaults.
+Random forests place borrowers in groups and looks for patterns to emerge.
+Hidden Markov models analyze whether events such as lapsed mobile-phone payments, signal an unseen condition such as illness.
+
+# robot learning through crowdsourcing imitation, demonstration
+http://www.kurzweilai.net/crowdsourcing-for-robots
+http://www.washington.edu/news/2014/06/26/ask-the-crowd-robots-learn-faster-better-with-online-helpers/
+http://news.nationalgeographic.com/news/2013/07/130719-robot-lfd-pr2-artificial-intelligence-crowdsourcing-robotics-machine-learning/
+http://www.scienceworldreport.com/articles/15704/20140627/robots-learn-faster-with-online-input.htm
+# humans teaching computers: Mechanical Turk online computer training
+https://www.mturk.com/mturk/welcome
+
+# Robots That Learn Through Repetition, Not Programming
+http://www.technologyreview.com/news/530871/robots-that-learn-through-repetition-not-programming/
+
+# robots that collaborate with people
+http://www.kurzweilai.net/developing-robots-that-collaborate-with-people
+http://www.economist.com/news/technology-quarterly/21584455-robotics-new-breed-robots-being-designed-collaborate-humans
+http://www.technologyreview.com/news/530696/how-human-robot-teamwork-will-upend-manufacturing/
+http://news.discovery.com/tech/robotics/robot-human-crosstraining-130218.htm
+
+# machine learning began dominating traditional AI
+http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
+
+# Artificial Intelligence programs write news articles from data - automated narrative generation
+http://www.nytimes.com/2015/03/08/opinion/sunday/if-an-algorithm-wrote-this-how-would-you-even-know.html
+Artificial Intelligence programs identify patterns, trends, and anomalies, and then create explanatory narrative.
+The Associated Press uses Automated Insights’ Wordsmith platform to create more than 3,000 financial reports per quarter.
+Kristian Hammond estimates that 90% of news could be algorithmically generated by the mid-2020s
+# Narrative Science programs  write sports and finance articles
+http://www.wired.com/2012/04/can-an-algorithm-write-a-better-news-story-than-a-human-reporter/
+Kristian Hammond co-founded Narrative Science.
+Human meta-writers compile the vocabulary and create a framework for articles.
+Clients customize the tone of the stories.
+# Philip Parker AI programs wrote over 1 Million Books
+http://www.huffingtonpost.com/2013/02/11/philip-parker-books_n_2648820.html
+http://www.businessinsider.com/novels-written-by-computers-2014-11
+http://www.narrativescience.com/quill
+# Robot Journalists: people can't tell apart sports stories written by computers from those written by human writers
+http://www.tandfonline.com/doi/pdf/10.1080/17512786.2014.883116
+
+# Benjamin Bratton: AI has little to do with human or animal intelligence
+http://opinionator.blogs.nytimes.com/2015/02/23/outing-a-i-beyond-the-turing-test/
+Why define an advanced A.I. by its resemblance to ours?
+Human intelligence simply can’t exhaust the possibilities of intelligence.
+We need a view of A.I. that is less narcissistic, more than simply a machine version of ourselves.
+The criteria for being "intelligent" doesn’t have have to be how it reflects humanness back at us. 
+Biomorphic imitation is not how we design complex technology. 
+Airplanes don’t fly like birds fly, 
+Whether airplanes fly like birds isn't a test to determine if planes can "really" fly. 
+Programming A.I. not to "harm humans" (inspired by Isaac Asimov) makes sense only when an A.I. knows what humans are and what harming them means. 
+Even if A.I. has no malevolence towards us, it might harm us by following exactly our well-meaning instructions to an idiotic and catastrophic extreme. 
+
+# The Second Machine Age
+http://www.mckinsey.com/Insights/Strategy/Artificial_intelligence_meets_the_C-suite
+The Industrial Revolution was when humans overcame the limitations of our muscle power. 
+
+# The Steely, Headless King of Texas Hold ’Em
+http://www.nytimes.com/2013/09/08/magazine/poker-computer.html
+
+
+
+#########
+### blogs
+
+# Zygmunt Zajac economist and machine learning expert
+http://fastml.com/
+https://github.com/zygmuntz
+
+# Pawel Lachowicz Python quant
+http://www.quantatrisk.com/
+
+# Grzegorz Chrupala computational linguist and machine learning expert
+http://grzegorz.chrupala.me/
+
+# Triskelion kaggle Master and machine learning expert
+http://mlwave.com/
+
+http://datalligence.blogspot.com/
+
+# Gabriel Synnaeve kaggle Master from LSCP and INRIA
+http://snippyhollow.github.io/
+http://snippyhollow.github.io/blog/
+# good links and papers
+http://snippyhollow.github.io/blog/2014/08/09/so-you-wanna-try-deep-learning/
+# simple Python deep neural network with or w/o dropout
+https://gist.github.com/SnippyHolloW/8a0f820261926e2f41cc
+
+# Carl Vogel - converting R to Python - NY economist, quant, HF finance data
+http://slendermeans.org/
+http://slendermeans.org/category/will-it-python.html
+https://github.com/carljv/Will_it_Python
+
+# Scott Fortmann-Roe: out of sample prediction error
+http://scott.fortmann-roe.com/docs/MeasuringError.html
+# Scott Fortmann-Roe: bias-variance tradeoff
+http://scott.fortmann-roe.com/docs/BiasVariance.html
+
+# Nathan Yau - FlowingData data exploration, analysis, and visualization
+http://flowingdata.com/
+
+# stackexchange blogs
+http://stackexchange.com/blogs
+http://stats.blogoverflow.com/
+http://security.blogoverflow.com/
+
+# Jason Bryer: R, Jekyll, web publishing plus multiple R packages
+http://jason.bryer.org/
+http://jbryer.github.com
+https://github.com/jbryer
+# github hosted page setup
+https://pages.github.com/
+# website modified from Skeleton, hosted on Github Pages using Jekyll
+http://jason.bryer.org/about.html
+# Using (R) Markdown, Jekyll, & GitHub for a Website
+http://jason.bryer.org/posts/2012-12-10/Markdown_Jekyll_R_for_Blogging.html
+http://www.getskeleton.com/
+
+
+
+#########
+### education
+
+# New York R Conference April 8-9, 2016
+http://www.rstats.nyc/index.html
+
+# ScriptScoop aggregator of code examples
+http://www.scriptscoop.com/
+
+# StackOverflow flaws
+http://michael.richter.name/blogs/why-i-no-longer-contribute-to-stackoverflow
+
+# Knewton personalized online courses, figure out what each student knows and how that student learns best, then recommends what to study next.
+http://www.knewton.com/
+
+# DataCamp & rcademy - Jonathan Cornelissen (works with Boudt)
+https://www.datacamp.com/
+
+# data science projects and instruction
+http://www.teamleada.com/
+
+# Software Carpentry sponsored by RStudio: volunteer instructors for teaching researchers computing skills
+http://software-carpentry.org/
+http://software-carpentry.org/blog/
+
+# Caltech machine learning online courses
+https://work.caltech.edu/telecourse.html
+https://www.coursera.org/course/ml
+
+# Metacademy graphs of knowledge dependency by John Langford, Roger Grosse, and Colorado Reed
+http://metacademy.org/
+http://metacademy.org/graphs/concepts/feed_forward_neural_nets
+http://metacademy.org/roadmaps/
+# username (public): algoquant
+# email (not public): algoquant@algoquants.ch
+http://hunch.net/?p=2714
+http://www.cs.toronto.edu/~rgrosse/
+http://obphio.us/
+
+# online courses
+https://www.edx.org/
+https://www.udacity.com/
+
+# MOOC with interactive content by David Cox Professor of Molecular and Cellular Biology and Computer Science
+http://www.mcb80x.org/
+
+# thinkful online mentoring course Python, Ruby, AngularJS
+http://www.thinkful.com/
+
+# Matrix Reference Manual
+http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/intro.html
+
+# C++ introduction
+https://tfetimes.com/beginners-guide-to-c/
+https://tfetimes.com/crash-course-in-c/
+
+
+
+#########
+### social learning
+
+# Dream to Learn social learning platform
+https://dreamtolearn.com/
+https://dreamtolearn.com/content/about.html
+# Ryan Anderson - build a social platform for learning, development and growth
+https://dreamtolearn.com/ryan
+https://dreamtolearn.com/ryan/data_analytics_viz/71
+https://dreamtolearn.com/node/9H0SX6Y7KX740GNSX4IFIBFZW
+
+
+
+#########
+### machine learning
+
+Machine learning refers to creating statistical models that fit into some set of data.  Linear regression is an example of a machine learning model.  Machine learning uses several techniques that make it more powerful:
+First, it uses cross-validation (aka backtesting), or testing of the model on out-of-sample data.
+Second, it uses regularization, or model parameter constraints, to avoid so-called overfitting. 
+Third, it uses ensemble learning, by combining the results of many models to achieve better performance than any single model.
+
+# good intro for beginners
+http://machinelearningmastery.com/
+http://machinelearningmastery.com/blog/
+http://machinelearningmastery.com/how-to-get-started-with-machine-learning-algorithms-in-r/
+
+# very simple intros
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms
+
+# "Statistical Modeling: The Two Cultures" by Leo Breiman: statistics vs. machine learning
+http://brenocon.com/blog/2008/12/statistics-vs-machine-learning-fight/
+http://stats.stackexchange.com/questions/6/the-two-cultures-statistics-vs-machine-learning
+"The biggest difference is that statistics emphasizes inference, whereas machine learning emphasized prediction."
+"In statistics, you infer the process by which the data was generated."
+"In machine learning, you predict what future data will look like w.r.t. some variable."
+"You can still make good predictions when p >> n, but you can't make very good inferences about what variables are actually important and why."
+http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared
+
+# Andrew Gelman likes machine learning
+http://www.stat.columbia.edu/~gelman/
+http://andrewgelman.com/2005/09/23/classparticipat/
+
+# Data Science Toolkit
+http://www.datasciencecentral.com/profiles/blogs/the-data-science-toolkit-my-boot-camp-ciriculum
+
+# MXNet is a deep learning framework
+http://mxnet.readthedocs.org/en/latest/
+https://github.com/dmlc/mxnet
+http://mxnet.readthedocs.org/en/latest/R-package/index.html
+
+# Leo Breiman from Berkeley invented random forests
+http://www.stat.berkeley.edu/~breiman/RandomForests/
+http://www.stat.berkeley.edu/~breiman/sf.html
+http://www.stat.berkeley.edu/~breiman/
+
+
+#########
+### machine learning software
+
+# Machine Learning Open source (MLOSS)
+http://mloss.org/software/
+http://mloss.org/community/
+# Machine Learning Open source
+
+# MLOSS is run by:
+http://sonnenburgs.de/soeren/category/
+http://blog.mikiobraun.de/
+http://www.ong-home.my/
+
+# RapidMiner environment for machine learning, data mining, and predictive analytics
+http://rapidminer.com/
+http://rapidminer.com/rapidminer-and-r/
+http://www.aphysicistinwallstreet.com/2010/11/example-rapidminer-r-for-trading.html
+# R and RapidMiner for time series forecasting
+http://www.simafore.com/blog/bid/204923/Combining-power-of-R-and-RapidMiner-for-time-series-forecasting
+http://www.kdnuggets.com/2010/11/rapidminer-r-extension.html
+
+### Shogun machine learning toolbox, Support Vector Machines (SVM)
+# from Berlin Institute of Technology
+http://www.shogun-toolbox.org/
+http://www.shogun-toolbox.org/doc/en/3.0.0/index.html
+http://en.wikipedia.org/wiki/Shogun_(toolbox)
+https://github.com/shogun-toolbox/shogun/
+http://sonnenburgs.de/soeren/category/
+https://github.com/lisitsyn
+https://github.com/vigsterkr
+# R Static Interface Examples
+http://www.shogun-toolbox.org/doc/en/3.0.0/r_static_examples.html
+# R Modular Interface Examples
+http://www.shogun-toolbox.org/doc/en/3.0.0/r_modular_examples.html
+
+# scikit-learn by INRIA David Cournapeau
+http://scikit-learn.org/stable/index.html
+http://en.wikipedia.org/wiki/Scikit-learn
+# scikit-learn by INRIA Olivier Grisel
+http://ogrisel.com/
+
+# Machine Learning in Python - Trento
+http://mlpy.sourceforge.net/
+
+# Support Vector Machine Python
+http://www.yaksis.com/posts/why-use-svm.html
+
+# Machine Learning on cloud
+https://bigml.com/
+http://en.wikioffuture.org/BigML/
+
+
+
+#########
+### neural networks
+
+# Hacker's guide to Neural Networks
+http://karpathy.github.io/neuralnets/
+
+# Andrej Karpathy: Recurrent Neural Networks
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+https://cartesianfaith.com/2016/02/23/is-deep-learning-a-markov-chain-in-disguise/
+http://cs.stanford.edu/people/karpathy/
+
+# Michael Nielsen book on artificial neural networks and deep learning
+http://michaelnielsen.org/blog/michael-a-nielsen/
+http://michaelnielsen.org/blog/
+http://www.michaelnielsen.org/ddi/
+https://github.com/mnielsen
+# Reinventing explanation
+http://michaelnielsen.org/reinventing_explanation/index.html
+# Reinventing Discovery book on collective intelligence and open science
+http://www.amazon.com/gp/product/0691148902
+
+# Neural Networks course Michael Biehl
+http://www.cs.rug.nl/~biehl/Teaching/NN/index.html
+# Pattern Recognition course Michael Biehl
+http://www.cs.rug.nl/~biehl/Teaching/PR/
+
+# Toronto ANN course
+https://www.coursera.org/course/neuralnets
+
+# Data Science Toolbox environment in Ubuntu Linux includes Python and R
+http://datasciencetoolbox.org/
+https://github.com/DataScienceToolbox/data-science-toolbox/
+http://jeroenjanssens.com/2013/12/07/lean-mean-data-science-machine.html
+
+# GraphLab Create machine learning Python API system
+http://graphlab.com/
+https://dato.com/
+https://github.com/graphlab-code/graphlab
+
+# John Langford: Machine Learning Theory
+http://hunch.net/
+# Metacademy: a package manager for knowledge
+http://hunch.net/?p=2714
+http://metacademy.org/roadmaps/rgrosse/deep_learning
+
+# Structural Risk Minimization
+http://hunch.net/~jl/projects/prediction_bounds/thesis/mathml/thesisse19.xml
+
+# Avoid Machine Learning Mistakes article
+https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4
+
+# Kevin P. Murphy book Machine Learning: Probabilistic Perspective with Matlab code
+http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020
+http://www.cs.ubc.ca/~murphyk/MLbook/
+https://github.com/probml
+
+
+
+#########
+### deep learning
+
+# getting started
+http://snippyhollow.github.io/blog/2014/08/09/so-you-wanna-try-deep-learning/
+https://gist.github.com/SnippyHolloW/8a0f820261926e2f41cc
+https://github.com/SnippyHolloW
+
+http://deeplearning.net/
+
+# Deep Learning: Courses, Tutorials, Software
+http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html
+# primer on deep learning
+http://www.datarobot.com/blog/a-primer-on-deep-learning/
+# Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
+
+# interview with Yann LeCun of NYU
+# Deep Learning was developed by Geoff Hinton (Toronto, Google), Yann LeCun (NYU, Facebook), and Yoshua Bengio (Montreal).
+http://www.wired.com/2013/12/facebook-yann-lecun-qa/
+
+http://www.kdnuggets.com/2014/02/exclusive-yann-lecun-deep-learning-facebook-ai-lab.html
+# Deep learning two main packages:  Torch7, and Theano + Pylearn2
+# Torch7 is an extension of the LuaJIT language (compiled version of Lua language), which is extremely fast.
+# Theano+Pylearn2 has the disadvantage of using Python (it's slow). 
+
+# deep learning sparse filtering Kaggle: Black Box Challenge
+http://cs.stanford.edu/~jngiam/
+http://fastml.com/deep-learning-made-easy/
+
+# Deep Learning and the Renormalization Group Works
+https://www.linkedin.com/profile/view?id=1259300
+https://charlesmartin14.wordpress.com/2015/03/25/why-does-deep-learning-work/
+https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/
+
+# Hannes Bretschneider: PhD Student Neural networks & Deep Learning University of Toronto
+https://ha.nnes.io/
+https://github.com/hannes-brt
+# GPU Deep Learning Library in Python
+https://github.com/hannes-brt/hebel
+
+# commercial Numba to program the GPU from Python
+http://continuum.io/webinars/using-numba-program-gpu
+https://store.continuum.io/cshop/accelerate/
+https://developer.nvidia.com/how-to-cuda-python
+http://devblogs.nvidia.com/parallelforall/numbapro-high-performance-python-cuda-acceleration/
+
+# Running Python on GPUs
+http://fastml.com/running-things-on-a-gpu/
+
+# Machine Learning consultants and examples (Matlab, Python, VBA)
+http://www.sitmo.com/
+
+# Artificial Intelligence: A Modern Approach
+http://aima.cs.berkeley.edu/
+
+http://bayesia.us/
+
+
+### articles
+
+# deep learning degrades quickly as art becomes more abstract
+https://medium.com/the-physics-arxiv-blog/computer-vision-algorithms-detect-human-figures-in-cubist-art-e82995bb42a0
+
+
+
+#########
+### machine learning cloud
+
+# H2O machine learning with R API - Matt Dowle
+http://www.h2o.ai/
+http://www.h2o.ai/docs/
+http://www.h2o.ai/download/h2o/r
+http://www.h2o.ai/use-cases/predictive-modeling-factories/
+
+# H2O University
+http://university.h2o.ai/?_ga=1.199135535.147602298.1461338879
+
+# H2O prediction engine, sponsored by Stephen Boyd, Rob Tibshirani, Trevor Hastie
+http://0xdata.com/
+http://0xdata.com/downloadtable/
+http://docs.0xdata.com/
+https://github.com/0xdata
+http://0xdata.github.io/h2o/
+http://0xdata.com/blog/2014/06/h2o-killer-application-spark/
+
+# yhat Python and R model hosting
+http://www.yhathq.com/
+http://blog.yhathq.com/
+https://github.com/yhat
+# random forests in R and Python hosted on yhat
+http://blog.yhathq.com/posts/comparing-random-forests-in-python-and-r.html
+# yhat Sciencebox R and Python server with RStudio
+https://yhathq.com/products/sciencebox
+http://venturebeat.com/2014/06/17/yhat-sciencebox/
+
+# PredictionIO with either PHP, Python, or Ruby code
+http://prediction.io/
+https://github.com/PredictionIO
+http://docs.prediction.io/current/
+
+# Machine Learning on cloud
+https://bigml.com/
+http://en.wikioffuture.org/BigML/
+
+# Machine Learning for marketing
+http://www.wise.io/
+
+# cloud ML using fora functional language
+http://www.ufora.com/
+http://en.wikibooks.org/wiki/FORA/tutorial
+FORA programs dynamically scale in parallell to use all the computer resources available to minimise runtime.
+FORA interpreter dynamically compiles code so that execution efficiency is similar to a program written in C.
+
+
+
+#########
+### kaggle ML prediction competitions
+
+# kaggle ML prediction competitions
+https://www.kaggle.com/
+https://www.kaggle.com/wiki/KaggleMemberFAQ
+http://blog.kaggle.com/
+http://www.forbes.com/sites/parmyolson/2012/09/13/worlds-top-data-scientists-open-doors-to-big-cash-contests/
+
+# DataRobot by Xavier Conort - kaggle Master
+http://www.datarobot.com/
+http://www.datarobot.com/blog/
+https://www.kaggle.com/users/17379/xavier-conort
+
+# kaggle blog
+http://blog.kaggle.com/
+# Kaggle Masters - how they do it
+http://blog.kaggle.com/2014/08/01/learning-from-the-best/
+"Friedman’s gradient boosting machine works great" - gbm package
+
+# kaggle masters
+https://www.kaggle.com/users
+https://www.kaggle.com/wiki/KaggleMemberFAQ
+https://www.linkedin.com/pub/owen-zhang/51/aa0/363
+http://www.kaggle.com/users/7756/owen
+
+# kaggle Titanic Competition using R
+http://www.joyofdata.de/blog/titanic-challenge-kaggle-svms-kernlab-decision-trees-party/
+https://www.kaggle.com/users/130117/curt-wehrley
+https://www.kaggle.com/c/titanic-gettingStarted/details/new-getting-started-with-r
+https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md
+# Solution using Random Forests
+http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r
+https://github.com/trevorstephens/titanic/commit/d2dfe4ef258c9f17efc911f33eaecb2fa3c8faca
+
+# Russian machine learning cloud
+http://www.octopuscip.comcastbiz.net/
+
+
+### Machine Learning courses
+
+# udacity Machine Learning courses
+https://www.udacity.com/course/ud675
+https://www.udacity.com/course/ud741
+https://www.udacity.com/course/ud820
+
+# Stanford Machine Learning course
+https://www.coursera.org/course/ml
+https://class.stanford.edu/dashboard
+https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about
+https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/wiki/StatLearning/
+https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/progress
+https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/d9820868fd3642f19ee45e273e3dfafa/58bee9a364d14f6d9306f0e554acf46c/
+# Stanford Machine Learning course using Octave-Forge
+http://openclassroom.stanford.edu/MainFolder/HomePage.php
+http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
+
+# Pedro Domingos UWash machine learning coursera
+http://homes.cs.washington.edu/~pedrod/
+https://www.coursera.org/course/machlearning
+
+# IPython Scikit machine learning examples tutorials
+http://ipython-books.github.io/featured-04/
+http://amueller.github.io/sklearn_tutorial/#/
+http://nbviewer.ipython.org/github/gmonce/scikit-learn-book/tree/master/
+https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+http://nbviewer.ipython.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb
+http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
+http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/tree/master/
+http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb
+http://pyvideo.org/video/2561/exploring-machine-learning-with-scikit-learn
+http://pyvideo.org/video/2614/diving-deeper-into-machine-learning-with-scikit-l
+
+
+#########
+### Machine Learning resources
+
+# good websites
+http://www.datasciencecentral.com/
+http://www.analyticbridge.com/
+
+# Machine Learning Resources
+http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources
+http://www.datasciencecentral.com/group/resources/forum/topics/a-large-set-of-machine-learning-resources-for-beginners-to-mavens
+
+# Big data sets available for free
+http://www.datasciencecentral.com/group/resources/forum/topics/big-data-sets-available-for-free
+# Tutorials from PyCon 2014 – USA
+http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa
+# how to post your free stuff
+http://www.datasciencecentral.com/group/resources/forum/topics/free-stuff-for-data-science-publishers-authors-bloggers-professor
+
+
+
+#########
+### Python
+
+# Python documentation
+https://docs.python.org/3/
+
+### Python learning
+
+# Codecademy Python course
+http://www.codecademy.com/tracks/python
+
+# Google Python Class
+https://developers.google.com/edu/python/
+
+# Python tutorials
+https://docs.python.org/3.5/tutorial/
+http://www.learnpython.org/
+http://www.diveintopython.net/
+
+# Udacity Intro to Computer Science with Python certificate (pay)
+https://www.udacity.com/course/cs101
+
+# Python Coursera certificate (pay)
+https://www.coursera.org/course/interactivepython1
+
+# Python O’Reilly School of Technology certificate (pay)
+http://www.oreillyschool.com/certificate-programs/python-programming/
+
+# Python Course
+http://software-carpentry.org/
+
+# Python learning resources
+http://resrc.io/list/10/list-of-free-programming-books/#python
+
+# Python interpreter
+http://repl.it/languages/Python
+
+# Anaconda: Python analytics, scientific computing, and data visualization
+http://continuum.io/
+# install Anaconda: Python + Data Science - Quick Start Guide
+http://bigdata.braccialli.net/2014/06/python-for-data-science-quick-start.html
+
+# Python missing data debate
+http://www.numpy.org/NA-overview.html
+# Python doesn't have missing data types
+http://www.activeanalytics.co.uk/blog/rvspythonwhyrisstillthekingofstatisticalcomputing
+
+
+
+#########
+### IPython interactive computing
+
+http://ipython.org/
+# IPython notebooks
+http://ipython.org/notebook.html
+https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+# IPython vs knitr, or Python vs R
+http://yihui.name/en/2012/11/ipython-vs-knitr/
+
+# share IPython notebooks
+http://nbviewer.ipython.org/
+
+# Using R Within the IPython Notebok
+http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Builtin%20Extensions/R%20Magics.ipynb
+
+
+
+#########
+### Python scientific computing
+
+http://www.numpy.org/
+http://www.slideshare.net/zukun/scientific-programming-in-python
+http://fperez.org/py4science/index.html
+http://fperez.org/py4science/starter_kit.html
+
+# SimPy Python for simulations
+https://simpy.readthedocs.org/en/latest/
+http://en.wikipedia.org/wiki/SimPy
+
+# Python pandas - Wes McKinney
+http://pandas.pydata.org/index.html
+http://blog.wesmckinney.com/
+
+# Pandas tutorials
+http://pandas.pydata.org/pandas-docs/stable/tutorials.html
+http://www.bearrelroll.com/2013/05/python-pandas-tutorial/
+http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+
+# data wrangling with Pandas
+http://nbviewer.ipython.org/github/fonnesbeck/pytenn2014_tutorial/blob/master/Part%201.%20Data%20Wrangling%20with%20Pandas.ipynb?create=1
+
+# Python for research
+http://www.stat.washington.edu/~hoytak/blog/whypython.html
+
+# Python Data Analysis Library
+
+# Python Wakari.IO Web-based Python Data Analysis
+https://wakari.io/
+
+
+### Python discussions
+# C++/Python/R alternatives
+http://quant.stackexchange.com/questions/728/switching-from-c-to-r-limitations-applications
+
+# Why is SciPy better than Matlab or IDL?
+https://groups.google.com/forum/#!topic/scipy-user/DrFRcJWWPJo
+
+# Python is steadily eating other languages’ lunch
+http://www.talyarkoni.org/blog/2013/11/18/the-homogenization-of-scientific-computing-or-why-python-is-steadily-eating-other-languages-lunch/
+
+# Top Languages for analytics, data mining, data science
+http://www.kdnuggets.com/2013/08/languages-for-analytics-data-mining-data-science.html?goback=%2Enpp_matthew*5dowle%2F8%2F435%2F512%2Eanb_155029_*2_*1_*1_*1_*1_*1#%21
+# R and Python
+http://www.linkedin.com/groupItem?view=&gid=155029&type=member&item=68240217&qid=60beb1ba-cd0c-477f-bbd3-49d5d5b40bc3&trk=groups_most_popular-0-b-ttl&goback=%2Enpp_matthew*5dowle%2F8%2F435%2F512%2Eanb_155029_*2_*1_*1_*1_*1_*1%2Egmp_155029
+
+# Index Python Packages
+https://pypi.python.org/pypi
+
+# Django Python Web framework
+https://www.djangoproject.com/
+
+
+
+#########
+### Python finance
+
+# Python quants
+http://tpq.io/
+http://pqp.io/
+https://www.linkedin.com/pulse/open-source-quantitative-finance-neil-fowler
+
+
+#########
+### Jupyter Notebooks
+
+# tutorial Jupyter Notebooks
+https://github.com/michhar/useR2016-tutorial-jupyter
+
+# Jupyter hub
+http://jupyterhub.readthedocs.io/en/latest/index.html
+
+
+#########
+### data science
+
+# websites
+http://www.datasciencecentral.com/
+
+# Data Science Specialization
+http://datasciencespecialization.github.io/
+https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io#contributing
+
+# data science compared to other analytic disciplines
+http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared
+# Life Cycle of Data Science Projects
+http://www.datasciencecentral.com/profiles/blogs/life-cycle-of-data-science-projects
+
+# Becoming a Data Scientist – Curriculum via Metromap
+http://nirvacana.com/thoughts/becoming-a-data-scientist/
+
+# Data Wrangler
+http://vis.stanford.edu/wrangler
+
+# Rules for Scientific Data
+http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542
+
+# FigShare repository: citable, shareable, and discoverable
+http://figshare.com
+
+# Zenodo repository: works with GitHub
+http://zenodo.org
+
+# MINE: mutual information NonParametric Data Exploration - R package to C++ functions - mostly bio
+http://www.exploredata.net/
+http://www.exploredata.net/Technical-information
+http://www.eecs.harvard.edu/~michaelm/
+http://www.mybiasedcoin.blogspot.com/
+http://www.sabetilab.org/
+http://intelligenttradingtech.blogspot.com/2012/01/there-was-lot-of-buzz-in-blogosphere-as.html
+
+
+#########
+### numerical methods dimension reduction
+
+# Juha Karhunen - Independent Component Analysis
+http://users.ics.aalto.fi/juha/
+# Independent Component Analysis (ICA)
+http://www.cis.hut.fi/Opinnot/T-61.6030/k2006/
+http://cis.legacy.ics.tkk.fi/aapo/papers/IJCNN99_tutorialweb/
+http://research.ics.aalto.fi/ica/icademo/
+
+# David S. Matteson R package steadyICA Dimension Reduction for Multivariate Time Series
+https://davidsmatteson.com/
+http://ec2-52-90-141-138.compute-1.amazonaws.com:3838/
+
+# Bryan W. Lewis at SciDB - package irlba for SVD and PCA
+http://illposed.net/
+http://bwlewis.github.io/GLM
+http://bwlewis.github.io/cassini/
+
+
+
+#########
+### lectures and tutorials
+
+# Learn How to Code - Where to start
+http://gettinggeneticsdone.blogspot.com/2012/01/new-years-resolution-learn-how-to-code.html
+
+# Tutorials
+http://www.tutorialspoint.com/index.htm
+http://www.tutorialspoint.com/shorttutorials/run-your-first-program-in-mingw-compiler
+
+# Vivian Zhang
+http://nycdatascience.com/
+
+# Code School: Ruby, Java, and web technologies
+https://www.codeschool.com/
+
+
+
+#########
+### languages and systems
+
+# JSON is a replacement for XML, YAML is a superset of JSON
+https://en.wikipedia.org/wiki/JSON
+
+
+
+#########
+### julia language for technical computing
+
+http://julialang.org/
+http://strata.oreilly.com/2012/10/matlab-r-julia-languages-for-data-analysis.html
+
+# JuliaQuant Quantitative Finance in Julia
+https://github.com/JuliaQuant
+
+
+### Church probabilistic programming language 
+http://projects.csail.mit.edu/church/wiki/Church
+
+# Probabilistic Models of Cognition by Noah D. Goodman
+https://probmods.org/index.html
+http://web.stanford.edu/~ngoodman/
+
+# regex regular expression tutorial
+http://www.coppelia.io/quick-start-regex-for-analysts-part-i/
+http://www.coppelia.io/category/regex/
+
+
+
+#########
+### version control
+
+# version control
+http://stackoverflow.com/questions/406038/subversion-usages/406176#406176
+# mercurial - modern, open source, distributed version control system
+http://hginit.com/
+# great review of Distributed Version Control Systems: GIT killer feature git-gisect
+http://www.infoq.com/articles/dvcs-guide
+
+# Source Tree version control
+http://www.sourcetreeapp.com/
+
+
+
+#########
+### Git version control
+
+### Git Home
+http://git-scm.com/
+http://en.wikipedia.org/wiki/Git_(software)
+http://en.wikipedia.org/wiki/GitHub
+
+### Git learn
+
+# Git beginner guides
+http://gitimmersion.com/
+http://backlogtool.com/git-guide/en/
+
+# Git reference
+http://git-scm.com/docs
+# Git quick reference
+http://gitref.org/
+# Pro Git book
+http://git-scm.com/book/en/v2
+
+# Learn Git command line
+http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
+http://try.github.io/levels/1/challenges/1
+http://stackoverflow.com/questions/457927/git-workflow-and-rebase-vs-merge-questions
+
+# GitHub Video Guides
+http://www.youtube.com/GitHubGuides
+
+# Git tutorial
+http://git-scm.com/book/en/Getting-Started-First-Time-Git-Setup
+http://git-scm.com/book/en/Getting-Started-Git-Basics
+http://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
+http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
+
+# Configuring Git over SSH to login once and for all
+http://applyr.blogspot.com/2014/05/rstudio-pushing-to-github-with-ssh.html
+http://stackoverflow.com/questions/1595848/configuring-git-over-ssh-to-login-once
+git config --global user.name "algoquant"
+git config --global user.email "algoquant@algoquants.ch"
+git config remote.origin.url git@github.com:algoquant/HighFreq.git
+
+# Excluding files
+http://git-scm.com/docs/gitignore
+
+# R Git Version control
+http://stackoverflow.com/questions/15547555/create-an-offline-version-control-for-r-studio
+http://stackoverflow.com/questions/15547555/create-an-offline-version-control-for-r-studio
+http://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst
+
+# unix bash ref
+http://ss64.com/bash/
+
+
+
+#########
+### GitHub
+
+# my GitHub files
+https://github.com/algoquant/
+
+# duplicating a repository
+https://help.github.com/articles/duplicating-a-repository/
+http://stackoverflow.com/questions/10963878/how-do-you-fork-your-own-project-on-github
+
+# GitHub create new organization and transfer repositories
+https://help.github.com/articles/creating-a-new-organization-from-scratch/
+https://help.github.com/articles/transferring-a-repository/
+https://github.com/pricing
+
+# GitHub scraping repo recommendations
+http://gitrec.mortardata.com/
+
+# BFG Repo-Cleaner
+http://robinlovelace.net/r/2014/06/25/pruning-a-giant-gh-repo.html
+http://rtyley.github.io/bfg-repo-cleaner/
+https://github.com/rtyley/bfg-repo-cleaner
+
+# travis ci unit test for GitHub projects
+https://travis-ci.org/profile/algoquant
+
+# githut statistics on computer languages in github
+http://githut.info/
+
+### GitHub learning
+
+# GitHub tutorials
+https://plot.ly/r/github-getting-started-for-data-scientists/
+https://help.github.com/categories/bootcamp/
+https://help.github.com/articles/good-resources-for-learning-git-and-github/
+http://kbroman.org/github_tutorial/
+# tip: use GitHub Desktop instead of using git command line
+https://desktop.github.com/
+# fork, pull, & merge
+https://help.github.com/articles/be-social
+https://help.github.com/articles/using-pull-requests
+
+# GitHub support blog by Phil Haack
+http://haacked.com/
+# Writing on GitHub
+https://help.github.com/articles/writing-on-github
+# how-to gist
+https://help.github.com/articles/creating-gists
+# GitHub Report Card - dynamically generated contributions report
+http://osrc.dfm.io/
+
+### Interactive books using GitHub/Git and markdown
+https://www.gitbook.com/
+
+https://www.gitbook.com/book/snowdream86/github-cheat-sheet/details
+
+http://jason.bryer.org/posts/2014-04-18/Gitbook_with_R_Markdown.html
+# Publishing in GitHub
+http://sumanmathmedicine.blogspot.com/2014/04/publishing-in-github.html
+
+# GitHub wiki
+https://github.com/blog/1828-wikis-now-with-more-love
+https://github.com/showcases/projects-with-great-wikis
+
+# ZenHub
+https://www.zenhub.io/
+https://www.zenhub.io/beta
+https://github.com/axiomzen/zenhub-now
+# Ruby app that analyzes GitHub Issue Comments, Milestones, and Code Commit Messages for Time Tracking and Budget Tracking information.
+https://github.com/StephenOTT/GitHub-Time-Tracking
+
+
+
+#########
+### GitHub Pages
+
+### GitHub hosted web page
+http://algoquant.github.io/
+
+# GitHub hosted web page setup how-to
+https://pages.github.com/
+
+# GitHub Pages
+https://github.com/blog/272-github-pages
+https://help.github.com/articles/setting-up-a-custom-domain-with-pages
+https://help.github.com/articles/user-organization-and-project-pages
+https://help.github.com/categories/20/articles
+# step by step guide
+http://www.thinkful.com/learn/a-guide-to-using-github-pages/
+http://webdesign.tutsplus.com/tutorials/getting-to-know-github-pages-static-project-pages-fast--webdesign-11501
+# create blog on github pages using jekyll
+http://joshualande.com/jekyll-github-pages-poole/
+
+# Jekyll
+https://jekyllrb.com/
+https://talk.jekyllrb.com/
+
+# website modified from Skeleton, hosted on Github Pages using Jekyll
+http://jason.bryer.org/about.html
+# Using Rmarkdown, Jekyll, & GitHub for a Website
+http://jason.bryer.org/posts/2012-12-10/Markdown_Jekyll_R_for_Blogging.html
+http://www.getskeleton.com/
+# another website
+http://seananderson.ca/colophon.html
+https://github.com/seananderson/seananderson.github.com
+# nice website
+https://github.com/jbkunst/jbkunst.github.io/tree/master/_posts
+
+
+#########
+### Travis CI
+
+# Travis CI is a continuous integration service used to build and test software projects hosted at GitHub
+https://travis-ci.org/
+
+
+
+###########
+### publishing presentations documents markdown rmarkdown CSS LaTeX
+
+### markdown
+
+# learning markdown tutorials
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+http://daringfireball.net/projects/markdown/syntax
+https://guides.github.com/features/mastering-markdown/
+
+# markdown cheatsheet
+https://markdown-it.github.io/
+https://daringfireball.net/projects/markdown/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+# markdown interpreter
+http://www.markitdown.net/markdown
+
+# GitHub Flavored Markdown
+https://help.github.com/articles/github-flavored-markdown/
+# github flavored markdown
+https://help.github.com/categories/writing-on-github/
+http://github.github.com/github-flavored-markdown/sample_content.html
+
+
+### Power BI Desktop
+https://powerbi.microsoft.com/en-us/desktop/
+http://blog.revolutionanalytics.com/2015/11/powerbi-adds-support-for-r.html
+https://www.simple-talk.com/sql/bi/using-r-machine-learning-script-as-a-power-bi-desktop-data-source/
+
+
+### R Markdown
+
+# RMarkdown v2
+http://rmarkdown.rstudio.com/
+https://guides.github.com/features/mastering-markdown/
+http://scholarlymarkdown.com/Scholarly-Markdown-Guide.html
+http://blog.rstudio.org/2014/06/18/r-markdown-v2/
+http://rmarkdown.rstudio.com/authoring_migrating_from_v1.html
+
+# rmarkdown templates
+https://rud.is/b/2016/02/04/alternate-r-markdown-templates/
+https://github.com/hrbrmstr/markdowntemplates
+http://svmiller.com/blog/2016/02/svm-r-markdown-manuscript/
+
+# markdown tutorials
+http://gastonsanchez.com/blog/how-to/2012/11/19/Creating-HTML5-slides.html
+https://rpubs.com/marschmi/RMarkdown
+# markdown showcase
+http://yihui.name/knitr/demo/showcase/
+http://cpsievert.github.io/slides/markdown/
+
+# markdown plus plotly tutorial
+http://moderndata.plot.ly/r-markdown-and-knitr-tutorial-part-1/
+http://moderndata.plot.ly/r-markdown-and-knitr-tutorial-part-2/
+
+# publishing R Markdown on GitHub Pages
+https://plot.ly/r/github-getting-started-for-data-scientists/
+http://happygitwithr.com/
+https://github.com/jennybc/happy-git-with-r
+http://user2016.org/tutorials/01.html
+
+# Customizing Markdown Rendering
+https://support.rstudio.com/hc/en-us/articles/200552186-Customizing-Markdown-Rendering
+
+# rmarkdown tutorial
+https://rpubs.com/moviedo/Rmd_tutorial
+
+# comments in markdown
+http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax
+
+# YAML today's date
+http://stackoverflow.com/questions/23449319/yaml-current-date-in-rmarkdown
+# YAML authors
+http://stackoverflow.com/questions/26043807/multiple-authors-and-subtitles-in-rmarkdown-yaml
+http://stackoverflow.com/questions/29532214/add-author-affiliation-in-r-markdown-beamer-presentation/29532605
+
+# markdown with CSS
+http://rstudio-pubs-static.s3.amazonaws.com/27777_55697c3a476640caa0ad2099fe914ae5.html
+# markdown import image scale
+http://stackoverflow.com/questions/14675913/how-to-change-image-size-markdown
+
+http://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html
+https://onlinecourses.science.psu.edu/statprogram/markdown
+http://cran.r-project.org/web/packages/knitr/vignettes/knitr-markdown.html
+http://stackoverflow.com/questions/17963962/plot-size-and-resolution-with-r-markdown-knitr-pandoc-beamer
+http://cran.r-project.org/web/packages/knitr/vignettes/knitr-markdown.html
+http://jeromyanglim.blogspot.com/2012/05/getting-started-with-r-markdown-knitr.html
+http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html
+https://rpubs.com/Thell/knitLiteralMarkdownPreview
+
+# rticles package with R markdown article templates
+https://github.com/rstudio/rticles
+
+# presentation color schemes
+http://blog.slideshare.net/2014/03/17/how-to-use-colors-in-presentations/
+https://kuler.adobe.com/create/color-wheel/
+http://colorschemedesigner.com/
+
+# Convert Sweave LaTeX to knitr R Markdown
+http://jeromyanglim.blogspot.com/2012/06/how-to-convert-sweave-latex-to-knitr-r.html
+
+
+### rpres - old format replacred by R Markdown
+
+https://support.rstudio.com/hc/en-us/sections/200130218-R-Presentations
+https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations
+
+
+### CSS
+
+# CSS learn
+http://www.w3schools.com/default.asp
+http://www.w3schools.com/css/default.asp
+https://www.codecademy.com/tracks/web
+
+# CSS for shiny app
+http://shiny.rstudio.com/articles/css.html
+
+# CSS examples templates
+http://cssdeck.com/
+
+# CSS length units
+http://www.w3.org/Style/Examples/007/units.en.html
+
+# CSS colors
+http://www.w3schools.com/html/html_colornames.asp
+http://www.w3schools.com/html/html_colorvalues.asp
+http://www.w3schools.com/html/html_colors.asp
+
+# hover effect
+http://cssdeck.com/labs/pzam7ug7
+http://www.w3schools.com/cssref/sel_hover.asp
+
+# Bootstrap tools for creating web applications containing HTML, CSS, and JavaScript
+https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
+
+### R Markdown slide presentations
+
+# good introduction: difference between ioslides presentations versus slidy
+http://data-analytics.net/cep/Schedule_files/presentations_demo.html
+
+# slides with two two columns
+http://stackoverflow.com/questions/20847371/two-column-layouts-in-rstudio-presentations-slidify-pandoc
+http://stackoverflow.com/questions/31753897/2-column-section-in-r-markdown
+http://stackoverflow.com/questions/30514408/two-columns-code-in-markdown
+http://stackoverflow.com/questions/19237190/2-column-report-in-r-markdown-render-html-aside-data-frame
+http://stackoverflow.com/questions/28201503/how-to-render-multiple-columns-with-markdown-in-github-readme
+
+http://rmarkdown.rstudio.com/ioslides_presentation_format.html#advanced-layout
+
+
+
+### HTML
+
+# HTML tutorial
+http://www.w3schools.com/html/html_intro.asp
+http://www.w3schools.com/html/default.asp
+
+# HTML CSS tutorial
+https://www.codecademy.com/tracks/web
+
+# R2HTML package - not needed if using knitr and .Rmd
+http://www.statmethods.net/interface/output.html
+
+
+### simple websites
+
+http://getskeleton.com/
+https://github.com/dhg/Skeleton
+
+
+### LaTeX Wiki
+http://en.wikibooks.org/wiki/LaTeX/
+http://en.wikibooks.org/wiki/LaTeX/Mathematics#Greek_letters
+http://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_Mathematical_Symbols
+http://en.wikibooks.org/wiki/LaTeX/Fonts
+http://en.wikibooks.org/wiki/LaTeX/Presentations
+http://en.wikibooks.org/wiki/LaTeX/Hyperlinks
+
+# LaTeX learn
+https://www.sharelatex.com/learn/
+
+# LaTeX Science equations - math formulas
+http://en.wikibooks.org/wiki/LaTeX/Mathematics
+http://vgoulet.act.ulaval.ca/en/latex/
+http://vgoulet.act.ulaval.ca/pub/tables/table_t.Rnw
+http://equplus.net/
+# LaTeX amsmath aligning equations
+https://www.sharelatex.com/learn/Aligning_equations_with_amsmath
+http://tex.stackexchange.com/questions/59214/left-align-math
+
+# LaTeX code from hand-written symbol using character recognition
+http://detexify.kirelabs.org/classify.html
+http://shapecatcher.com/
+
+# bbold package for unitary vector or matrix symbol
+# \usepackage{bbold}
+
+# MathJax equations
+http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+
+
+
+# managing temp and aux files
+http://tex.stackexchange.com/questions/11123/prevent-pdflatex-from-writing-a-bunch-of-files/11130#11130
+# automating document compilation
+http://tex.stackexchange.com/questions/64/tools-for-automating-document-compilation/77879#77879
+http://tex.stackexchange.com/questions/24785/deleting-external-auxiliary-files
+
+# LaTex online editors
+https://www.sharelatex.com/
+https://www.writelatex.com/
+
+# Biblatex
+https://www.sharelatex.com/blog/2013/07/31/getting-started-with-biblatex.html
+http://www.sharelatex.com/learn/Bibliography_management
+http://www.bibtex.org/Using/
+http://tex.stackexchange.com/questions/13509/biblatex-for-idiots
+http://shelah.logic.at/eindex.html
+http://tex.stackexchange.com/questions/68080/beamer-bibliography-icon
+# Biber with Biblatex
+http://tex.stackexchange.com/questions/44040/biblatex-biber-texmaker-miktex
+http://tex.stackexchange.com/questions/69705/how-to-automate-using-biber-in-miktex-texworks
+http://tex.stackexchange.com/questions/66201/how-do-i-set-up-my-latex-document-to-enable-me-to-cite-from-my-bibtex-bibliograp
+
+# LaTeX for Beginners
+http://math.ucr.edu/~huerta/latexforbeginners.html
+# Highlight syntax highlighter for LaTeX, TeX, HTML, XHTML, RTF
+http://www.andre-simon.de/doku/highlight/en/highlight.php
+
+# LaTeX escape special characters/symbols
+http://www.cespedes.org/blog/85/how-to-escape-latex-special-characters
+To get	You must use
+#	\#
+$	\$
+%	\%
+&	\&
+\	\textbackslash{}
+^	\textasciicircum{}
+_	\_
+{	\{
+}	\}
+~	\textasciitilde{}
+
+# LaTeX source code listing like in professional books
+http://stackoverflow.com/questions/741985/latex-source-code-listing-like-in-professional-books
+
+# Latex two columns
+http://texblog.org/2007/08/11/creating-two-columns-in-article-report-or-book/
+
+# LaTeX tips and tricks
+http://www.f.kth.se/~ante/latex.php
+
+# LaTeX setup for Windows
+http://www.latexbuch.de/install-latex-windows-7/
+
+# Extensive support for hypertext in LaTeX
+http://ctan.org/pkg/hyperref
+
+### Beamer
+# Beamer is a LaTeX document class for creating slides for presentations.
+http://en.wikipedia.org/wiki/Beamer_(LaTeX)
+# LaTeX Beamer quick tutorial
+http://heather.cs.ucdavis.edu/~matloff/beamer.html
+
+http://www.math-linux.com/latex-26/How-to-make-a-presentation-with
+
+# Beamer tips - table, appendix, multiline equations
+http://everythingyouforgetaboutlatex.blogspot.com/
+
+# Beamer bugs errors
+# add \protect to \emph{class}
+http://tex.stackexchange.com/questions/31612/using-textit-in-section-with-beamer-class
+http://tex.stackexchange.com/questions/47301/error-with-bold-font-in-section-title-with-beamer?lq=1
+
+# Shifting Figure to the Left in Beamer
+http://tex.stackexchange.com/questions/44322/shifting-figure-to-the-left-in-beamer
+
+http://people.sc.fsu.edu/~jburkardt/latex/beamer_example/beamer_example.html
+
+# ctan.org has massive archive of beamer files
+http://www.ctan.org/pkg/beamer
+http://www.ctan.org/tex-archive/macros/latex/contrib/beamer/
+
+# Top-aligning columns within a top-aligned frame - still doesn't work
+http://tex.stackexchange.com/questions/16447/beamer-top-aligning-columns-within-a-top-aligned-frame
+
+http://www.math.umbc.edu/~rouben/beamer/quickstart-Z-H-3.html
+http://www.math.umbc.edu/~rouben/beamer/quickstart-Z-H-8.html#node_sec_8
+http://www.math.umbc.edu/~rouben/beamer/quickstart-Z-H-5.html#node_sec_5
+http://genomeek.wordpress.com/2013/06/13/beamer-theme-creation/
+http://programming-r-pro-bro.blogspot.com/2011/11/create-your-own-beamer-template.html
+http://tex.stackexchange.com/questions/102791/simple-beamer-template-for-total-beginners
+http://mathblog.zeronteproject.com/76/
+
+# Simple beamer slides
+http://kbroman.wordpress.com/2013/10/07/better-looking-latexbeamer-slides
+http://www.latextemplates.com/template/beamer-presentation
+https://www.writelatex.com/622077ncschz#/1285465
+http://faculty.lagcc.cuny.edu/tnagano/research/presentationWithLaTeX/index.htm
+
+# Adding logo or image in title slide
+http://tex.stackexchange.com/questions/21356/adding-custom-image-in-title-slide
+http://tex.stackexchange.com/questions/21165/customization-of-the-title-slide-in-a-beamer-presentation
+http://tex.stackexchange.com/questions/13912/how-to-insert-an-image-in-the-front-cover-of-a-report
+http://tex.stackexchange.com/questions/194449/author-and-institute-dont-appear-when-adding-background-image-to-title-page-in
+http://tex.stackexchange.com/questions/7916/how-to-insert-a-background-image-in-a-beamer-frame
+
+# Custom beamer blocks
+http://tex.stackexchange.com/questions/28760/custom-beamer-blocks-for-pros-and-cons
+http://tex.stackexchange.com/questions/117380/beamer-how-to-make-theorem-like-block-with-free-title
+
+# Gallery of beamer themes
+http://www.hartwork.org/beamer-theme-matrix
+http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+
+# beamer title email field: hyperref warning "token not allowed in a PDF string"
+http://tex.stackexchange.com/questions/10555/hyperref-warning-token-not-allowed-in-a-pdf-string
+
+
+
+### Sweave
+# The Sweave Homepage
+http://www.stat.uni-muenchen.de/~leisch/Sweave/
+
+# Installing Sweave for Miktex 2.9 on Windows 7
+http://tex.stackexchange.com/questions/117621/installing-sweave-for-miktex-2-9-on-windows-7
+
+# Sweave Demo
+http://users.stat.umn.edu/~geyer/Sweave/
+
+http://www.rstudio.com/ide/docs/authoring/overview
+http://www.rstudio.com/ide/docs/authoring/rnw_weave
+
+
+### knitr package
+http://cran.r-project.org/web/packages/knitr/index.html
+# knitr FAQ
+https://github.com/yihui/knitr/blob/master/FAQ.md
+# Yihui Xie developed knitr
+http://yihui.name/en/
+http://yihui.name/knitr/
+http://yihui.name/knitr/options/
+http://yihui.name/knitr/demo/output
+http://yihui.name/knitr/demos/
+http://yihui.name/knitr/demo/sweave/
+http://yihui.name/knitr/demo/editors/
+http://yihui.name/knitr/demo/minimal/
+http://yihui.name/knitr/demo/showcase/
+https://github.com/yihui/
+https://github.com/yihui/knitr/
+https://github.com/yihui/knitr/tree/master/inst/examples/
+# debugging code chunk
+http://stackoverflow.com/questions/19286051/some-plots-not-rendering-in-rstudio-knitr-rmarkdown
+
+# knitr learning
+http://kbroman.org/knitr_knutshell/
+
+# Text and plot in two columns
+http://tex.stackexchange.com/questions/83361/two-column-layout-with-text-and-knitr-chunk
+# knitr chunk options to control line spacing, font size in output
+http://stackoverflow.com/questions/20097553/knitr-chunk-options-to-control-line-spacing-font-size-in-output
+# R code output width
+https://github.com/yihui/knitr-examples/blob/master/038-output-width.Rnw
+http://stackoverflow.com/questions/13428007/r-chunk-code-stay-inside-the-beamer-frame
+
+# knitr and listings package
+http://yihui.name/knitr/demo/listings/
+https://github.com/yihui/knitr/blob/master/inst/examples/knitr-listings.Rnw
+http://tex.stackexchange.com/questions/100088/r-code-linebreaks-and-code-highlighting-in-knitr
+
+# Color source code blocks
+http://stackoverflow.com/questions/14695892/change-code-block-color-in-knitr-markdown
+
+# extract R chunks into .R file
+library(knitr)
+purl('C:/Develop/R/lecture_slides/FRE6871_Lecture_1.Rnw', documentation=0)
+
+# knitr example
+https://github.com/lcolladotor/lcollado753/blob/master/template_short_commented_knitr.Rnw
+
+# knitr and xtable example
+http://stackoverflow.com/questions/21397407/knitr-r-markdown-and-xtable-xtable-tables-within-html-table
+
+http://scg.sdsu.edu/wp-content/uploads/2014/04/r_and_sweave.pdf
+
+# knitr animation plots in output html and pdf (install ffmpeg first)
+http://stackoverflow.com/questions/14879210/including-a-interactive-3d-figure-with-knitr
+https://github.com/yihui/knitr/issues/952
+http://stackoverflow.com/questions/25202887/animated-rgl-graphs-with-knitr
+http://stackoverflow.com/questions/12038893/combining-r-markdown-and-animation-package
+http://stackoverflow.com/questions/31187561/animation-in-pdfs-using-knitr-that-supports-more-than-just-adobe-reader
+http://stackoverflow.com/questions/28078104/speed-up-fig-show-interval-in-knitr
+
+http://www.rstudio.com/ide/docs/authoring/overview
+http://www.rstudio.com/ide/docs/authoring/rnw_weave
+http://www.numbertheory.nl/2012/02/12/r-and-presentations-a-basic-example-of-knitr-and-beamer
+http://danieljhocking.wordpress.com/2013/09/25/knitting-beautiful-documents-in-rstudio
+
+# Create PowerPoint with R, Knitr, Pandoc, and Slidy
+http://rprogramming.net/create-a-slideshow-powerpoint-with-r-knitr-pandoc-and-slidy/
+# Create HTML or PDF files from .Rmd files with R, Knitr, MiKTeX, and Pandoc
+http://rprogramming.net/create-html-or-pdf-files-with-r-knitr-miktex-and-pandoc/
+
+# Christopher Gandrud - Reproducible Research at RStudio
+https://github.com/christophergandrud/Rep-Res-Book
+http://christophergandrud.blogspot.com/
+
+# Lyx
+http://www.lyx.org/Features
+http://stackoverflow.com/questions/17891108/lyx-knitr-error
+http://yihui.name/en/2013/02/contribute-to-the-r-journal-with-lyx-knitr/
+http://yihui.name/knitr/demo/lyx/
+
+
+### Python sweave2knitr
+https://pypi.python.org/pypi/Sweave2knitr/0.1.4
+https://github.com/dgrtwo/Sweave2knitr
+
+# R and My Divorce From Word
+http://mbjoseph.github.io/blog/2013/10/30/word/
+https://github.com/mbjoseph/project-template
+
+
+# Introduction to knitr - R Markdown (Rmd) format
+http://lcolladotor.github.io/Rmd-intro/#1
+
+# RPubs - RStudio R Markdown documents
+http://rpubs.com/
+
+https://public.opencpu.org/
+http://blog.revolutionanalytics.com/2012/08/creating-beautiful-reports-from-r-with-knitr.html
+http://recology.info/2013/07/r-resources/
+http://jeromyanglim.blogspot.com/2012/06/converting-sweave-latex-to-knitr-latex.html
+http://www.latextemplates.com/template/beamer-presentation
+https://sites.google.com/site/siamlatextutorial/tutorials/slideshows
+
+# Deleting external auxiliary files
+http://support.rstudio.org/help/discussions/questions/902-aux-file-and-tex-file-produced-by-r
+http://tex.stackexchange.com/questions/24785/deleting-external-auxiliary-files
+http://tex.stackexchange.com/questions/87816/is-there-a-way-to-configure-pdflatex-to-make-all-but-the-tex-and-pdf-files-hid
+
+
+
+###########
+### slidify
+
+# slidify package reproducible html5 slides from R markdown - Ramnath Vaidyanathan
+http://ramnathv.github.io/slidify/
+https://github.com/slidify
+http://slidify.github.io/workshops/
+http://slidify.org/
+# UseR tutorial 2014
+http://ramnathv.github.io/user2014-idocs-slides/
+http://ramnathv.github.io/user2014-idocs/
+https://github.com/ramnathv/user2014-idocs/stargazers
+
+# nice slidify with source: Grammar of (Interactive) Graphics
+http://mattsigal.github.io/InteractiveGraphics/#1
+https://github.com/mattsigal/InteractiveGraphics
+# Matthew Sigal psychology and data visualization
+http://www.matthewsigal.com/
+https://github.com/mattsigal/
+# nice ggplot
+http://rpubs.com/mattsigal/
+
+# examples
+http://www.magesblog.com/2013/05/interactive-presentation-with-slidify.html
+http://blog.revolutionanalytics.com/2012/11/create-elegant-interactive-presentations-from-r-with-slidify.html
+
+
+#########
+### Google Apps
+
+# Sign in to the Google Apps
+http://admin.google.com/
+Twinkle14
+
+# Google Apps domain setup
+http://www.google.com/intx/en/enterprise/apps/business/pricing.html
+http://lifehacker.com/5391537/trick-out-google-apps-for-your-domain
+# Google Apps domain setup
+http://www.leemunroe.com/io-domains-heroku/
+
+# Google Apps setup
+https://admin.google.com/algoquants.ch/AdminHome#SetupWizard
+http://deployment.googleapps.com/
+http://deployment.googleapps.com/Home/enterprise-business
+# Google Apps Help Center
+https://support.google.com/a/?hl=en#topic=29157
+http://learn.googleapps.com/
+https://support.google.com/a/answer/53340?hl=en
+
+https://docs.google.com/a/algoquants.ch/document/d/1yn-eiyCaecx7GdPQYCG4g9UcHbvoNJuUuUWX09Yt1z4/edit
+
+# Gmail address:
+http://mail.google.com/a/algoquants.ch
+# Google Drive address:
+http://drive.google.com/a/algoquants.ch
+
+# Google Sites website
+https://sites.google.com/
+http://sites.google.com/a/algoquants.ch
+# Google Sites overview
+http://learn.googleapps.com/sites
+https://support.google.com/a/answer/90915
+
+Create your website for algoquants.ch 
+You may start to build your new website for your domain simply by visiting: 
+www.algoquants.ch
+
+https://admin.google.com/algoquants.ch/AdminHome#SetupWizard/setuptask=CREATE_SITE_SHARE_SUBTASK
+
+https://admin.google.com/algoquants.ch/AdminHome#ServiceSettings/service=sites&subtab=address
+
+https://admin.google.com/algoquants.ch/AdminHome#ServiceSettings/notab=1&service=sites&subtab=address
+
+www.algoquants.ch points to the site "home" which does not exist. Please contact the domain administrator.
+
+# Troubleshoot CNAME records - domain DNS settings
+https://support.google.com/a/answer/93595
+nslookup -q=cname www.algoquants.ch
+nslookup www.algoquants.ch
+
+
+https://admin.google.com/algoquants.ch/AdminHome?chromeless=1#OGX:DomainSettingsAdvancedDns
+
+https://www.domaindiscount24.com/en
+Sign-in name : 03796724
+Password : rulaKYJPJins
+
+Domaindiscount24.com customer service email : support@domaindiscount24.com
+
+# blogger create a new page on your blog
+https://support.google.com/blogger/answer/165955?hl=en
+
+# Google Drive
+http://stackoverflow.com/questions/13328247/how-to-copy-a-file-into-a-specific-folder-using-docslist
+http://webapps.stackexchange.com/questions/40164/can-i-duplicate-a-folder-in-google-drive
+http://stackoverflow.com/questions/14696514/how-do-i-copy-move-a-file-to-a-folder-in-google-apps-script
+
+
+
+#########
+### hosting
+
+# hosting Ruby, Node.js, Python, Java, and PHP
+https://www.heroku.com/
+
+# hosting data projects Mongo Hadoop
+http://www.mortardata.com/
+http://blog.mortardata.com/
+
+http://www.r-bloggers.com/instructions-for-installing-using-r-on-amazon-ec2/
+http://www.r-bloggers.com/how-to-run-r-in-the-cloud-for-teaching/
+# Google App Engine
+https://cloud.google.com/products/app-engine
+
+http://www.infoworld.com/d/cloud-computing/amazon-web-service-now-offers-r-demand-236079
+
+# Diff and merge tools
+kdiff3, tkdiff, meld, xxdiff, emerge, vimdiff, gvimdiff, ecmerge, opendiff
+
+
+https://wiki.archlinux.org/index.php/Gitweb
+
+http://wiki.dreamhost.com/Main_Page
+
+http://sourceforge.net/
+https://r-forge.r-project.org/
+
+http://code.google.com/
+
+https://developers.google.com/
+
+http://en.wikipedia.org/wiki/Comparison_of_open_source_software_hosting_facilities
+
+
+
+#########
+### publishing
+
+# Discover, curate and publish content online
+http://www.scoop.it/
+
+# online newspaper publishing
+http://paper.li
+
+# Pandoc universal document converter
+http://johnmacfarlane.net/pandoc/
+https://github.com/jgm/pandoc
+
+### publishing Gists
+
+# Mike Bostock’s blocks for publishing html and Java Gists - very cool!
+http://bl.ocks.org/mbostock
+
+# publish Markdown Gists - a little more visually appealing, but can't control buttons
+# roughdraft is better
+http://www.roughdraft.io/
+http://gist.io/
+
+# GistBox good GUI for editing Gists - also create bookmarks as individual Gists
+http://www.gistboxapp.com/
+http://blog.gistboxapp.com/post/47278471382/gists-are-bookmarks-with-context
+
+# use Google+ community for creating and sharing bookmarks
+http://www.techrepublic.com/blog/google-in-the-enterprise/save-and-share-bookmarks-with-google/
+http://socialmediaslant.com/bookmark-google-plus-posts-extension-chrome/
+
+# create and share bookmarks
+https://delicious.com/
+
+# create and share notebooks and bookmarks
+https://www.evernote.com/
+https://discussion.evernote.com/topic/27201-using-evernote-as-a-bookmark-manager/
+
+# Dexy tool for writing documents incorporating code
+# Dexy is a very similar product to Sweave or knitR
+# Dexy is used by opengamma.org
+http://dexy.it/
+# Ana Nelson
+http://ananelson.com/
+http://dexy.it/docs/what-is-dexy.html
+http://stackoverflow.com/search?q=dexy
+
+# online HTML/CSS/JS Devs interpreter
+http://cssdeck.com/
+
+### scraping news and data
+http://blog.hartleybrody.com/web-scraping/
+https://scraperwiki.com/
+http://datajournalismhandbook.org/1.0/en/getting_data_3.html
+http://www.outwit.com/products/hub/download/?gclid=CM2XxIWumL4CFcNlOgodgQwAvg#ectrans=1
+http://www.adbnews.com/
+
+# Beautiful Soup Python news scraping
+https://wiki.python.org/moin/beautiful%20soup
+https://pypi.python.org/pypi/beautifulsoup4/4.3.2
+https://github.com/zeber19/headlines/blob/master/headline_scrape.py
+
+
+### Style Guides
+# Google Style Guide
+https://code.google.com/p/google-styleguide/
+# Making Wrong Code Look Wrong
+http://www.joelonsoftware.com/articles/Wrong.html
+
+# LaTex online editors
+https://www.sharelatex.com/
+https://www.writelatex.com/
+
+
+
+#########
+### visualization
+
+# beautiful visualizations
+http://venturebeat.com/2014/08/09/data-is-beautiful-is-a-hidden-gem-for-gorgeous-data-visualizations/
+http://www.reddit.com/r/dataisbeautiful/
+
+
+### D3.js and Protovis
+
+# D3.js - Data-Driven Documents
+http://d3js.org/
+http://vis.stanford.edu/papers/d3
+http://en.wikipedia.org/wiki/D3.js
+
+# Mike Bostock, developer of D3.js, works for New York Times
+http://bost.ocks.org/mike/
+https://github.com/mbostock/d3
+# D3 gallery
+https://github.com/mbostock/d3/wiki/Gallery
+
+# Visualizing Algorithms
+http://bost.ocks.org/mike/algorithms/
+https://github.com/mbostock
+
+# NVD3 Re-usable finance charts for d3.js
+http://nvd3.org/
+https://github.com/novus/nvd3
+
+# interactive graphs Python, d3.js, R, shiny, IPython, vincent, d3py, python-nvd3
+http://www.xavierdupre.fr/blog/2013-11-30_nojs.html
+
+# Rob Story: vincent - Python to Vega translator
+http://wrobstory.github.io/
+https://github.com/wrobstory
+# Data in Python with Pandas and Vincent
+http://wrobstory.github.io/2013/10/mapping-data-python.html
+# Quandl and Pandas
+http://wrobstory.github.io/2013/04/quandl-pandas.html
+# Vincent and iPython
+http://wrobstory.github.io/2013/04/vincent-ipython.html
+# Plotting Time Series with Pandas DatetimeIndex and Vincent
+http://wrobstory.github.io/2013/04/pandas-vincent-timeseries.html
+
+# Junk Charts by Kaiser Fung
+http://junkcharts.typepad.com/
+
+# Chrome Experiments showcase of HTML5 and JavaScript
+http://www.chromeexperiments.com/
+
+# plotly: create interactive charts with ggplot2 syntax
+https://plot.ly/
+https://plot.ly/r/
+https://github.com/plotly
+
+# slideshow: Grammar of (Interactive) Graphics
+http://mattsigal.github.io/InteractiveGraphics/#1
+
+# Social Network Analysis visualization
+https://gephi.org/
+http://www.vesnam.com/Rblog/viznets2/
+https://github.com/mbastian
+
+http://damienmortini.me.uk/
+https://github.com/dmmn
+
+# WebGL
+https://github.com/vvuk
+http://www.chromeexperiments.com/webgl/
+http://jaxry.github.io/colorful-life/
+
+# Kevin Quealy’s graphics editor at The New York Times
+https://kpq.github.io/chartsnthings/
+https://twitter.com/KevinQ
+
+# TradingView HTML5 visualization in browser for collaborating on trade ideas
+# TradingView supplies the data
+https://www.tradingview.com/
+http://blog.tradingview.com/
+
+
+
+#########
+### Project Management
+
+# Semantic Versioning
+http://semver.org/
+
+http://machinelearningmastery.com/how-to-layout-and-manage-your-machine-learning-project/
+
+# GitHub project management tools
+http://www.quora.com/Which-project-management-tools-are-deeply-integrated-with-GitHub
+http://www.thesambarnes.com/web-project-management/web-project-management-and-collaboration-using-github/
+http://www.lullabot.com/blog/article/managing-projects-github
+
+# looks interesting
+https://huboard.com/
+https://www.zenhub.io/
+https://taskk.it/github
+
+# reproducible data science using Python
+http://datascience.stackexchange.com/questions/758/tools-and-protocol-for-reproducible-data-science-using-python/759#759
+
+
+
+#########
+### misc utilities
+
+# compare two texts
+https://www.diffchecker.com/
+http://www.text-compare.com/
+
+
+
+#########
+### windows
+
+# set the path and environment variables in Windows
+http://www.computerhope.com/issues/ch000549.htm
+http://msdn.microsoft.com/en-gb/library/windows/desktop/ms682653.aspx
+
+# got to 
+Control Panel\System and Security\System
+click Advanced System Settings
+click Environment Variables button under Advanced tab
+edit PATH
+C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Lenovo\Bluetooth Software\;C:\Program Files\Lenovo\Bluetooth Software\syswow64;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\
+
+# Add/Edit Environment Variables in Windows 7
+http://www.nextofwindows.com/how-to-addedit-environment-variables-in-windows-7/
+
+# recovering PATH value
+http://stackoverflow.com/questions/4477660/what-is-the-difference-between-user-variables-and-system-variables
+
+
+
+#########
+### other
+
+# MinGW
+http://nuwen.net/mingw.html
+http://mingw.org/wiki/HOWTO
+http://www.mingw.org/wiki/Getting_Started
+http://www.mingw.org/wiki/MinGW_for_First_Time_Users_HOWTO
+http://www.mingw.org/wiki/InstallationHOWTOforMinGW
+http://www.mingw.org/wiki/HOWTO_Install_the_MinGW_GCC_Compiler_Suite
+
+http://stackoverflow.com/questions/14430944/i-cant-find-my-mingw-shell-after-installing-with-gui-installer
+http://stackoverflow.com/questions/13089383/setting-up-mingw-in-windows-7-to-compile-adequately-portable-c-code
+http://stackoverflow.com/questions/6394755/how-to-install-gcc-on-windows-7-machine
+http://stackoverflow.com/questions/5733220/how-to-add-mingw-bin-directory-to-my-system-path
+http://stackoverflow.com/questions/16716454/setting-up-mingw-and-codeblocks-in-windows-8-64-bit
+
+# Enthought
+https://www.enthought.com/
+https://www.enthought.com/products/epd/free/
+
+
+# Instructions for installing MiKTeX:
+download installer from:
+	http://miktex.org/download
+Run installer
+
+Now you need to configure MiKTeX
+(follow isntructions from:
+	http://wiki.lyx.org/FAQ/LaTeXErrors
+)
+Run the Miktex Package Manager as administrator:
+	C:\Program Files\MiKTeX 2.9\miktex\bin\x64\mpm_mfc_admin.exe
+Go to Repository -> 
+	Change Package Repository -> 
+	Packages should be installed from the internet -> 
+	Connection Settings
+Select an internet repository
+
+Run the Miktex Settings Administrator:
+	C:\Program Files\MiKTeX 2.9\miktex\bin\x64\mo_admin.exe
+Refresh and Update formats
+
+Run the command in cmd:
+	kpsewhich article.cls
+It should return the path to that file
+
+Now when you preview in Lyx, 
+Windows will spring up asking you to allow Miktex to make changes, 
+and you should see packages being installed on the lyx status line at the bottom.
+
+
+
+# Instructions for installing Lyx:
+From the site:
+	http://www.lyx.org/Download#toc3
+download basic installer: 
+	LyX-2.0.6-Installer-2.exe (~35 MB)
+	not the Bundle installer
+Run the installer "as administrator"
+When prompted for latex.exe, point it to:
+	C:\Program Files\MiKTeX 2.9\miktex\bin\x64\latex.exe
+
+
+Now add PATH: in LYX go to:
+Tools-> Preferences-> Paths-> PATH
+and add the path to R, that can be found in R with the command: R.home('bin')
+	C:\Program Files\R\R-3.0.1\bin\x64
+
+In LYX, run Tools -> Reconfigure and restart LYX
+
+(follow isntructions from:
+	http://wiki.lyx.org/LyX/LyxWithRThroughSweave
+)
+

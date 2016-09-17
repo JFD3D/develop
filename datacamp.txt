@@ -1,0 +1,115 @@
+#### Structure of a DataCamp course  
+-----------------  
+
+[DataCamp github repo](https://github.com/Data-Camp/datacamp)  
+[How to create a DataCamp course](https://www.datacamp.com/create/how)  
+<br/> <br/>
+
+- [ ] 5 chapters at 50 minutes/chapter = 4 hours, 10 minutes total  
+- [ ] Each 50-minute chapter contains  
+4 videos at 3.5 minutes/video = 14 minutes  
+12 interactive exercises (multiple choice + coding) at 3 minutes/exercise = 36 minutes  
+- [ ] Each chapter begins with a video and videos are separated by 3 interactive exercises  
+<br/> <br/>
+
+General course concept:  
+- each chapter should contain a collection of vignettes,  
+- each vignette should explain a particular topic relating to investment management practice,  
+- the topics should be illustrated using examples of numerical techniques and investment strategies using historical market data,  
+- the vignettes should contain complete R code allowing users to reproduce all the calculations from start to finish, including data loading, formatting, model building, and visualization,  
+- all R code samples should rely on fast, vectorized code,  
+- the course should teach users how to use popular R packages, such as xts, PerformanceAnalytics, PortfolioAnalytics, 
+<br/> <br/>
+
+Potential course themes:  
+- Machine Learning for Systematic Investing  
+- Investment Portfolio Optimization with R  
+<br/> <br/>
+
+#### explore and adapt:  
+- http://www.inside-r.org/pretty-r  
+- https://developers.google.com/chart/  
+<br/> <br/>
+
+
+#### Datacamp course *Systematic Investment Strategies*  
+=================  
+<br/> <br/>
+
+#### Chapter 1: Asset pricing  
+-----------------  
+Estimating risk measures: dispersion (volatility, MAD), skewness, tail risk (VaR, CVaR),  
+Calculating confidence intervals using bootstrap  
+Estimating risk-return performance ratios: Sharpe, Sortino, Calmar, package PerformanceAnalytics,  
+CAPM model: regressions of asset returns, alpha, beta, 
+Deriving the Capital Market Line (CML) and Security Market Line (SML)  
+Beta-adjusted risk-return measures: Treynor ratio, Jensen's alpha,  
+Fundamental factor models: Fama-French, Barra,  
+Statistical factor models: principal component factors  
+Estimating covariance and correlation matrices  
+Applying factor model regularization (shrinkage)  
+<br/> <br/>
+
+
+#### Chapter 2: Forecasting returns and volatility  
+-----------------  
+Models of asset returns: t-distribution, Pareto distribution  
+Performing rolling (running) risk and regression calculations over a sliding interval  
+Calculating rolling aggregations over a sliding interval  
+Forecasting returns and volatility using stochastic volatility models: CEV, GARCH, Heston, 
+Calibrating the forecasting model parameters to maximize forecasting performance  
+Forecasting returns using value, size, and momentum factors  
+Forecasting returns using the momentum factor and volatility  
+Measuring forecastability using the Hurst exponent  
+Performing rolling PCA analysis over a sliding interval  
+Constructing highly forecastable portfolios  
+<br/> <br/>
+
+
+#### Chapter 3: Backtesting techniques (cross-validation)  
+-----------------  
+Performing cross-validation (backtesting) of forecasting models  
+Creating heatmaps of model parameters using expand.grid  
+Performing grid search of model parameters on heatmap  
+Using random model parameters to determine worst case losses  
+Using data resampling to determine distribution of possible future model performance  
+Performing regularization of model parameters to control overfitting  
+Backtesting with quantile optimization  
+Controlling data snooping (leaking)  
+Controlling data mining (significance inflation, multiple testing) and the false discovery rate using the Bonferroni method and Sidak correction  
+Performing metaparameter selection: lookback window, forecast horizon, and rebalancing frequency  
+Controlling metaparameter data mining to decrease false-discovery rate  
+<br/> <br/>
+
+
+#### Chapter 4: Portfolio optimization  
+-----------------  
+Estimating covariance and correlation matrices  
+Calculating correlation coefficient uncertainty using bootstrap  
+Performing correlation matrix shrinkage  
+Optimizing portfolios under different correlation assumptions  
+Calculating optimal portfolio uncertainty using bootstrap  
+Performing constrained portfolio optimization with weight shrinkage  
+Constructing efficient frontier portfolios  
+Proporties of the Market Portfolio under the CAPM model  
+Optimizing portfolios under different asset constraints and objective functions  
+<br/> <br/>
+
+
+#### Chapter 5: Active investment strategies  
+-----------------  
+Simulating the terminal distribution of stock prices  
+Comparing performance of equal-weighted and cap-weighted stock indexes  
+Performing single-period portfolio selection  
+Simulating passive asset allocation strategies: all weather, dollar parity, risk parity, portfolio rebalancing, CPPI, minimum variance, low beta,  
+Simulating dynamic investment and consumption strategies  
+Simulating smart beta and factor investing strategies  
+Benchmarking portfolio management skill using random portfolios  
+Performing rolling portfolio optimization over a sliding interval  
+Measuring out-of-sample performance of optimized portfolios  
+Simulating active investment strategies: beta rotation, momentum, tactical asset allocation, 
+Performing performance attribution of investment strategies  
+Measuring manager market timing skill  
+Benchmarking portfolio management skill using random investment choices  
+Determining stop-loss policy parameters using sequential hypothesis testing  
+<br/> <br/>

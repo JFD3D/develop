@@ -1,0 +1,272 @@
+############
+# ToDo list in C:\Develop
+
+### everyday tasks to-do
+
+# Key Link signup
+
+# BofA set email for Oksana
+
+# Change Verizon primary email to dirac2010@gmail.com
+
+# Jonnett email about TA for DataCamp
+
+# request 2015 NYU check
+
+# pay master Bruce
+
+# verify NYU tax withholding amounts
+
+
+###########
+### explore
+
+Internal and Primitive Functions
+internal C functions 
+
+http://www.zerohedge.com/news/2013-09-27/when-bubbles-fail-albert-edwards-what-happens-when-fed-can-no-longer-contain-fury-99
+http://www.zerohedge.com/news/2013-09-13/bernankes-helicopter-warming-larry-summers-first-pilot
+
+# interview with Jim Simons
+https://www.youtube.com/watch?v=U5kIdtMJGc8
+
+
+###########
+### tasks NYU to-do
+
+- [ ] Arman first steps:
+I spoke with professor Barry Blecherman about your capstone project
+need to apply to professor Agnes Tourin in October
+send updated script: load design matrix and roll pca
+ask Arman to create project repository
+what do I need to install?
+
+- [ ] get student to create DataCamp courses
+
+- [ ] obtain Professional Development grant
+
+- [ ] apply for Professional Development Funds  
+
+- [ ] apply for Professional Development Funds  
+
+
+
+###########
+### tasks NYU teaching to-do
+
+- [ ] invite winners to course
+http://engineering.nyu.edu/news/2015/12/21/triumphs-trading
+
+- [ ] ask Barry to waive prerequisite FRE6123 for FRE7241
+
+- [ ] ask students to take Datacamp courses
+
+- [ ] take Portfolio Analysis Datacamp course  
+
+- [ ] upload to NYU Classes: Gandrud book Reproducible Research with R and RStudio.pdf
+
+- [ ] ask students to answer question on stackoverflow
+
+- [ ] ask students to publish in R Markdown on rpubs
+
+- [ ] ask students to publish their plotly interactive plots on plotly
+
+- [ ] ask students to publish their CV in R Markdown on GitHub Pages
+https://plot.ly/r/github-getting-started-for-data-scientists/
+
+- [x] Create LinkedIn group for jobs for students
+
+- [x] Send email invitation to LinkedIn group for jobs for students
+
+- [x] give names to students: Joe Pimbley, Naresh, Ken Walker	kwalker@newoak.com
+	Jonathan Stein	jstein@hess.com
+
+- [ ] create Datacamp courses - developed by Filip Schouwenaars and Vincent Vankrunkelsven  
+martijn.theuwissen@datacamp.com
+https://github.com/filipsch
+https://github.com/vincentvankrunkelsven
+https://www.datacamp.com/teach/
+https://www.datacamp.com/community/
+https://www.datacamp.com/community/blog/create-your-own-r-tutorials-with-github-datacamp
+https://www.datacamp.com/community/blog/building-your-own-datacamp-course-with-github
+https://github.com/datacamp/datacamp-light
+# create new branches of courses
+https://www.datacamp.com/teach/documentation#tab_repository_overview
+# legacy datacamp R package
+https://github.com/datacamp/datacamp
+
+- [ ] create datacamp group  
+https://www.datacamp.com/groups/business
+
+
+
+###########
+### tasks quant models to-do
+
+- [ ] create github repository develop
+
+- [ ] read Norman Matloff book Parallel Computing for Data Science in R C++ and CUDA
+VitalSource book reader
+https://www.vitalsource.com/
+jp3900@nyu.edu
+Tw!nkle16
+
+- [ ] create simple example using package RcppRoll
+Kevin Ushey packages RcppRoll and RcppParallel
+https://github.com/kevinushey/RcppRoll
+https://kevinushey.github.io/
+
+- [ ] create simple example using package RcppParallel
+Kevin Ushey packages RcppRoll and RcppParallel
+https://github.com/kevinushey/RcppRoll
+https://kevinushey.github.io/
+
+- [ ] PCA and regression analysis
+https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
+https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/
+https://www.analyticsvidhya.com/blog/2016/07/making-predictions-test-data-principal-component-analysis/
+https://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/
+
+- [ ] Jason Foster package roll
+https://cran.r-project.org/web/packages/roll/index.html
+https://github.com/jjf234/roll
+
+- [ ] create .Rmd document for analyzing periods around volatility spikes
+
+- [x] create interaction terms from most significant factors in design matrix
+
+- [x] select only those design matrix columns that are most significant
+
+- [x] apply function roll::roll_scale() to normalize (demean and standardize) the design matrix using past data 
+apply rolling dimensional reduction (PCA)
+http://quant.stackexchange.com/questions/7921/how-to-normalize-technical-indicators-for-machine-learning
+http://quant.stackexchange.com/questions/4434/gradient-tree-boosting-do-input-attributes-need-to-be-scaled
+
+- [x] create design matrix called SPY_design containing multiple columns of aggregations using package HighFreq
+use differences of volume, variance, and skew  
+
+- [x] develop forecasting model using principal component regressions (PCR)
+
+- [ ] create forecasting model using LASSO 
+https://gist.github.com/alexchinco/467325abbf11d5c8f565
+http://www.alexchinco.com/using-the-lasso-to-forecast-returns/
+https://quantmacro.wordpress.com/2016/04/26/fitting-elastic-net-model-in-r/
+https://quantmacro.wordpress.com/2016/01/07/lasso-model-example-lmes-aluminium-futures-price/
+
+- [ ] develop backtesting system as follows:
+create forecasting model: produce xts of forecasts
+create learning meta-model: adjust parameters of forecasting model
+https://timtrice.github.io/backtesting-strategies/
+
+- [ ] apply package kernlab for Support Vector Machines
+
+- [ ] analyze Feng Zhang backtest project
+
+- [ ] analyze Fan Wang projects
+C:\Lecturing and Conferences\Polytech\recruit\Fan Wang projects\Momentum
+C:\Lecturing and Conferences\Polytech\recruit\Fan Wang projects\Stat Arb
+C:\Lecturing and Conferences\Polytech\recruit\Fan Wang projects\Text Mining
+
+- [ ] adapt code from: investment_strategies.Rnw
+
+- [ ] implement Constrained Critical Line Algorithm
+http://rnfc.org/2015/06/05/Markowitz/
+
+- [ ] create data project called high_freq_data, using ProjectTemplate for importing WRDS data
+http://projecttemplate.net/
+http://blog.rtwilson.com/in-praise-of-projecttemplate-for-reproducible-research/
+# ProjectTemplate/Markdown/RStudio/knitr Routine
+http://nksbarker.blogspot.com/2013/07/my-projecttemplatemarkdownrstudioknitr.html
+# Customising ProjectTemplate in R
+http://jeromyanglim.blogspot.com/2014/05/customising-projecttemplate-in-r.html
+https://github.com/johnmyleswhite/ProjectTemplate
+
+- [ ] introduce unit testing to all packages  
+https://github.com/hadley/testthat
+https://rpubs.com/manishb/t345
+https://cartesianfaith.com/2016/06/30/how-to-write-good-tests-in-r/
+
+- [ ] implement simple Shiny app and take tutorial  
+http://shiny.rstudio.com/
+http://rmarkdown.rstudio.com/authoring_shiny.html
+http://shiny.rstudio.com/articles/
+
+- [ ] create simple ggvis  
+https://github.com/rstudio/ggvis
+http://patilv.github.io/Interactive-Anscombe-Viz/
+http://blog.ouseful.info/2011/08/30/the-visual-difference-%E2%80%93-r-and-anscombe%E2%80%99s-quartet/
+
+- [ ] set up RSS reader  
+
+- [ ] contribute to: 
+https://bl.ocks.org/
+https://bl.ocks.org/mbostock/1353700
+
+- [ ] create R notebook  
+http://data-steve.github.io/setting-up-r-notebook/
+
+- [ ] publish interactive plots on rpubs
+https://rpubs.com/
+
+- [ ] demonstrate how to run R from Google sheets and Excel: package excel.link  
+https://cran.r-project.org/web/packages/excel.link/vignettes/CallingRFromExcel.html
+https://www.linkedin.com/pulse/integrating-r-solutions-excel-russ-penlington
+http://stackoverflow.com/questions/11597626/running-r-scripts-from-vba
+http://stackoverflow.com/questions/19170237/running-r-from-excel-vba-without-rexcel
+http://sharpstatistics.co.uk/stats/more-than-macros/
+http://sharpstatistics.co.uk/sharp-r/
+http://blog.revolutionanalytics.com/2015/09/using-the-googlesheets-package-to-work-with-google-sheets.html
+
+- [ ] read  
+https://www.quandl.com/blog/interview-with-a-quant-part-one
+https://www.quandl.com/blog/interview-with-a-quant-part-two
+https://www.quandl.com/blog/interview-with-a-quant-part-three
+
+- [ ] write SSRN paper and send emails to:  
+Keren Shen, The University of Hong Kong
+
+- [ ] 
+https://about.me/
+
+- [ ] 
+http://metacademy.org/
+
+- [ ] H2O prediction engine, sponsored by Stephen Boyd, Rob Tibshirani, Trevor Hastie
+http://0xdata.com/
+
+- [ ] 
+https://www.instapaper.com/
+
+- [ ] Pocket for Chrome
+https://getpocket.com/
+
+- [ ] create weekly development diary
+
+- [ ] study tenor (maturity) dependence of mean, variance, skewness, and kurtosis
+show that skewness and kurtosis decay with time
+
+- [ ] calculate tail shape of return frequency distribution and demonstrate power law
+
+- [x] analyze code in functions:
+	rmOutliers
+	loadInstruments
+	getSymbols.FI - done
+
+- [x] adopt .Rdata file and directory conventions
+
+- [x] analyze code in:
+	scripts_hist.R - done
+	Rhistory 07-12-14.txt - done
+	copy anything useful and then delete files - done
+
+
+###########
+### tasks finished
+
+- [x] install Ruby devkit  
+
+- [x] install gcc  
+
+- [x] create IB account  
+
+
